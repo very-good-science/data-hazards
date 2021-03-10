@@ -19,6 +19,6 @@ Ideas to put in:
   - We got help from social scientists to consider what types of hazards have a good coverage of negative impacts, e.g. environmental, hazardous to human health, reinforces inequity, harmful to the implementer.
   - We got an artist to design them.
 - How it works
-  - Test out by consulting social scientists (Bristol Digital Futures Institute? Brigstow Institute?), who are then ackknowledged on the paper. Similar to statistical consulting (a la Ask-JGI) for seedcorn funding.
+  - Test out by consulting social scientists (Bristol Digital Futures Institute? Brigstow Institute?), who are then ackknowledged on the data science papers that they consult on, similar to statistical consulting (a la Ask-JGI) for seedcorn funding. (To be clear, I am imagining they would be authors on the data hazards paper).
   - Must show the hazard label when you present (condition of funding) and when you publish. We provide a statement to help people interpret it.
   - If you want to do this, then this is how to join in as a social scientist/philosopher/historian, and this is how to do this as a data scientist (maybe we could have a properly ethical review panel set up).
