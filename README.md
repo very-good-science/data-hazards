@@ -16,7 +16,7 @@ Ideas to put in:
 - The labels themselves.
   - There is a finite number of them. This is to make the task of auditing easier (like chemicals, like ethical review tick boxes) and more importantly, the task of understanding the audit easier.
   - This is not a substitute for a detailed consideration. It is in addition to the existing work that is happening.
-  - We got help from social scientists to consider what types of hazards have a good coverage of negative impacts, e.g. environmental, hazardous to human health, reinforces inequity.
+  - We got help from social scientists to consider what types of hazards have a good coverage of negative impacts, e.g. environmental, hazardous to human health, reinforces inequity, harmful to the implementer.
   - We got an artist to design them.
 - How it works
   - Test out by consulting social scientists (Bristol Digital Futures Institute? Brigstow Institute?), who are then ackknowledged on the paper. Similar to statistical consulting (a la Ask-JGI) for seedcorn funding.
