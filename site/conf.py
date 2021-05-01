@@ -30,7 +30,8 @@ release = 'v0.0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['myst_nb'
+extensions = ['myst_nb',
+              'sphinx_panels',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -60,6 +61,7 @@ html_theme_options = {
 
 html_sidebars = {
     'index': [],
+    'contents/materials/workshop/data-hazards': [],
 }
 
 
