@@ -1,0 +1,327 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Data Hazard labels &#8212; Data Hazards v0.0.1 documentation</title>
+    
+  <link href="../../../_static/css/theme.css" rel="stylesheet" />
+  <link href="../../../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+
+    
+  <link rel="stylesheet"
+    href="../../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../../../_static/basic.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../../../_static/js/index.1c5a1a01449ed65a7b51.js">
+
+    <script id="documentation_options" data-url_root="../../../" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/jquery.js"></script>
+    <script src="../../../_static/underscore.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script src="../../../_static/togglebutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Proposal" href="../misc/proposal.html" />
+    <link rel="prev" title="Materials" href="../../exercises.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+    <nav class="navbar navbar-light navbar-expand-lg bg-light fixed-top bd-navbar" id="navbar-main"><div class="container-xl">
+
+  <div id="navbar-start">
+    
+    
+<a class="navbar-brand" href="../../../index.html">
+<p class="title">Data Hazards</p>
+</a>
+
+    
+  </div>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapsible" aria-controls="navbar-collapsible" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  
+  <div id="navbar-collapsible" class="col-lg-9 collapse navbar-collapse">
+    <div id="navbar-center" class="mr-auto">
+      
+      <div class="navbar-center-item">
+        <ul id="navbar-main-elements" class="navbar-nav">
+    <li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../../upcoming-events.html">
+  Upcoming events
+ </a>
+</li>
+
+<li class="toctree-l1 current active nav-item">
+ <a class="reference internal nav-link" href="../../exercises.html">
+  Materials
+ </a>
+</li>
+
+    
+</ul>
+      </div>
+      
+    </div>
+
+    <div id="navbar-end">
+      
+      <div class="navbar-end-item">
+        <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
+        <li class="nav-item">
+          <a class="nav-link" href="https://github.com/very-good-science/data-hazards" rel="noopener" target="_blank" title="GitHub">
+            <span><i class="fab fa-github-square"></i></span>
+            <label class="sr-only">GitHub</label>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://twitter.com/hashtag/DataEthicsClub" rel="noopener" target="_blank" title="Twitter">
+            <span><i class="fab fa-twitter-square"></i></span>
+            <label class="sr-only">Twitter</label>
+          </a>
+        </li>
+      </ul>
+      </div>
+      
+    </div>
+  </div>
+</div>
+    </nav>
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+            
+            <div class="col-12 col-md-1 col-xl-2 bd-sidebar no-sidebar"></div>
+            
+          
+
+          
+          <div class="d-none d-xl-block col-xl-2 bd-toc">
+            
+              
+              <div class="toc-item">
+                
+
+<nav id="bd-toc-nav">
+    
+</nav>
+              </div>
+              
+              <div class="toc-item">
+                
+              </div>
+              
+            
+          </div>
+          
+
+          
+          
+            
+          
+          <main class="col-12 col-md-11 col-xl-8 py-md-5 pl-md-5 pr-md-4 bd-content" role="main">
+              
+              <div>
+                
+  <div class="section" id="data-hazard-labels">
+<h1>Data Hazard labels<a class="headerlink" href="#data-hazard-labels" title="Permalink to this headline">¶</a></h1>
+<p>This page contains the Data Hazard labels themselves.
+These labels, descriptions, examples, and safety precautions will evolve as we develop the hazard labels with the communities who will use them.
+We welcome you to suggest changes via <a class="reference external" href="mailto:grp-ethicaldatascience&#37;&#52;&#48;groups&#46;bristol&#46;ac&#46;uk">email</a> or <a class="reference external" href="https://github.com/very-good-science/data-hazards">GitHub</a>.</p>
+<p>Each hazard has:</p>
+<ul class="simple">
+<li><p><strong>Hazard</strong> image, title, and description which represents and describes the risk.</p></li>
+<li><p><strong>Examples</strong> to clarify what the hazard covers.</p></li>
+<li><p><strong>Safety Precautions</strong> - things that we would want to see done <strong>before</strong> the research is deployed.</p></li>
+</ul>
+<div class="sphinx-bs container-fluid docutils">
+<div class="row docutils">
+<div class="d-flex col-4 p-3 docutils">
+<div class="card w-100 shadow docutils">
+<img alt="img-top" class="card-img-top p-3 bg-warning" src="../../../_images/general-hazard.png" />
+<div class="card-header bg-warning docutils">
+<p class="card-text"><strong>Hazard: Data Hazard</strong></p>
+<p class="card-text">Data Science is being used in this output, and any negative outcome of using this work are not the fault of “the algorithm” or “the software”.</p>
+<p class="card-text">This hazard applies to <strong>all</strong> Data Science research outputs.</p>
+</div>
+<div class="card-body bg-warning docutils">
+<p class="card-text">All other Data Hazard examples could feature as examples here.</p>
+</div>
+<div class="card-footer bg-warning docutils">
+<p class="card-text"><strong>Safety Precautions:</strong></p>
+<ul class="simple">
+<li><p class="card-text">Users of this work should be informed that <strong>the repsonsibility for using this work responsibly and ethically, lies with each person who impliments it in a project or product.</strong></p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-4 p-3 docutils">
+<div class="card w-100 shadow docutils">
+<img alt="img-top" class="card-img-top p-3 bg-warning" src="../../../_images/reinforce-bias.png" />
+<div class="card-header bg-warning docutils">
+<p class="card-text"><strong>Hazard: Reinforces existing biases</strong></p>
+<p class="card-text">Reinforces unfair treatment of individuals. This may be due to for example input data, algorithm or software design choices, or society at large.</p>
+<p class="card-text"><strong>Note:</strong> this is a hazard in it’s own right, even if it isn’t then used to harm people directly, due to e.g. reinforcing stereotypes.</p>
+</div>
+<div class="card-body bg-warning docutils">
+<p class="card-text"><strong>Example 1</strong>: <a class="reference external" href="https://arxiv.org/abs/1607.06520">Natural Language Processing tools can reinforce sexist tropes about women</a>.</p>
+</div>
+<div class="card-footer bg-warning docutils">
+<p class="card-text"><strong>Safety Precautions:</strong></p>
+<ul class="simple">
+<li><p class="card-text">Test the effect of the algorithm for different marginalised groups, considering different definitions of <span class="xref myst">bias</span> and <span class="xref myst">fairness</span>.</p></li>
+<li><p class="card-text">Think about the input data, what intrinsic bias it contains, and how this can be reduced (for example by having a more representative data set).</p></li>
+<li><p class="card-text">Think about the bias of the algorithm, what intrinsic bias it contains, and how this can be reduced.</p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-4 p-3 docutils">
+<div class="card w-100 shadow docutils">
+<img alt="img-top" class="card-img-top p-3 bg-warning" src="../../../_images/classifies-people.png" />
+<div class="card-header bg-warning docutils">
+<p class="card-text"><strong>Hazard: Ranks or classifies people:</strong></p>
+<p class="card-text">Ranking and classifications of people are hazards in their own right and should be handled with care.</p>
+<p class="card-text">To see why, we can think about what happens when the ranking/classification is inaccurate, when people disagree with how they are ranked/classified, as well as who the ranking/classification is and is not working for, how it can be gamed, and what it is used to justify or explain.</p>
+</div>
+<div class="card-body bg-warning docutils">
+<p class="card-text"><strong>Example 1:</strong> <a class="reference external" href="https://www.bbc.co.uk/news/technology-41188560">Facial recognition categorising human images by sexual orientation</a>.</p>
+<p class="card-text"><strong>Example 2:</strong> <a class="reference external" href="https://www.bristol.ac.uk/media-library/sites/cmm/migrated/documents/limitations-of-league-tables.pdf">School league tables</a> (which rank the perfmance of schools).</p>
+</div>
+<div class="card-footer bg-warning docutils">
+<p class="card-text"><strong>Safety Precautions:</strong></p>
+<ul class="simple">
+<li><p class="card-text">Test the effect of the algorithm or technology for different marginalised groups.</p></li>
+<li><p class="card-text">Be transparent about what the weaknesses of the algorithm and technology are: test how can it be fooled.</p></li>
+<li><p class="card-text">Consider alternatives to ranking/classification, for example treating people equally, increasing resources for the issue at hand, or allowing people to self-select.</p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-4 p-3 docutils">
+<div class="card w-100 shadow docutils">
+<img alt="img-top" class="card-img-top p-3 bg-warning" src="../../../_images/environment.png" />
+<div class="card-header bg-warning docutils">
+<p class="card-text"><strong>Hazard: High Environmental Cost</strong></p>
+<p class="card-text">This hazard is appropriate where methodologies are energy-hungry, data-hungry (requireing more and more computation), or require special hardware that require rare materials.</p>
+</div>
+<div class="card-body bg-warning docutils">
+<p class="card-text"><strong>Example 1:</strong> Cryptocurrency requires <a class="reference external" href="https://www.bbc.co.uk/news/technology-56012952">vast energy usage</a></p>
+<p class="card-text"><strong>Example 2:</strong> Language models <a class="reference external" href="http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf">require larger and larger datasets</a></p>
+</div>
+<div class="card-footer bg-warning docutils">
+<p class="card-text"><strong>Safety Precautions:</strong></p>
+<ul class="simple">
+<li><p class="card-text">Consider in what circumstances it is worthwhile to use this type of methodology.</p></li>
+<li><p class="card-text">Consider future work that would reduce the need to use increasingly more resources.</p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-4 p-3 docutils">
+<div class="card w-100 shadow docutils">
+<img alt="img-top" class="card-img-top p-3 bg-warning" src="../../../_images/ignores-opposes-needs.png" />
+<div class="card-header bg-warning docutils">
+<p class="card-text"><strong>Hazard: Ignores or opposes needs</strong>
+This includes the hazard of the technology/method not working for a certain group, as well as the hazard of the work being against the wishes of a community that it is supposed to serve.</p>
+</div>
+<div class="card-body bg-warning docutils">
+<p class="card-text"><strong>Example 1:</strong> Research into cures for Autism generally (<a class="reference external" href="https://www.theguardian.com/commentisfree/2009/jan/14/autism-health">which are not wanted by Austistic people</a>).</p>
+<p class="card-text"><strong>Example 2:</strong> <a class="reference external" href="https://metro.co.uk/2017/07/13/racist-soap-dispensers-dont-work-for-black-people-6775909/">Automated soap dispensers that do not work for black people</a></p>
+</div>
+<div class="card-footer bg-warning docutils">
+<p class="card-text"><strong>Safety Precautions:</strong></p>
+<ul class="simple">
+<li><p class="card-text">Ask the people who the works is about if they want this kind of solution, and co-create or <a class="reference external" href="https://www.youtube.com/watch?v=6XF0GFDYw3E">co-produce</a> research with them as partners.</p></li>
+<li><p class="card-text">Test the effect of the algorithm or technology for different marginalised groups.</p></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="d-flex col-4 p-3 docutils">
+<div class="card w-100 shadow docutils">
+<img alt="img-top" class="card-img-top p-3 bg-warning" src="../../../_images/misuse.png" />
+<div class="card-header bg-warning docutils">
+<p class="card-text"><strong>Hazard: Danger of misuse</strong>
+There is a danger of misusing the algorithm, technology, or data collected as part of this work.</p>
+</div>
+<div class="card-body bg-warning docutils">
+<p class="card-text"><strong>Example 1:</strong> Statistical method to do impossible tasks, for example <span class="xref myst">predicting future human behaviour</span>.</p>
+<p class="card-text"><strong>Example 2:</strong> The collection of a large data set of individuals, which could be hacked, or used for other purposes.</p>
+</div>
+<div class="card-footer bg-warning docutils">
+<p class="card-text"><strong>Safety Precautions:</strong></p>
+<ul class="simple">
+<li><p class="card-text">Write clear instructions about in what circumstances the algorithm/technology will work or give valid answers and present these wherever the work is presented.</p></li>
+<li><p class="card-text">If work is piloted outside of this context, it must be re-tested.</p></li>
+<li><p class="card-text">Follow data governance guidelines.</p></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--
+__Example 2__: Twitter's algorithm to choose the relevant part of an image [consistently chooses to crop out black faces instead of white faces](https://www.theguardian.com/technology/2020/sep/21/twitter-apologises-for-racist-image-cropping-algorithm).
+--></div>
+
+
+              </div>
+              
+              
+          </main>
+          
+
+      </div>
+    </div>
+  
+  <script src="../../../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+
+  <footer class="footer mt-5 mt-md-0">
+  <div class="container">
+    
+    <div class="footer-item">
+      <p class="copyright">
+    &copy; Copyright 2021, Natalie Thurlby and Nina Di Cara.<br/>
+</p>
+    </div>
+    
+    <div class="footer-item">
+      <p class="sphinx-version">
+Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.5.4.<br/>
+</p>
+    </div>
+    
+  </div>
+</footer>
+  </body>
+</html>
