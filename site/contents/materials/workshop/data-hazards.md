@@ -22,13 +22,11 @@ Each hazard has:
 :body: bg-warning 
 :footer: bg-warning 
 
-
----
 :img-top: /images/hazards/general-hazard.png
 
 __Hazard: Data Hazard__
 
-Data Science is being used in this output, and any negative outcome of using this work are not the fault of "the algorithm" or "the software". __The repsonsibility for using this work responsibly and ethically, lies with each person who impliments it in a project or product.__
+Data Science is being used in this output, and any negative outcome of using this work are not the fault of "the algorithm" or "the software". 
 
 This hazard applies to __all__ Data Science research outputs.
 
@@ -38,7 +36,7 @@ All other Data Hazard examples could feature as examples here.
 
 +++
 __Safety Precautions:__
-- 
+-  Users of this work should be informed that __the repsonsibility for using this work responsibly and ethically, lies with each person who impliments it in a project or product.__
 
 ---
 :img-top: /images/hazards/reinforce-bias.png
@@ -59,7 +57,6 @@ __Safety Precautions:__
 - Test the effect of the algorithm for different marginalised groups, considering different definitions of [bias]() and [fairness]().
 - Think about the input data, what intrinsic bias it contains, and how this can be reduced (for example by having a more representative data set).
 - Think about the bias of the algorithm, what intrinsic bias it contains, and how this can be reduced.
-
 
 
 ---
@@ -100,8 +97,8 @@ __Example 2:__ Language models [require larger and larger datasets](http://facul
 __Safety Precautions:__
 - Consider in what circumstances it is worthwhile to use this type of methodology.
 - Consider future work that would reduce the need to use increasingly more resources.
----
 
+---
 :img-top: /images/hazards/ignores-opposes-needs.png
 
 __Hazard: Ignores or opposes needs__
@@ -135,8 +132,6 @@ __Safety Precautions:__
 - Write clear instructions about in what circumstances the algorithm/technology will work or give valid answers and present these wherever the work is presented.
 - If work is piloted outside of this context, it must be re-tested.
 - Follow data governance guidelines.
-
----
 
 
 ````
