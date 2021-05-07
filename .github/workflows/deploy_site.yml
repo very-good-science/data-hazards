@@ -7,6 +7,12 @@ on:
     - main
     paths:
       site/**
+    
+  pull_request:
+    branches: 
+    - main
+    paths:
+      site/**
 
   workflow_dispatch:
 
