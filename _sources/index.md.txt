@@ -110,7 +110,7 @@ __November 2021__ Run second Data Hazards workshop (public and company focused)
 Details TBC
 
 ---
-:column: +entry right
+:column: +entry left
 
 __Early 2022__ Write up Data Hazards paper
 ^^^
