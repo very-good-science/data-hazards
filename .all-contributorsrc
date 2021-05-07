@@ -16,9 +16,9 @@
     }
   ],
   "types": {
-    "otherSupport": {
+    "support": {
       "symbol": "🤝",
-      "description": "Other Support",
+      "description": "Other support: enthusiasm, feedback, introductions, etc",
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   "contributorsPerLine": 7,
