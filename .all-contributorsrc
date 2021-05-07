@@ -15,6 +15,12 @@
       ]
     }
   ],
+  "types": {
+    "custom": {
+      "symbol": "🤝",
+      "description": "Support/Feedback",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
   "contributorsPerLine": 7,
   "projectName": "data-hazards",
   "projectOwner": "very-good-science",
