@@ -17,7 +17,8 @@ Here are some ways to get involved. We would absolutely love your input on the f
 5. Find [GitHub issue][issues] that you know how to solve, and help us with that!
 
 ## *How* to contribute
-[//]: # (TODO: Have a guide here to the way that the website is organised).
+
+[//]: # (TODO: Have a guide here to the way that the website is organised)
 
 We will develop these contribution guidelines as we go, including where to look in this repo for different files and so on.
 For now, they are a little thin, so if you'd like to help please get in touch with us, please [send us an email][dec-email] and we will help you to find what you're looking for!
