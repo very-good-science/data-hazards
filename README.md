@@ -16,6 +16,8 @@ This project is being jointly led by:
 - Natalie Thurlby ([twitter][natalie-twitter], [email][natalie-email])
 - Nina Di Cara ([twitter][nina-twitter], [email][nina-email])
 
+You could consider this project a spin-off of [Data Ethics Club][data-ethics-club].
+
 ## Contributors
 [//]: # (TODO: Add all-contributors table + emoji key)
 
@@ -42,3 +44,4 @@ This project is being jointly led by:
 [natalie-twitter]: https://twitter.com/StatalieT
 [nina-twitter]: https://twitter.com/ninadicara
 [nina-email]: mailto:nina.dicara@bristol.ac.uk
+[data-ethics-club]: https://github.com/very-good-science/data-ethics-club/
