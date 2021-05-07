@@ -17,7 +17,7 @@ We are creating resources to help interdisciplinary researchers and citizens con
 For a full list of our aims and strategies to achieve them, please see [our website][site-home].
 
 ## Contact us
-To hear more about the project or collaborate with us contact us via [email](dec-email).
+To hear more about the project or collaborate with us contact us via [email][dec-email].
 
 This project is being jointly led by:
 - Natalie Thurlby ([twitter][natalie-twitter], [email][natalie-email])
