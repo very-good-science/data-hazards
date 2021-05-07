@@ -1,6 +1,6 @@
 # Data Hazards Project
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Data Ethics Club and the Jean Golding Institute are working with interdisciplinary researchers to create the [Data Hazards Project][site-home]. 
 Please see the [project website][site-home] for the most up-to-date information.
@@ -25,6 +25,7 @@ This project is being jointly led by:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/NatalieThurlby"><img src="https://avatars.githubusercontent.com/u/17617308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>NatalieThurlby</b></sub></a><br /><a href="#projectManagement-NatalieThurlby" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/conorhoughton"><img src="https://avatars.githubusercontent.com/u/6955092?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Conor Houghton</b></sub></a><br /><a href="#fundingFinding-conorhoughton" title="Funding Finding">🔍</a></td>
   </tr>
 </table>
 
