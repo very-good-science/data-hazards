@@ -55,9 +55,11 @@ Here's a rough project timeline to let you know what we'll be up to:
 __March-April 2021__: Behind the scenes plans
 ^^^
 
-- [x] Thinking, reading and planning
-- [x] Writing [proposal](site/contents/materials/misc/proposal.md)
-- [x] Getting feedback on initial ideas
+{fa}`check,text-success mr-1` Thinking, reading and planning
+
+{fa}`check,text-success mr-1` Writing [proposal](site/contents/materials/misc/proposal.md)
+
+{fa}`check,text-success mr-1` Getting feedback on initial ideas
 
 ---
 :column: +entry left
@@ -65,13 +67,16 @@ __March-April 2021__: Behind the scenes plans
 __May 2021__: Prepare for first Data Hazards workshop 
 ^^^
 
-- [x] Get website online
-- [x] Submit ethics application 
-- [x] Get initial feedback on Data Hazards labels 
-- [ ] Draft workshop materials
-- [ ] Set up Open Science Framework and preregister analysis
-- [ ] Get feedback on workshop materials
-- [ ] Begin advertising workshop 
+{fa}`check,text-success mr-1` Get website online
+
+{fa}`check,text-success mr-1` Submit ethics application 
+
+{fa}`check,text-success mr-1` Get initial feedback on Data Hazards labels 
+
+- Draft workshop materials
+- Set up Open Science Framework and preregister analysis
+- Get feedback on workshop materials
+- Begin advertising workshop 
 
 ---
 :column: +right
@@ -84,7 +89,7 @@ __May 2021__: Prepare for first Data Hazards workshop
 __June 2021__ Run first Data Hazards workshops (academic-focused)
 ^^^
 
-- [ ] Run first Data Hazards workshop as part of [JGI Data Week](https://www.bristol.ac.uk/golding/get-involved/data-week-online-2021/)
+- Run first Data Hazards workshop as part of [JGI Data Week](https://www.bristol.ac.uk/golding/get-involved/data-week-online-2021/)
 
 ---
 :column: +entry left
@@ -93,9 +98,9 @@ __July 2021__ Use workshop feedback to improve data hazards
 
 ^^^
 
-- [ ] Look at workshop feedback to make improvements to:
-    - [ ] data hazards labels
-    - [ ] workshop exercises/materials
+- Look at workshop feedback to make improvements to:
+    - data hazards labels
+    - workshop exercises/materials
 
 ---
 :column: +right
