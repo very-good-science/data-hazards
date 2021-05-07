@@ -18,7 +18,7 @@
   "types": {
     "custom": {
       "symbol": "🤝",
-      "description": "Support/Feedback",
+      "description": "Other Support",
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   "contributorsPerLine": 7,
