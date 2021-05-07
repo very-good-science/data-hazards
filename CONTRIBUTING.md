@@ -7,10 +7,10 @@ Your help is very valuable: to get a handle on the ethical implications of Data 
 ## *Types* of contribution
 Here are some ways to get involved. We would absolutely love your input on the following:
 1. Feedback on our [Data Hazard Labels](https://very-good-science.github.io/data-hazards/contents/materials/workshop/data-hazards.html), we accept suggestions through Issues and Pull Requests✨ here on GitHub, or via [email][dec-email]. For example you might suggest:
-  - Ways of rewording Data Hazard Label descriptions or titles.
-  - New examples of Data Hazards.
-  - New/updated "Safety Precautions" (ways of combatting Data Hazards).
-  - Ideas for new Data Hazards.
+    - Ways of rewording Data Hazard Label descriptions or titles.
+    - New examples of Data Hazards.
+    - New/updated "Safety Precautions" (ways of combatting Data Hazards).
+    - Ideas for new Data Hazards.
 2. Join one of [upcoming workshops](https://very-good-science.github.io/data-hazards/contents/upcoming-events.html) or (in development) asynchonous mailing lists to provide Data Hazards reviews on different projects.
 3. Contribute to any of our [workshop materials](https://very-good-science.github.io/data-hazards/contents/exercises.html) - or ideas for new materials (open an issue or  [email us][dec-email]).
 4. Use the Data Hazards materials to reflect on your own work and contribute this as an example to help other people use the 
