@@ -2,6 +2,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+![Image of a Data Hazard Label, similar to a COSSH hazard label, with text "Data Science Hazard"](site/images/hazards/general-hazard.png)
+
 Data Ethics Club and the Jean Golding Institute are working with interdisciplinary researchers to create the [Data Hazards Project][site-home]. 
 Please see the [project website][site-home] for the most up-to-date information.
 
