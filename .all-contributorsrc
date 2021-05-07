@@ -21,7 +21,7 @@
       "description": "Other support: enthusiasm, feedback, introductions, etc",
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
-  }
+  },
   "contributorsPerLine": 7,
   "projectName": "data-hazards",
   "projectOwner": "very-good-science",
