@@ -13,6 +13,15 @@
       "contributions": [
         "projectManagement"
       ]
+    },
+    {
+      "login": "conorhoughton",
+      "name": "Conor Houghton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6955092?v=4",
+      "profile": "https://github.com/conorhoughton",
+      "contributions": [
+        "fundingFinding"
+      ]
     }
   ],
   "types": {
