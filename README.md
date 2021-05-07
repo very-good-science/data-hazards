@@ -26,7 +26,9 @@ This project is being jointly led by:
 You could consider this project a spin-off of [Data Ethics Club][data-ethics-club].
 
 ## Contributors
-[//]: # (TODO: Add all-contributors table + emoji key)
+[//]: # (TODO: Add custom emoji key)
+We use the all-contributors specification to celebrate all contributors to this project. 
+[Emoji key here](https://allcontributors.org/docs/en/emoji-key)!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
