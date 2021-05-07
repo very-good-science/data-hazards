@@ -1,6 +1,6 @@
 # Data Hazards Project
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Data Ethics Club and the Jean Golding Institute are working with interdisciplinary researchers to create the [Data Hazards Project][site-home]. 
 Please see the [project website][site-home] for the most up-to-date information.
@@ -26,6 +26,7 @@ This project is being jointly led by:
   <tr>
     <td align="center"><a href="https://github.com/NatalieThurlby"><img src="https://avatars.githubusercontent.com/u/17617308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>NatalieThurlby</b></sub></a><br /><a href="#projectManagement-NatalieThurlby" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/conorhoughton"><img src="https://avatars.githubusercontent.com/u/6955092?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Conor Houghton</b></sub></a><br /><a href="#fundingFinding-conorhoughton" title="Funding Finding">🔍</a></td>
+    <td align="center"><a href="https://github.com/ninadicara"><img src="https://avatars.githubusercontent.com/u/44364127?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nina</b></sub></a><br /><a href="#projectManagement-ninadicara" title="Project Management">📆</a> <a href="#ideas-ninadicara" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-ninadicara" title="Event Organizing">📋</a> <a href="#maintenance-ninadicara" title="Maintenance">🚧</a> <a href="#a11y-ninadicara" title="Accessibility">️️️️♿️</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=ninadicara" title="Documentation">📖</a></td>
   </tr>
 </table>
 
