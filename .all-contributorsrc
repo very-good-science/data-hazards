@@ -16,7 +16,7 @@
     }
   ],
   "types": {
-    "custom": {
+    "otherSupport": {
       "symbol": "🤝",
       "description": "Other Support",
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
