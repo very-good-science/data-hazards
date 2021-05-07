@@ -30,6 +30,8 @@ You could consider this project a spin-off of [Data Ethics Club][data-ethics-clu
 We use the all-contributors specification to celebrate all contributors to this project. 
 [Emoji key here](https://allcontributors.org/docs/en/emoji-key)!
 
+If you'd like to join us as a contributor, check out our [contributor's guide](https://github.com/very-good-science/data-hazards/blob/main/CONTRIBUTING.md) for ways to get involved.
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
