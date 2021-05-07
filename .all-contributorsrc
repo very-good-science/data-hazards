@@ -42,6 +42,15 @@
         "a11y",
         "doc"
       ]
+    },
+    {
+      "login": "leriomaggio",
+      "name": "Valerio Maggio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1908453?v=4",
+      "profile": "http://dynamicgenetics.org",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "types": {
