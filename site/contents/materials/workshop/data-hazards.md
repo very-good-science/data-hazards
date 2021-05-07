@@ -11,6 +11,8 @@ Each hazard has:
 - __Examples__ to clarify what the hazard covers.
 - __Safety Precautions__ - things that we would want to see done **before** the research is deployed.
 
+They are designed to help us think about the different types of hazards
+
 [//]: # (TODO: Add 2 examples for each hazard - with a link if possible)
 [//]: # (TODO: Add safety precautions for each hazard - with a link if possible.)
 
@@ -133,7 +135,41 @@ __Safety Precautions:__
 - If work is piloted outside of this context, it must be re-tested.
 - Follow data governance guidelines.
 
+---
+:img-top: /images/hazards/difficult-to-understand.png
 
+__Hazard: Difficult to understand__
+There is a danger that the technology is difficult to understand. 
+This could be because of the technology itself is hard to interpret (e.g. neural nets), or it's implementation (i.e. code is hidden and we are not allowed to see exactly what it is doing).
+
+Depending on the circumstances of it's use, this could mean that incorrect results are hard to identify, or that the technology is inaccessible to people (difficult to implement or use).
+
+^^^
+
+__Example 1:__ Google does not make code available for many projects, from it's DeepMind AlphaFold [protein-folding research](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) to its' [Search Engine algorithms](https://www.searchenginejournal.com/google-algorithm-history/).
+
+__Example 2:__ Deep learning is used to perform [credit-scoring](https://www.moodysanalytics.com/risk-perspectives-magazine/managing-disruption/spotlight/machine-learning-challenges-lessons-and-opportunities-in-credit-risk-modeling) (i.e. could deny people credit), but it is difficult to understand (and therefore check) what these decisions are based on.
+
++++
+__Safety Precautions:__
+- Make research code Open Source with [an appropriate software license](https://choosealicense.com/) where possible. Your local [Research Software Engineering](https://society-rse.org/) group may be able to help you with this.
+- Compare results to white box (explainable) methods such as [Random Forest](https://en.wikipedia.org/wiki/Random_forest) or [Regression](https://en.wikipedia.org/wiki/Regression_analysis), which may perform just as well. 
+
+---
+:img-top: /images/hazards/direct-harm.png
+
+__Hazard: May cause direct harm__
+The application area of this technology means that it is capable of causing direct physical harm to someone, e.g. healthcare, driverless vehicles.
+
+^^^
+
+__Example 1:__ Software running on driverless cars can fail, allowing the car to crash, which can injure or [kill](https://www.nytimes.com/2021/04/18/business/tesla-fatal-crash-texas.html) [people](https://www.bbc.co.uk/news/technology-54175359).
+
+__Example 2:__ If research used as evidence for a clinical trial contained mistakes that undermined the results, this would   
+
++++
+__Safety Precautions:__
+- It is even more important that work of this nature is well-tested and that any "bugs" (mistakes in software) are found.  
 ````
 
 [//]: # (TODO: Add below for doesn't work)
