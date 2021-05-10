@@ -18,7 +18,7 @@ They are designed to help us think about the different types of hazards
 
 ````{panels}
 :container: container-fluid
-:column: col-4 p-3
+:column: col-6 p-3
 :img-top-cls: p-3 bg-warning
 :header: bg-warning
 :body: bg-warning 
