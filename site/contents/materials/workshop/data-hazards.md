@@ -80,6 +80,7 @@ __Example 2:__ [School league tables](https://www.bristol.ac.uk/media-library/si
 +++
 __Safety Precautions:__
 - Test the effect of the algorithm or technology for different marginalised groups. 
+- Carefully consider the validity of any classification groups and work with subject specialists from the application area on this. 
 - Be transparent about what the weaknesses of the algorithm and technology are: test how can it be fooled. 
 - Consider alternatives to ranking/classification, for example treating people equally, increasing resources for the issue at hand, or allowing people to self-select.
 
@@ -88,7 +89,7 @@ __Safety Precautions:__
 
 __Hazard: High Environmental Cost__
 
-This hazard is appropriate where methodologies are energy-hungry, data-hungry (requireing more and more computation), or require special hardware that require rare materials. 
+This hazard is appropriate where methodologies are energy-hungry, data-hungry (requiring more and more computation), or require special hardware that require rare materials. 
 
 ^^^
 
@@ -113,10 +114,14 @@ __Example 1:__ Research into cures for Autism generally ([which are not wanted b
 
 __Example 2:__ Samaritan's Radar app highlighted people who may be struggling to cope on Twitter, and was [withdrawn following wide criticism](https://www.samaritans.org/about-samaritans/research-policy/internet-suicide/samaritans-radar/). 
 
+__Example 3:__ [Algorithmic colonisation of Africa](https://script-ed.org/article/algorithmic-colonization-of-africa/)
+
 +++
 __Safety Precautions:__
 - Ask the people who the works is about if they want this kind of solution, and co-create or [co-produce](https://www.youtube.com/watch?v=6XF0GFDYw3E) research with them as partners.
 - Test the effectiveness of the algorithm or technology for different marginalised groups.
+- Consideration of issues of power, consent and trust. 
+
 
 ---
 :img-top: /images/hazards/misuse.png
@@ -143,7 +148,7 @@ __Hazard: Difficult to understand__
 There is a danger that the technology is difficult to understand. 
 This could be because of the technology itself is hard to interpret (e.g. neural nets), or it's implementation (i.e. code is hidden and we are not allowed to see exactly what it is doing).
 
-Depending on the circumstances of it's use, this could mean that incorrect results are hard to identify, or that the technology is inaccessible to people (difficult to implement or use).
+Depending on the circumstances of its use, this could mean that incorrect results are hard to identify, or that the technology is inaccessible to people (difficult to implement or use).
 
 ^^^
 
@@ -166,11 +171,70 @@ The application area of this technology means that it is capable of causing dire
 
 __Example 1:__ Software running on driverless cars can fail, allowing the car to crash, which can injure or [kill](https://www.nytimes.com/2021/04/18/business/tesla-fatal-crash-texas.html) [people](https://www.bbc.co.uk/news/technology-54175359).
 
-__Example 2:__ If research used as evidence for a clinical trial contained mistakes that undermined the results, this would   
+__Example 2:__ AI chatbots, which are becoming more widely used in the medical field, may be used as medication reminders or for triaging services based on need. 
 
 +++
 __Safety Precautions:__
 - It is even more important that work of this nature is well-tested and that any "bugs" (mistakes in software) are found.  
+- Carefully consider acceptable (and likely) margins of error - if no error is acceptable in this use case, then should it be done at all? 
+
+
+---
+:img-top: /images/hazards/privacy.png
+
+__Hazard: Privacy__
+This technology may risk the privacy of individuals whose data is processed by it. 
+
+^^^
+
+__Example 1:__ Facial recognition technologies are a [widely recognised risk to privacy](https://www.nature.com/articles/d41586-020-03187-3). 
+
+__Example 2:__ Apps designed to monitor children's digital activity risk children's privacy, and can be repurposed maliciously as stalkerware.
+
++++
+__Safety Precautions:__
+
+- Ensure there is explicit and well-informed consent from any participants. 
+- Carefully consider the digital and cyber security of data and future inferences.
+
+---
+:img-top: /images/hazards/automates-decision-making.png
+
+__Hazard: Automates decision making__
+Automated decision making can be hazardous for a number of reasons, and these will be highly dependent on the field in which it is being applied. 
+We should ask ourselves whose decisions are being automated, what automation can bring to the process, and who is benefitted/harmed from this automation. 
+
+^^^
+
+__Example 1:__ [Predictive policing](https://www.brennancenter.org/our-work/research-reports/predictive-policing-explained) is used to decide where to deploy officers.
+
+__Example 2:__ Credit scores are produced automatically and rarely involve human input. 
+
++++
+__Safety Precautions:__
+- Inclusion of feedback into the system, so that poor or incorrect decisions are not repeated.
+- Rigorous testing across a broad range of scenarios, and edge cases. This should include those with experience of the domain, and those about whom decisions are being made.
+- Consider human-in-the-loop solutions for higher risk decisions. 
+- Ensure outputs of decision making processes are interpretable. 
+
+---
+:img-top: /images/hazards/lacks-informed-consent.png
+
+__Hazard: Lacks Informed Consent__
+This hazard applies to datasets or algorithms that use data which has not been provided with the explicit consent of the data owner/creator. This data often lacks
+other contextual information which can also make it difficult to understand how the dataset may be biased.
+
+^^^
+
+__Example 1:__ Large public social media datasets rarely collect informed consent from 'participants'. 
+
+__Example 2:__ [Data linkage projects](https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-015-0070-4) tend not to involve informed consent. 
+
++++
+__Safety Precautions:__
+- Being clear about the limitations of any ground truth inferences made from the data.
+- Systems built solely with this type of data should not be applied in practice. 
+
 ````
 
 [//]: # (TODO: Add below for doesn't work)
