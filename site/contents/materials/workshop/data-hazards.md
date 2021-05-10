@@ -45,7 +45,7 @@ __Safety Precautions:__
 
 __Hazard: Reinforces existing biases__
 
-Reinforces unfair treatment of individuals. This may be due to for example input data, algorithm or software design choices, or society at large. 
+Reinforces unfair treatment of individuals and groups. This may be due to for example input data, algorithm or software design choices, or society at large. 
 
 __Note:__ this is a hazard in it's own right, even if it isn't then used to harm people directly, due to e.g. reinforcing stereotypes.
 
@@ -53,6 +53,7 @@ __Note:__ this is a hazard in it's own right, even if it isn't then used to harm
 
 __Example 1__: [Natural Language Processing tools can reinforce sexist tropes about women](https://arxiv.org/abs/1607.06520). 
 
+__Example 2:__ [Automated soap dispensers that do not work for black people](https://metro.co.uk/2017/07/13/racist-soap-dispensers-dont-work-for-black-people-6775909/)
 
 +++
 __Safety Precautions:__
@@ -101,21 +102,21 @@ __Safety Precautions:__
 - Consider future work that would reduce the need to use increasingly more resources.
 
 ---
-:img-top: /images/hazards/ignores-opposes-needs.png
+:img-top: /images/hazards/lacks-community.png
 
-__Hazard: Ignores or opposes needs__
-This includes the hazard of the technology/method not working for a certain group, as well as the hazard of the work being against the wishes of a community that it is supposed to serve.
+__Hazard: Lacks community involvement__
+This applies when technology is being produced without input from the community it is supposed to serve.
 
 ^^^
 
 __Example 1:__ Research into cures for Autism generally ([which are not wanted by Austistic people](https://www.theguardian.com/commentisfree/2009/jan/14/autism-health)).
 
-__Example 2:__ [Automated soap dispensers that do not work for black people](https://metro.co.uk/2017/07/13/racist-soap-dispensers-dont-work-for-black-people-6775909/)
+__Example 2:__ Samaritan's Radar app highlighted people who may be struggling to cope on Twitter, and was [withdrawn following wide criticism](https://www.samaritans.org/about-samaritans/research-policy/internet-suicide/samaritans-radar/). 
 
 +++
 __Safety Precautions:__
 - Ask the people who the works is about if they want this kind of solution, and co-create or [co-produce](https://www.youtube.com/watch?v=6XF0GFDYw3E) research with them as partners.
-- Test the effect of the algorithm or technology for different marginalised groups.
+- Test the effectiveness of the algorithm or technology for different marginalised groups.
 
 ---
 :img-top: /images/hazards/misuse.png
