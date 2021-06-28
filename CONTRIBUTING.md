@@ -27,7 +27,16 @@ For now, they are a little thin, so if you'd like to help please get in touch wi
 If you find an [issue][issues] that you'd like to help with, then please:
 1. Comment on it before you start working, so we don't repeat work.
 2. [Fork](https://help.github.com/articles/fork-a-repo) this repository to your own GitHub account
-3. Then, once you've made your changes, submit a [pull request](https://help.github.com/articles/creating-a-pull-request): we'll review it as quick as we can 😄.
+3. Check that you are happy with the changes by [building the site locally](#build-the-site-locally).
+4. Then, once you've made your changes, submit a [pull request](https://help.github.com/articles/creating-a-pull-request): we'll review it as quick as we can 😄.
+
+#### Build the site locally
+In order to build the site locally, you'll need to run the following from your root directory:
+`sphinx-build site/ site/_build/` 
+
+These require some Python packages to run. 
+You may want to set up a [virtual environment](https://docs.python.org/3/library/venv.html) first, so that you don't install these packages system-wide.
+Then you can install the packages using `pip install -r requirements.txt`
 
 ---
 [issues]: https://github.com/very-good-science/data-hazards/issues
