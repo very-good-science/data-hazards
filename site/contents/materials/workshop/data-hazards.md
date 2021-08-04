@@ -53,6 +53,7 @@ __Note:__ this is a hazard in it's own right, even if it isn't then used to harm
 
 __Example 1__: [Natural Language Processing tools can reinforce sexist tropes about women](https://arxiv.org/abs/1607.06520). 
 
+__Example 2__: Twitter's algorithm to choose the relevant part of an image [consistently chooses to crop out black faces instead of white faces](https://www.theguardian.com/technology/2020/sep/21/twitter-apologises-for-racist-image-cropping-algorithm).
 
 +++
 __Safety Precautions:__
@@ -159,7 +160,7 @@ __Safety Precautions:__
 :img-top: /images/hazards/direct-harm.png
 
 __Hazard: May cause direct harm__
-The application area of this technology means that it is capable of causing direct physical harm to someone, e.g. healthcare, driverless vehicles.
+The application area of this technology means that it is capable of causing direct physical harm to someone if it malfunctions, even if used correctly e.g. healthcare, driverless vehicles.
 
 ^^^
 
@@ -172,7 +173,3 @@ __Safety Precautions:__
 - It is even more important that work of this nature is well-tested and that any "bugs" (mistakes in software) are found.  
 ````
 
-[//]: # (TODO: Add below for doesn't work)
-<!--
-__Example 2__: Twitter's algorithm to choose the relevant part of an image [consistently chooses to crop out black faces instead of white faces](https://www.theguardian.com/technology/2020/sep/21/twitter-apologises-for-racist-image-cropping-algorithm).
--->
