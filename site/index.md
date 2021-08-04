@@ -6,18 +6,6 @@
 :alt: Data Hazard warning signs labelled algorithmic decision-making, ranking people, difficult to understand.
 ```
 
-```{admonition} Why are the Hazard Labels so scary-looking?
-We know that the [Data Hazards labels](site/contents/materials/workshop/data-hazards) are a bit frightening. Argh, there's a skull!
-Please know that __we don't want these labels to scare anyone away from considering ethics or from doing data science__, and we will do everything that we can to make applying Data Hazards labels as welcoming and approachable as possible, but also have some good reasons for choosing these images.
-   
-We chose this format because of the similarity to [COSHH hazard labels](https://www.hse.gov.uk/chemical-classification/labelling-packaging/hazard-symbols-hazard-pictograms.htm) - hazard labels for chemicals.
-We made this choice because we want a similar response from people:
-1. Attention-grabbing, asking people to stop and think, and take the safety precautions seriously, rather than as an optional extra.
-2. We're asking people to "handle with care", not to stop doing the work. We still use chemicals, but we think about how it can be done safely and how to avoid emergencies.
-3. They are familiar, especially to scientists, who (within universities) tend to have the least experience of applying ethics.
-
-```
-
 ## Summary
 
 Data Hazards is a project about worst-case scenarios of Data Science. 
@@ -37,6 +25,18 @@ To support our aims we will:
 2. Create resources that help data scientists reflect on their own work, by creating prompts, frameworks, and forms for them to consider.
 3. Run workshops and mailing lists where data scientists can listen to diverse perspectives and grow their ideas of what is possible, and where interdisciplinary researchers and the public can both be heard, respected, and listened to by the people who are doing computational and mathematical work.
 4. Listen to our community's feedback through surveys.
+
+```{admonition} Why are the Hazard Labels so scary-looking?
+We know that the [Data Hazards labels](site/contents/materials/workshop/data-hazards) are a bit frightening. Argh, there's a skull!
+Please know that __we don't want these labels to scare anyone away from considering ethics or from doing data science__, and we will do everything that we can to make applying Data Hazards labels as welcoming and approachable as possible, but also have some good reasons for choosing these images.
+   
+We chose this format because of the similarity to [COSHH hazard labels](https://www.hse.gov.uk/chemical-classification/labelling-packaging/hazard-symbols-hazard-pictograms.htm) - hazard labels for chemicals.
+We made this choice because we want a similar response from people:
+1. Attention-grabbing, asking people to stop and think, and take the safety precautions seriously, rather than as an optional extra.
+2. We're asking people to "handle with care", not to stop doing the work. We still use chemicals, but we think about how it can be done safely and how to avoid emergencies.
+3. They are familiar, especially to scientists, who (within universities) tend to have the least experience of applying ethics.
+
+```
 
 ## Project timeline
 

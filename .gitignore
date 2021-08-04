@@ -2,3 +2,5 @@
 _build/
 .DS_Store
 ethics-application/
+.ipynb_checkpoints/
+*.ipynb
