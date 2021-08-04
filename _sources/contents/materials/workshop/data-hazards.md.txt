@@ -165,7 +165,7 @@ __Safety Precautions:__
 :img-top: /images/hazards/direct-harm.png
 
 __Hazard: May cause direct harm__
-The application area of this technology means that it is capable of causing direct physical harm to someone, e.g. healthcare, driverless vehicles.
+The application area of this technology means that it is capable of causing direct physical harm to someone if it malfunctions, even if used correctly e.g. healthcare, driverless vehicles.
 
 ^^^
 
@@ -237,7 +237,3 @@ __Safety Precautions:__
 
 ````
 
-[//]: # (TODO: Add below for doesn't work)
-<!--
-__Example 2__: Twitter's algorithm to choose the relevant part of an image [consistently chooses to crop out black faces instead of white faces](https://www.theguardian.com/technology/2020/sep/21/twitter-apologises-for-racist-image-cropping-algorithm).
--->
