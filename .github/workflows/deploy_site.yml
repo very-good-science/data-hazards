@@ -7,6 +7,12 @@ on:
     - main
     paths:
       site/**
+    
+  pull_request:
+    branches: 
+    - main
+    paths:
+      site/**
 
   workflow_dispatch:
 
@@ -38,4 +44,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3.5.9
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: docs/_build/
+        publish_dir: site/_build/

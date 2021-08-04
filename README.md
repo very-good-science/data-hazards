@@ -1,24 +1,58 @@
-# Data Hazards
-An opinion piece about embedding responsibility for worst case scenario impacts of data science research. 
+# Data Hazards Project
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Ideas to put in:
-- Data science needs ethical audit, and like all audits, it should be done by someone qualified and without skin in the game.
-  - Data science work has a lot of impact now. It requires a true *ethics* review (not just a legal one). And it requires it early in the process BEFORE it is applied and harms people.
-  - Data scientists are not equipped to do this work. They are not trained to do this work. They do not feel qualified to do this work. Incentives in research and industry mean that they are well-practiced at making cases for the good aspects of their work (efficiency, accuracy), but have little experience in considering the worst case scenarios of this work.
-  - Social science and humanities researchers are well-practiced at considering the societal impact of things, they are good at imagining digital futures. Their work tends to be segregated from data science work. It is not embedded in the process. It is published separately. 
-- The pipeline of research to deployment is long and winding: we need to make it very easy for people to notice the potential impacts. So we suggest colourful labels applied at every stage, to help pass repsonsibility between different stakeholders like a baton.
-  - People who are buying data science solutions (representatives from for example local authorities, police, private companies) are likely to be talking to data scientists, or more likely sales representatives, or other representatives from a data science company, one or more degrees removed from the technology. Very unlikley to be shown potentital negative impacts.
-  - So much of resarch is so abstract, so far removed from reality and any form of "impact" that it can seem pointless to consider it. There are many stages in the process, many minor technical acheivements that stack on top of one another, and could be used for positive or negative uses. AI has many positive uses. It has many negative uses. At each stage, new doors open as to what is possible. At each stage, we need to avoid jurassic park (consider if it's good/useful, not just if it's possible). We need to make it easy for the people who are putting this into production to take responsibility for what it is that they are putting into production. 
-  - The power of worst case scenarios is that we don't need to be able to see the future. We're not arguing about what will happen, we are just making sure that you know that it could happen, so if you are using this technology, it's your repsonsibility to ensure that it does not.
-  - We suggest considering worst case scenarios. This doesn't mean that the research shouldn't be done, just that negative impacts must be considered (if ALL the impacts are negative, then yes don't do it).  
-  - We present one way of doing this: putting colourful labels on the research itself. Like chemical hazards. 
-  - It is designed as an interdisciplinary consideration. Just as data scientists work with other specialists (software engineers, library/data management professionals, lawyers), we want to normalise this type of interaction.
-- The labels themselves.
-  - There is a finite number of them. This is to make the task of auditing easier (like chemicals, like ethical review tick boxes) and more importantly, the task of understanding the audit easier.
-  - This is not a substitute for a detailed consideration. It is in addition to the existing work that is happening.
-  - We got help from social scientists to consider what types of hazards have a good coverage of negative impacts, e.g. environmental, hazardous to human health, reinforces inequity, harmful to the implementer.
-  - We got an artist to design them.
-- How it works
-  - Test out by consulting social scientists (Bristol Digital Futures Institute? Brigstow Institute?), who are then ackknowledged on the data science papers that they consult on, similar to statistical consulting (a la Ask-JGI) for seedcorn funding. (To be clear, I am imagining they would be authors on the data hazards paper).
-  - Must show the hazard label when you present (condition of funding) and when you publish. We provide a statement to help people interpret it.
-  - If you want to do this, then this is how to join in as a social scientist/philosopher/historian, and this is how to do this as a data scientist (maybe we could have a properly ethical review panel set up).
+<img src="site/images/hazards/general-hazard.png" alt="A Data Hazard Label, similar to a COSSH hazard label, with text Data Science Hazard"  width="200" height="200"></img>
+
+<!--
+<img src="site/images/hazards/general-hazard.png"  alt="A Data Hazard Label, similar to a COSSH hazard label, with text Data Science Hazard"  width="100" height="100"\>
+-->
+
+Data Ethics Club and the Jean Golding Institute are working with interdisciplinary researchers to create the [Data Hazards Project][site-home]. 
+Please see the [project website][site-home] for the most up-to-date information.
+
+## Aims
+We are creating resources to help interdisciplinary researchers and citizens consider the worse-case scenarios of data science work together, and for these ethical concerns to be embedded in the research. 
+For a full list of our aims and strategies to achieve them, please see [our website][site-home].
+
+## Contact us
+To hear more about the project or collaborate with us contact us via [email][dec-email].
+
+This project is being jointly led by:
+- Natalie Thurlby ([twitter][natalie-twitter], [email][natalie-email])
+- Nina Di Cara ([twitter][nina-twitter], [email][nina-email])
+
+You could consider this project a spin-off of [Data Ethics Club][data-ethics-club].
+
+## Contributors
+[//]: # (TODO: Add custom emoji key)
+We use the all-contributors specification to celebrate all kinds of contributions to this project. 
+[Emoji key here](https://allcontributors.org/docs/en/emoji-key)!
+
+If you'd like to join us as a contributor, check out our [contributor's guide](https://github.com/very-good-science/data-hazards/blob/main/CONTRIBUTING.md) for ways to get involved.
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/NatalieThurlby"><img src="https://avatars.githubusercontent.com/u/17617308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>NatalieThurlby</b></sub></a><br /><a href="#projectManagement-NatalieThurlby" title="Project Management">📆</a> <a href="#design-NatalieThurlby" title="Design">🎨</a> <a href="#ideas-NatalieThurlby" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-NatalieThurlby" title="Event Organizing">📋</a> <a href="#maintenance-NatalieThurlby" title="Maintenance">🚧</a> <a href="#infra-NatalieThurlby" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=NatalieThurlby" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/conorhoughton"><img src="https://avatars.githubusercontent.com/u/6955092?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Conor Houghton</b></sub></a><br /><a href="#fundingFinding-conorhoughton" title="Funding Finding">🔍</a></td>
+    <td align="center"><a href="https://github.com/ninadicara"><img src="https://avatars.githubusercontent.com/u/44364127?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nina</b></sub></a><br /><a href="#projectManagement-ninadicara" title="Project Management">📆</a> <a href="#ideas-ninadicara" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-ninadicara" title="Event Organizing">📋</a> <a href="#maintenance-ninadicara" title="Maintenance">🚧</a> <a href="#a11y-ninadicara" title="Accessibility">️️️️♿️</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=ninadicara" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://dynamicgenetics.org"><img src="https://avatars.githubusercontent.com/u/1908453?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Valerio Maggio</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Aleriomaggio" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+---
+[site-home]: https://very-good-science.github.io/data-hazards/
+[dec-email]: mailto:grp-ethicaldatascience@groups.bristol.ac.uk
+[natalie-email]: mailto:natalie.thurlby@bristol.ac.uk
+[natalie-twitter]: https://twitter.com/StatalieT
+[nina-twitter]: https://twitter.com/ninadicara
+[nina-email]: mailto:nina.dicara@bristol.ac.uk
+[data-ethics-club]: https://github.com/very-good-science/data-ethics-club/

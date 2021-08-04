@@ -1,0 +1,69 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "NatalieThurlby",
+      "name": "NatalieThurlby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17617308?v=4",
+      "profile": "https://github.com/NatalieThurlby",
+      "contributions": [
+        "projectManagement",
+        "design",
+        "ideas",
+        "eventOrganizing",
+        "maintenance",
+        "infra",
+        "doc"
+      ]
+    },
+    {
+      "login": "conorhoughton",
+      "name": "Conor Houghton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6955092?v=4",
+      "profile": "https://github.com/conorhoughton",
+      "contributions": [
+        "fundingFinding"
+      ]
+    },
+    {
+      "login": "ninadicara",
+      "name": "Nina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44364127?v=4",
+      "profile": "https://github.com/ninadicara",
+      "contributions": [
+        "projectManagement",
+        "ideas",
+        "eventOrganizing",
+        "maintenance",
+        "a11y",
+        "doc"
+      ]
+    },
+    {
+      "login": "leriomaggio",
+      "name": "Valerio Maggio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1908453?v=4",
+      "profile": "http://dynamicgenetics.org",
+      "contributions": [
+        "review"
+      ]
+    }
+  ],
+  "types": {
+    "support": {
+      "symbol": "🤝",
+      "description": "Other support: enthusiasm, feedback, introductions, etc",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "contributorsPerLine": 7,
+  "projectName": "data-hazards",
+  "projectOwner": "very-good-science",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
