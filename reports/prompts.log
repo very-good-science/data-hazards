@@ -83,7 +83,7 @@ mylink = widgets.jslink((button, 'value'), (b, 'value'))
 
 [0;31m---------------------------------------------------------------------------[0m
 [0;31mTypeError[0m                                 Traceback (most recent call last)
-[0;32m/tmp/ipykernel_1692/3484567783.py[0m in [0;36m<module>[0;34m[0m
+[0;32m/tmp/ipykernel_1711/3484567783.py[0m in [0;36m<module>[0;34m[0m
 [1;32m     53[0m [0mtext[0m [0;34m=[0m [0mrandomise_text[0m[0;34m([0m[0mbutton[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
 [1;32m     54[0m [0;34m[0m[0m
 [0;32m---> 55[0;31m [0mout[0m [0;34m=[0m [0mwidgets[0m[0;34m.[0m[0minteractive_output[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
