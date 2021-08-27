@@ -64,7 +64,7 @@ __March-April 2021__: Behind the scenes plans
 ---
 :column: +entry left
 
-__May 2021__: Prepare for first Data Hazards workshop 
+__May-Aug 2021__: Prepare for first Data Hazards workshop 
 ^^^
 
 {fa}`check,text-success mr-1` Get website online
@@ -73,10 +73,13 @@ __May 2021__: Prepare for first Data Hazards workshop
 
 {fa}`check,text-success mr-1` Get initial feedback on Data Hazards labels 
 
-- Draft workshop materials
+{fa}`check,text-success mr-1` Draft workshop materials
+
+{fa}`check,text-success mr-1` Get feedback on workshop materials
+
+{fa}`check,text-success mr-1` Begin advertising workshop 
+
 - Set up Open Science Framework and preregister analysis
-- Get feedback on workshop materials
-- Begin advertising workshop 
 
 ---
 :column: +right
@@ -86,15 +89,15 @@ __May 2021__: Prepare for first Data Hazards workshop
 ---
 :column: +entry right
 
-__June 2021__ Run first Data Hazards workshops (academic-focused)
+__Sept 2021__ Run first Data Hazards workshops (academic-focused)
 ^^^
 
-- Run first Data Hazards workshop as part of [JGI Data Week](https://www.bristol.ac.uk/golding/get-involved/data-week-online-2021/)
+- Run first Data Hazards workshop on 21st Sept.
 
 ---
 :column: +entry left
 
-__July 2021__ Use workshop feedback to improve data hazards
+__Oct-Dec 2021__ Use workshop feedback to improve data hazards
 
 ^^^
 
@@ -109,7 +112,7 @@ __July 2021__ Use workshop feedback to improve data hazards
 ---
 :column: +entry right
 
-__November 2021__ Run second Data Hazards workshop (public and company focused)
+__Early 2022__ Run second Data Hazards workshop (public and company focused)
 ^^^
 
 Details TBC
@@ -117,7 +120,7 @@ Details TBC
 ---
 :column: +entry left
 
-__Early 2022__ Write up Data Hazards paper
+__Spring 2022__ Write up Data Hazards paper
 ^^^
 
 Details TBC
