@@ -27,7 +27,7 @@ To support our aims we will:
 4. Listen to our community's feedback through surveys.
 
 ```{admonition} Why are the Hazard Labels so scary-looking?
-We know that the [Data Hazards labels](site/contents/materials/workshop/data-hazards) are a bit frightening. Argh, there's a skull!
+We know that the [Data Hazards labels](contents/materials/workshop/data-hazards) are a bit frightening. Argh, there's a skull!
 Please know that __we don't want these labels to scare anyone away from considering ethics or from doing data science__, and we will do everything that we can to make applying Data Hazards labels as welcoming and approachable as possible, but also have some good reasons for choosing these images.
    
 We chose this format because of the similarity to [COSHH hazard labels](https://www.hse.gov.uk/chemical-classification/labelling-packaging/hazard-symbols-hazard-pictograms.htm) - hazard labels for chemicals.
@@ -57,7 +57,7 @@ __March-April 2021__: Behind the scenes plans
 
 {fa}`check,text-success mr-1` Thinking, reading and planning
 
-{fa}`check,text-success mr-1` Writing [proposal](site/contents/materials/misc/proposal.md)
+{fa}`check,text-success mr-1` Writing [proposal](contents/materials/misc/proposal)
 
 {fa}`check,text-success mr-1` Getting feedback on initial ideas
 
@@ -133,4 +133,5 @@ Details TBC
 :hidden:
 contents/upcoming-events
 contents/exercises
+contents/sign-up
 ```
