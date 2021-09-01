@@ -4,3 +4,4 @@ _build/
 ethics-application/
 .ipynb_checkpoints/
 *.ipynb
+presentations/
