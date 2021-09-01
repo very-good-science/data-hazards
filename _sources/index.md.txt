@@ -133,4 +133,5 @@ Details TBC
 :hidden:
 contents/upcoming-events
 contents/exercises
+contents/sign-up
 ```
