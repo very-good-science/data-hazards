@@ -4,6 +4,13 @@
 :alt: Data Hazard warning signs labelled algorithmic decision-making, ranking people, difficult to understand.
 ```
 
+```{admonition} Sign up!
+:class: tip
+
+Sign up to attend this workshop [here](https://bristolexppsych.eu.qualtrics.com/jfe/form/SV_39O98pGfm4Oagaq).
+
+```
+
 Join us at our first Data Hazards workshop to:
 - Have an interesting discussion about ethics, and learn more about the different types of ethical issues that can affect data science projects.
 - Contribute to improving the Data Hazards framework, which aims to reduce barriers to discussing these wider ethical issues surrounding data science work.
