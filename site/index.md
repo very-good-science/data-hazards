@@ -92,7 +92,7 @@ __May-Aug 2021__: Prepare for first Data Hazards workshop
 __Sept 2021__ Run first Data Hazards workshops (academic-focused)
 ^^^
 
-- Run first Data Hazards workshop on 21st Sept.
+- Run [first Data Hazards workshop](contents/events/2021-09-21_workshop) on 21st Sept.
 
 ---
 :column: +entry left
@@ -107,18 +107,34 @@ __Oct-Dec 2021__ Use workshop feedback to improve data hazards
 
 ---
 :column: +right
+
 ---
 :column: +left
+
 ---
 :column: +entry right
 
-__Early 2022__ Run second Data Hazards workshop (public and company focused)
+__Nov 2022__ Trial asynchronous Data Hazards (without group discussion) as a tool for assessing funding applications.
 ^^^
 
 Details TBC
 
 ---
 :column: +entry left
+
+__Early 2022__ Run second Data Hazards workshop (public and company/local-government focused)
+^^^
+
+Details TBC
+
+---
+:column: +right
+
+---
+:column: +left
+
+---
+:column: +entry right
 
 __Spring 2022__ Write up Data Hazards paper
 ^^^
