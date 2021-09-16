@@ -57,6 +57,8 @@ html_theme_options = {
     'search_bar_text': 'Search this site...',
     'search_bar_position': 'navbar',
     'show_prev_next': False,
+    "footer_items": ["license-footer", "sphinx-version"],
+
 }
 
 html_sidebars = {
