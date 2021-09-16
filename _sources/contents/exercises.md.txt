@@ -8,6 +8,7 @@ Links to workshop materials will appear and be updated here as they are develope
 :maxdepth: 1
 materials/workshop/data-hazards
 materials/workshop/example
+materials/workshop/timings
 ```
 
 <!--
