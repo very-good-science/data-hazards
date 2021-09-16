@@ -16,6 +16,11 @@ Please see the [project website][site-home] for the most up-to-date information.
 We are creating resources to help interdisciplinary researchers and citizens consider the worse-case scenarios of data science work together, and for these ethical concerns to be embedded in the research. 
 For a full list of our aims and strategies to achieve them, please see [our website][site-home].
 
+## Re-using our materials
+We really welcome people re-using the materials we have made! This repository is licensed under a [CC-BY 4.0 license](license-link). This translates to: yes, please do use, remix, and share anything you find in this repo, but you must credit us with attribution (a link to this repo is okay!).
+
+If you'd like to work with us to use these materials in a new context, please do [get in touch][dec-email].
+
 ## Contact us
 To hear more about the project or collaborate with us contact us via [email][dec-email].
 
@@ -56,3 +61,4 @@ If you'd like to join us as a contributor, check out our [contributor's guide](h
 [nina-twitter]: https://twitter.com/ninadicara
 [nina-email]: mailto:nina.dicara@bristol.ac.uk
 [data-ethics-club]: https://github.com/very-good-science/data-ethics-club/
+[license-link]: https://creativecommons.org/licenses/by/4.0/
