@@ -55,7 +55,6 @@ html_theme_options = {
     'github_url': 'https://github.com/very-good-science/data-hazards',
     'twitter_url': 'https://twitter.com/hashtag/DataEthicsClub',
     'search_bar_text': 'Search this site...',
-    'search_bar_position': 'navbar',
     'show_prev_next': False,
     "footer_items": ["license-footer", "sphinx-version"],
 
@@ -64,6 +63,8 @@ html_theme_options = {
 html_sidebars = {
     'index': [],
     'contents/materials/workshop/data-hazards': [],
+    'contents/sign-up': [],
+
 }
 
 html_favicon = '_static/favicon.png'
