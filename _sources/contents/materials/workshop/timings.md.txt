@@ -10,7 +10,7 @@ This is designed to help ensure that both the audience and the project owner get
     - what are the data hazard labels?
     - why?
     - case study
-- 45 mins: Project discussion in smaller groups using [the reflective team exercise](./reflective-team)
+- 45 mins: Project discussion in smaller groups using the reflective team exercise:
     - 5 minute project presentation
         - what's the project and who is involved?
         - what are it's aims?
