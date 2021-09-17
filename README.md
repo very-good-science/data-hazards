@@ -1,7 +1,9 @@
 # Data Hazards Project
+[![DOI](https://zenodo.org/badge/346286403.svg)](https://zenodo.org/badge/latestdoi/346286403)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 
 <img src="site/images/hazards/general-hazard.png" alt="A Data Hazard Label, similar to a COSSH hazard label, with text Data Science Hazard"  width="200" height="200"></img>
 
