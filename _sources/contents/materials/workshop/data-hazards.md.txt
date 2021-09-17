@@ -146,15 +146,15 @@ __Safety Precautions:__
 
 __Hazard: Difficult to understand__
 There is a danger that the technology is difficult to understand. 
-This could be because of the technology itself is hard to interpret (e.g. neural nets), or it's implementation (i.e. code is hidden and we are not allowed to see exactly what it is doing).
+This could be because of the technology itself is hard to interpret (e.g. neural nets), or problems with it's implementation (i.e. code is not provided, or not documented).
 
 Depending on the circumstances of its use, this could mean that incorrect results are hard to identify, or that the technology is inaccessible to people (difficult to implement or use).
 
 ^^^
 
-__Example 1:__ Google does not make code available for many projects, from it's DeepMind AlphaFold [protein-folding research](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) to its' [Search Engine algorithms](https://www.searchenginejournal.com/google-algorithm-history/).
+__Example 1:__ Deep learning is used to perform [credit-scoring](https://www.moodysanalytics.com/risk-perspectives-magazine/managing-disruption/spotlight/machine-learning-challenges-lessons-and-opportunities-in-credit-risk-modeling) (i.e. could deny people credit), but it is difficult to understand (and therefore check) what these decisions are based on.
 
-__Example 2:__ Deep learning is used to perform [credit-scoring](https://www.moodysanalytics.com/risk-perspectives-magazine/managing-disruption/spotlight/machine-learning-challenges-lessons-and-opportunities-in-credit-risk-modeling) (i.e. could deny people credit), but it is difficult to understand (and therefore check) what these decisions are based on.
+__Example 2:__ Even when journals have a policy of having code and data availability, published researchers can be unaware of what they agreed to and resist sharing it, as [this](https://www.pnas.org/content/115/11/2584) paper surveying Science publications shows.
 
 +++
 __Safety Precautions:__
