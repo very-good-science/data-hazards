@@ -53,7 +53,7 @@ html_theme = 'pydata_sphinx_theme'
 
 html_theme_options = {
     'github_url': 'https://github.com/very-good-science/data-hazards',
-    'twitter_url': 'https://twitter.com/hashtag/DataEthicsClub',
+    'twitter_url': 'https://twitter.com/hashtag/DataHazards',
     'search_bar_text': 'Search this site...',
     'show_prev_next': False,
     "footer_items": ["license-footer", "sphinx-version"],
