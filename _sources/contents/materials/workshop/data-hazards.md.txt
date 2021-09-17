@@ -165,7 +165,7 @@ __Safety Precautions:__
 :img-top: /images/hazards/direct-harm.png
 
 __Hazard: May cause direct harm__
-The application area of this technology means that it is capable of causing direct physical harm to someone if it malfunctions, even if used correctly e.g. healthcare, driverless vehicles.
+The application area of this technology means that it is capable of causing direct physical or psychological harm to someone even if used correctly e.g. healthcare and driverless vehicles may be expected to directly harm someone unless they have 100% accuracy.
 
 ^^^
 
