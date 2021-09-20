@@ -1,7 +1,7 @@
 # Data Hazards Project
 [![DOI](https://zenodo.org/badge/346286403.svg)](https://zenodo.org/badge/latestdoi/346286403)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -55,6 +55,7 @@ If you'd like to join us as a contributor, check out our [contributor's guide](h
   <tr>
     <td align="center"><img src="https://www.bris.ac.uk/contact/person/getDetails?personKey=grE64xPWAmrfuY1ZszJYlss6li3H7X?s=100" width="100px;" alt=""/><br /><sub><b>Lily Rice</b></sub><br /><a href="#eventOrganizing" title="Event Organizing">📋</a></td>
     <td align="center"><a href="https://github.com/ekuw"><img src="https://avatars.githubusercontent.com/u/76116294?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ekuw</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Aekuw" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://linkedin.com/in/jatonline"><img src="https://avatars.githubusercontent.com/u/48878399?v=4?s=100" width="100px;" alt=""/><br /><sub><b>James Thomas</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Ajatonline" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
