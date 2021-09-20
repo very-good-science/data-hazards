@@ -41,7 +41,8 @@
         "maintenance",
         "a11y",
         "doc",
-        "design"
+        "design",
+        "bug"
       ]
     },
     {
