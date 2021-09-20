@@ -22,7 +22,7 @@ This page is essentially a crib sheet for the event, with links to things you'll
 
 Below is a copy of the prompts slide in case you would like to go back to it at any point.  
 
-```{image} /images/worst-case-prompt.png
+```{image} ../../../images/worst-case-prompt.png
 :alt: An image of a mind map with yellow bubbles that have prompts for considering worst case scenarios. For example, what's the worst case scenario if the technology works only for some people? 
 ```
 
