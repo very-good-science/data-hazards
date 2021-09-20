@@ -79,7 +79,7 @@ __May-Aug 2021__: Prepare for first Data Hazards workshop
 
 {fa}`check,text-success mr-1` Begin advertising workshop 
 
-- Set up Open Science Framework and preregister analysis
+{fa}`check,text-success mr-1` Set up [Open Science Framework project](https://osf.io/3fv7t/) and [preregister](https://osf.io/pcv7j) analysis
 
 ---
 :column: +right
