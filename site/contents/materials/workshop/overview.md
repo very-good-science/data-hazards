@@ -9,20 +9,20 @@ This page is essentially a crib sheet for the event, with links to things you'll
 * - Zoom meeting link
   - [https://bristol-ac-uk.zoom.us/j/93055304033](https://bristol-ac-uk.zoom.us/j/93055304033)
 * - Workshop survey
-  - [Survey link](https://bristolexppsych.eu.qualtrics.com/jfe/form/SV_3IfJQ8kGNL9fxpc)
+  - <a href="https://bristolexppsych.eu.qualtrics.com/jfe/form/SV_3IfJQ8kGNL9fxpc" target="_blank">Survey link</a>
 * - Data Hazard labels
-  - [Label descriptions](https://very-good-science.github.io/data-hazards/contents/materials/workshop/data-hazards.html)
+  - <a href="https://very-good-science.github.io/data-hazards/contents/materials/workshop/data-hazards.html" target="_blank">Label descriptions</a>
 * - Detailed timings
-  - [Workshop timings](https://very-good-science.github.io/data-hazards/contents/materials/workshop/timings.html)
+  - <a href="https://very-good-science.github.io/data-hazards/contents/materials/workshop/timings.html" target="_blank">Workshop timings</a>
 * - Sign up for future news
-  - [Link to mailing list](https://very-good-science.github.io/data-hazards/contents/sign-up.html)
+  - <a href="https://very-good-science.github.io/data-hazards/contents/sign-up.html" target="_blank">Mailing list</a>
 ```
 
 ## Scenario prompts  
 
 Below is a copy of the prompts slide in case you would like to go back to it at any point.  
 
-```{image} images/worst-case-prompt.png
+```{image} /images/worst-case-prompt.png
 :alt: An image of a mind map with yellow bubbles that have prompts for considering worst case scenarios. For example, what's the worst case scenario if the technology works only for some people? 
 ```
 
