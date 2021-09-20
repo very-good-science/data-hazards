@@ -1,7 +1,7 @@
 # Data Hazards Project
 [![DOI](https://zenodo.org/badge/346286403.svg)](https://zenodo.org/badge/latestdoi/346286403)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -48,6 +48,7 @@ If you'd like to join us as a contributor, check out our [contributor's guide](h
     <td align="center"><a href="https://github.com/conorhoughton"><img src="https://avatars.githubusercontent.com/u/6955092?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Conor Houghton</b></sub></a><br /><a href="#fundingFinding-conorhoughton" title="Funding Finding">🔍</a></td>
     <td align="center"><a href="https://github.com/ninadicara"><img src="https://avatars.githubusercontent.com/u/44364127?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nina</b></sub></a><br /><a href="#projectManagement-ninadicara" title="Project Management">📆</a> <a href="#ideas-ninadicara" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-ninadicara" title="Event Organizing">📋</a> <a href="#maintenance-ninadicara" title="Maintenance">🚧</a> <a href="#a11y-ninadicara" title="Accessibility">️️️️♿️</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=ninadicara" title="Documentation">📖</a></td>
     <td align="center"><a href="http://dynamicgenetics.org"><img src="https://avatars.githubusercontent.com/u/1908453?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Valerio Maggio</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Aleriomaggio" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Ismael-KG"><img src="https://avatars.githubusercontent.com/u/64027166?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ismael-KG</b></sub></a><br /><a href="#eventOrganizing-Ismael-KG" title="Event Organizing">📋</a></td>
   </tr>
 </table>
 
