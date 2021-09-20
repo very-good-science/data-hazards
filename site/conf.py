@@ -52,8 +52,23 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'pydata_sphinx_theme'
 
 html_theme_options = {
-    'github_url': 'https://github.com/very-good-science/data-hazards',
-    'twitter_url': 'https://twitter.com/hashtag/DataHazards',
+    "icon_links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/very-good-science/data-hazards",
+            "icon": "fab fa-github-square",
+        },
+        {
+            "name": "Open Science Framework",
+            "url": "https://osf.io/3fv7t",
+            "icon": "fas fa-book-open",
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/hashtag/DataHazards",
+            "icon": "fab fa-twitter-square",
+        },
+    ],
     'search_bar_text': 'Search this site...',
     'show_prev_next': False,
     "footer_items": ["license-footer", "sphinx-version"],
