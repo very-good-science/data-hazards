@@ -16,6 +16,8 @@ This page is essentially a crib sheet for the event, with links to things you'll
   - <a href="https://very-good-science.github.io/data-hazards/contents/materials/workshop/timings.html" target="_blank">Workshop timings</a>
 * - Sign up for future news
   - <a href="https://very-good-science.github.io/data-hazards/contents/sign-up.html" target="_blank">Mailing list</a>
+* - Code of Code Conduct
+  - <a href="https://very-good-science.github.io/data-hazards/contents/materials/code-of-conduct.html" target="_blank">Link</a>
 ```
 
 ## Scenario prompts  
@@ -40,7 +42,17 @@ You can get to the detailed descriptions of the Hazards from the table of links 
 * Privacy  
 * Automates decision making  
 * Lacks informed consent  
+
+
+## (Reminder from slides) Feedback that would be helpful
+
+* Do prepared data hazard labels help in imagining worst case scenarios?   
+* Does discussing as a group help to apply them?  
+* Is it worthwhile for project-owners?  
+* What credit (if any) would audience-members want or need?  
+* Are there any suggested tweaks to labels, or new labels?  
   
+
 ## Contact emails  
 
 If you wanted to get in touch with the organisers then you can reach us here:  
