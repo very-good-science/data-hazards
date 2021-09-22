@@ -148,6 +148,7 @@ Details TBC
 ```{toctree}
 :maxdepth: 2
 :hidden:
+contents/materials/workshop/data-hazards
 contents/upcoming-events
 contents/exercises
 contents/sign-up
