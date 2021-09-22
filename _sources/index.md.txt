@@ -92,15 +92,16 @@ __May-Aug 2021__: Prepare for first Data Hazards workshop
 __Sept 2021__ Run first Data Hazards workshops (academic-focused)
 ^^^
 
-- Run [first Data Hazards workshop](contents/events/2021-09-21_workshop) on 21st Sept.
+- {fa}`check,text-success mr-1` Run [first Data Hazards workshop](contents/events/2021-09-21_workshop) on __21st Sept 2021__.
 
 ---
 :column: +entry left
 
-__Oct-Dec 2021__ Use workshop feedback to improve data hazards
+__Oct-Dec 2021__ Use workshop feedback to improve data hazards and present early results
 
 ^^^
 
+- Present early results from workshop at [AI Ethics Best Practices and the Future of Innovation](https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027) as part of [Bristol Tech Festival](https://bristoltechfest.org/) on __13th Oct 2021__. 
 - Look at workshop feedback to make improvements to:
     - data hazards labels
     - workshop exercises/materials
