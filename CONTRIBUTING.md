@@ -38,6 +38,9 @@ These require some Python packages to run.
 You may want to set up a [virtual environment](https://docs.python.org/3/library/venv.html) first, so that you don't install these packages system-wide.
 Then you can install the packages using `pip install -r requirements.txt`
 
+## Running analyses on closed data
+Only Natalie and Nina have access to the closed data, so this sentence is a reminder to them. Data is stored locally in `analysis/data` from the root of the repository (and can be re-downloaded from our Data Hazards Sharepoint). Any scripts should be written with this directory structure in mind.
+
 ---
 [issues]: https://github.com/very-good-science/data-hazards/issues
 [dec-email]: grp-ethicaldatascience@groups.bristol.ac.uk

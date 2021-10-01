@@ -6,3 +6,4 @@ ethics-application/
 *.ipynb
 presentations/
 data/
+.Rproj.user
