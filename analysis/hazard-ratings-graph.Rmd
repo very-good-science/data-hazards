@@ -105,3 +105,31 @@ data %>%
   guides(color=guide_legend(title="Timepoint"))
 
 ```
+
+
+```{r graph2}
+
+data %>% 
+  mutate(ID = as.factor(ID), # Change this so it doesn't get caught in 'numeric' net
+         timepoint = as.factor(timepoint),
+         timepoint = recode_factor(timepoint, 
+                                   "1" = "Before", "2" = "After")) %>% 
+  select(!hazards) %>%
+  pivot_longer(cols = hazards, names_to = "hazard", values_to = "ratings") %>%
+  pivot_wider(names_from = "timepoint", values_from = "ratings") %>%
+  mutate(diff = as.factor(After - Before)) %>%
+  count(hazard, diff) %>%
+  ungroup() %>%
+  pivot_wider(names_from = diff, values_from = n, values_fill = 0) %>%
+  rename("Up" = "1", "Down" = "-1") %>%
+  # Make into a pyramid plot
+  ggplot(aes(hazards)) +
+  geom_bar(aes(y = -Down), stat = "identity", fill = "#fc8d62") + 
+  geom_bar(aes(y = Up), stat = "identity", fill = "#66c2a5") + 
+  theme_minimal() +
+  coord_flip() +
+  scale_y_continuous(breaks = seq(from = -1, to = 6)) +
+  xlab("Hazard Label\n") + 
+  ylab("\nNumber of people who added or removed a label after discussion")
+
+```
