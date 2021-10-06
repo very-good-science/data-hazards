@@ -7,3 +7,4 @@ ethics-application/
 presentations/
 data/
 *.Rproj*
+.Rhistory
