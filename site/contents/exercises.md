@@ -14,6 +14,7 @@ materials/workshop/data-hazards
 materials/code-of-conduct
 materials/workshop/example
 materials/workshop/timings
+materials/workshop/workshop-slides
 ```
 
 <!--
