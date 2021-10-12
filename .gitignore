@@ -5,3 +5,6 @@ ethics-application/
 .ipynb_checkpoints/
 *.ipynb
 presentations/
+.Rproj.user/
+.Rhistory
+data/
