@@ -1,0 +1,332 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Data Hazards for JGI Seed Corn Applicants &#8212; Data Hazards v0.0.1 documentation</title>
+    
+  <link href="../../_static/css/theme.css" rel="stylesheet">
+  <link href="../../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/blank.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/custom.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../../_static/js/index.be7d3bbb2ef33a8344ce.js">
+
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
+    <script src="../../_static/jquery.js"></script>
+    <script src="../../_static/underscore.js"></script>
+    <script src="../../_static/doctools.js"></script>
+    <script src="../../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <link rel="shortcut icon" href="../../_static/favicon.png"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+    <nav class="navbar navbar-light navbar-expand-lg bg-light fixed-top bd-navbar" id="navbar-main"><div class="container-xl">
+
+  <div id="navbar-start">
+    
+    
+<a class="navbar-brand" href="../../index.html">
+<p class="title">Data Hazards</p>
+</a>
+
+    
+  </div>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapsible" aria-controls="navbar-collapsible" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  
+  <div id="navbar-collapsible" class="col-lg-9 collapse navbar-collapse">
+    <div id="navbar-center" class="mr-auto">
+      
+      <div class="navbar-center-item">
+        <ul id="navbar-main-elements" class="navbar-nav">
+    <li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="workshop/data-hazards.html">
+  Data Hazard labels
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../upcoming-events.html">
+  Upcoming events
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../exercises.html">
+  Materials
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../sign-up.html">
+  Sign-up
+ </a>
+</li>
+
+    
+</ul>
+      </div>
+      
+    </div>
+
+    <div id="navbar-end">
+      
+      <div class="navbar-end-item">
+        <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
+        <li class="nav-item">
+          <a class="nav-link" href="https://github.com/very-good-science/data-hazards" rel="noopener" target="_blank" title="GitHub">
+            <span><i class="fab fa-github-square"></i></span>
+            <label class="sr-only">GitHub</label>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://osf.io/3fv7t" rel="noopener" target="_blank" title="Open Science Framework">
+            <span><i class="fas fa-book-open"></i></span>
+            <label class="sr-only">Open Science Framework</label>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://twitter.com/hashtag/DataHazards" rel="noopener" target="_blank" title="Twitter">
+            <span><i class="fab fa-twitter-square"></i></span>
+            <label class="sr-only">Twitter</label>
+          </a>
+        </li>
+      </ul>
+      </div>
+      
+    </div>
+  </div>
+</div>
+    </nav>
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+            
+            <!-- Only show if we have sidebars configured, else just a small margin  -->
+            <div class="col-12 col-md-3 bd-sidebar"><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this site..." aria-label="Search this site..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  <div class="bd-toc-item active">
+    
+  </div>
+</nav>
+            </div>
+            
+          
+
+          
+          <div class="d-none d-xl-block col-xl-2 bd-toc">
+            
+              
+              <div class="toc-item">
+                
+<div class="tocsection onthispage pt-5 pb-3">
+    <i class="fas fa-list"></i> On this page
+</div>
+
+<nav id="bd-toc-nav">
+    <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-is-the-data-hazards-project">
+   What is the Data Hazards project?
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#materials">
+     Materials
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#aims">
+     Aims
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#find-out-more">
+     Find out more
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#why-are-successful-jgi-seed-corn-applicants-being-invited-to-take-part-in-data-hazards">
+   Why are successful JGI seed corn applicants being invited to take part in Data Hazards?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-types-of-projects-does-data-hazards-work-for">
+   What types of projects does Data Hazards work for?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-will-the-process-be">
+   What will the process be?
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#questions">
+   Questions
+  </a>
+ </li>
+</ul>
+
+</nav>
+              </div>
+              
+              <div class="toc-item">
+                
+              </div>
+              
+            
+          </div>
+          
+
+          
+          
+            
+          
+          <main class="col-12 col-md-9 col-xl-7 py-md-5 pl-md-5 pr-md-4 bd-content" role="main">
+              
+              <div>
+                
+  <section class="tex2jax_ignore mathjax_ignore" id="data-hazards-for-jgi-seed-corn-applicants">
+<h1>Data Hazards for JGI Seed Corn Applicants<a class="headerlink" href="#data-hazards-for-jgi-seed-corn-applicants" title="Permalink to this headline">¶</a></h1>
+<p>This page explains the Data Hazards project and how it will be used to support the successful JGI seed corn projects 2021-2022.
+This page will tell you:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#about-data-hazards-sc"><span class="std std-ref">About Data Hazards</span></a></p></li>
+<li><p><a class="reference internal" href="#when-works-sc"><span class="std std-ref">What kinds of projects Data Hazards works for</span></a></p></li>
+<li><p><a class="reference internal" href="#process-sc"><span class="std std-ref">What the Data Hazards process will look like for successful seedcorn applicants</span></a></p></li>
+</ul>
+<section id="what-is-the-data-hazards-project">
+<span id="about-data-hazards-sc"></span><h2>What is the Data Hazards project?<a class="headerlink" href="#what-is-the-data-hazards-project" title="Permalink to this headline">¶</a></h2>
+<p>The Data Hazards project aims to create materials to help researchers and data scientists engage in thinking about the ethics of data science research, not only in terms of the kinds of issues that Institutional Review Boards (IRBs) oversee (such as privacy), but also issues more specific to data science such as fairness, energy usage, explainability, and misuse.</p>
+<section id="materials">
+<h3>Materials<a class="headerlink" href="#materials" title="Permalink to this headline">¶</a></h3>
+<p>The Data Hazards materials consist of:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="workshop/data-hazards.html"><span class="doc std std-doc">11 Data Hazard labels</span></a> which look similar to COSHH chemical hazard labels; they are supposed to communicate that while we still want to carry out this work, just as with dangerous chemicals, when we use data science we have a responsibility to “handle with care”. We are developing these with researchers and the public. You can contribute to these through <a class="reference external" href="https://github.com/very-good-science/data-hazards/">our GitHub</a>, through <a class="reference internal" href="../upcoming-events.html"><span class="doc std std-doc">our workshops</span></a>, or by <a class="reference external" href="mailto:grp-ethicaldatascience&#37;&#52;&#48;groups&#46;bristol&#46;ac&#46;uk">emailing us</a>.</p></li>
+<li><p><a class="reference internal" href="../exercises.html"><span class="doc std std-doc">materials</span></a> to help people learn about, apply, reflect on, and display these, for example workshop slides and timings.</p></li>
+</ul>
+</section>
+<section id="aims">
+<span id="aims-workshop"></span><h3>Aims<a class="headerlink" href="#aims" title="Permalink to this headline">¶</a></h3>
+<p>The Data Hazards materials are designed to make it as easy as possible for researchers to:</p>
+<ul class="simple">
+<li><p>learn about the breadth of ethical issues that can apply to data science work.</p></li>
+<li><p>understand what issues their own work might pose and what they could do to minimise negative impacts</p></li>
+<li><p>listen to others perspectives on their work, for example the people who are impacted by it, or experts in technology and society</p></li>
+<li><p>display their ethics self-assessment alongside their work, to let other people know that they have thought through these issues, and to inform any tech adopters of the work that would need doing to safely develop the work for deployment.</p></li>
+</ul>
+</section>
+<section id="find-out-more">
+<h3>Find out more<a class="headerlink" href="#find-out-more" title="Permalink to this headline">¶</a></h3>
+<p>If you’d like to read more about the project, this website contains our <a class="reference internal" href="../../index.html#project-timeline"><span class="std std-ref">roadmap</span></a>, <a class="reference internal" href="../exercises.html"><span class="doc std std-doc">materials</span></a>, and <a class="reference internal" href="misc/proposal.html"><span class="doc std std-doc">initial proposal</span></a>, as well as links to our <a class="reference external" href="https://github.com/very-good-science/data-hazards">GitHub repository</a> and <a class="reference external" href="https://osf.io/3fv7t">Open Science Framework project</a>.</p>
+</section>
+</section>
+<section id="why-are-successful-jgi-seed-corn-applicants-being-invited-to-take-part-in-data-hazards">
+<h2>Why are successful JGI seed corn applicants being invited to take part in Data Hazards?<a class="headerlink" href="#why-are-successful-jgi-seed-corn-applicants-being-invited-to-take-part-in-data-hazards" title="Permalink to this headline">¶</a></h2>
+<p>All of our <a class="reference internal" href="../../index.html#project-timeline"><span class="std std-ref">aims</span></a> can be covered in a 90-minute workshop format, which has been tested on live University of Bristol research projects, and had great feedback so far.
+We and the JGI think that this process will be similarly useful for the PIs of the JGI seed corn projects, particularly in developing their work further.</p>
+<p>This is also an opportunity for us to continue to develop these materials for the data science community, to understand:</p>
+<ul class="simple">
+<li><p>whether asynchronous applications of the hazard labels can be used even more quickly for self-assessments, while retaining the valuable reflection and discussion aspect of the workshops.</p></li>
+<li><p>what (if any) changes we may need to make to labels in order to support the breadth of data science research.</p></li>
+</ul>
+</section>
+<section id="what-types-of-projects-does-data-hazards-work-for">
+<span id="when-works-sc"></span><h2>What types of projects does Data Hazards work for?<a class="headerlink" href="#what-types-of-projects-does-data-hazards-work-for" title="Permalink to this headline">¶</a></h2>
+<p>Data Hazards apply to any project that contains data science, including any project that contains:</p>
+<ul class="simple">
+<li><p>creation of a new data set</p></li>
+<li><p>the creation of new algorithms</p></li>
+<li><p>the application of existing algorithms, including artificial intelligence, machine learning or statistics</p></li>
+</ul>
+</section>
+<section id="what-will-the-process-be">
+<span id="process-sc"></span><h2>What will the process be?<a class="headerlink" href="#what-will-the-process-be" title="Permalink to this headline">¶</a></h2>
+<p>Successful seed corn applicants who have indicated that they would like to be part of the process will be invited to take part in the asynchronous process.
+It will take approximately half an hour of your time and will involve:</p>
+<ul class="simple">
+<li><p>watching a short video explaining data hazards and how to apply them</p></li>
+<li><p>applying the data hazards to your project</p></li>
+<li><p>giving us your feedback on how the process worked for you</p></li>
+</ul>
+<p>Additionally, you will also be able to opt in to allowing us to circulate a short description of your project to collect other people’s thoughts about which data hazards apply, which we will then send to you.</p>
+<p>You will also have the option to consent for the information we collect to be used as part of the Data Hazards research, but this is not required to take part in the process.</p>
+</section>
+<section id="questions">
+<h2>Questions<a class="headerlink" href="#questions" title="Permalink to this headline">¶</a></h2>
+<p>If you have any questions about the Data Hazards process with respect to the JGI Seed Corn funding, please email <a class="reference external" href="mailto:natalie&#46;thurby&#37;&#52;&#48;bristol&#46;ac&#46;uk">natalie<span>&#46;</span>thurby<span>&#64;</span>bristol<span>&#46;</span>ac<span>&#46;</span>uk</a>.</p>
+</section>
+</section>
+
+
+              </div>
+              
+              
+          </main>
+          
+
+      </div>
+    </div>
+  
+  <script src="../../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+<footer class="footer mt-5 mt-md-0">
+  <div class="container">
+    
+    <div class="footer-item">
+      License: <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
+    </div>
+    
+    <div class="footer-item">
+      <p class="sphinx-version">
+Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.2.0.<br>
+</p>
+    </div>
+    
+  </div>
+</footer>
+  </body>
+</html>
