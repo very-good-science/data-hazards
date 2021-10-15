@@ -53,4 +53,4 @@ Additionally, you will also be able to opt in to allowing us to circulate a shor
 You will also have the option to consent for the information we collect to be used as part of the Data Hazards research, but this is not required to take part in the process.
 
 ## Questions
-If you have any questions about the Data Hazards process with respect to the JGI Seed Corn funding, please email [natalie.thurby@bristol.ac.uk](mailto:natalie.thurby@bristol.ac.uk).
+If you have any questions about the Data Hazards process with respect to the JGI Seed Corn funding, please email [natalie.thurlby@bristol.ac.uk](mailto:natalie.thurlby@bristol.ac.uk).
