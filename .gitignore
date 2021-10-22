@@ -8,3 +8,6 @@ presentations/
 .Rproj.user/
 .Rhistory
 data/
+
+# Storage for misc docs I don't want to commit (e.g abstracts/bios)
+misc_docs/
