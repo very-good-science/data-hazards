@@ -30,13 +30,27 @@ If you find an [issue][issues] that you'd like to help with, then please:
 3. Check that you are happy with the changes by [building the site locally](#build-the-site-locally).
 4. Then, once you've made your changes, submit a [pull request](https://help.github.com/articles/creating-a-pull-request): we'll review it as quick as we can 😄.
 
-#### Build the site locally
+### Adding slides
+We try to keep all our slides for Data Hazards on our website.
+
+The current process is:
+1. (Optional) create slides in powerpoint, upload to Google drive (which will convert it to Google slides) + check formatting (alternatively, create in Google slides)
+2. Create a new markdown web page.
+2. Publish google slides `File -> Publish to the web -> Embed -> Small`
+3. Copy and paste to new markdown web page.
+3. Make viewable with link `Share -> Anyone on the internet with this link can view` 
+4. Add link to markdown web page.
+
+Recommendations for a process to create html slides that works with myst markdown extremely welcome!
+
+### Build the site locally
 In order to build the site locally, you'll need to run the following from your root directory:
 `sphinx-build site/ site/_build/` 
 
 These require some Python packages to run. 
 You may want to set up a [virtual environment](https://docs.python.org/3/library/venv.html) first, so that you don't install these packages system-wide.
 Then you can install the packages using `pip install -r requirements.txt`
+
 
 ---
 [issues]: https://github.com/very-good-science/data-hazards/issues
