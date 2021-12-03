@@ -152,4 +152,5 @@ contents/materials/workshop/data-hazards
 contents/upcoming-events
 contents/exercises
 contents/sign-up
+contents/contact
 ```
