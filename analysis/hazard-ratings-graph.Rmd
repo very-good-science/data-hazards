@@ -39,6 +39,18 @@ hazards <- c(
 ```
 
 
+```{r scores}
+
+data %>%
+  select(contains("eval")) %>%
+  mutate(across(everything(), as.factor)) %>%
+  pivot_longer(cols = everything(), names_to = "Question", values_to = "Score", names_prefix = "eval.") %>%
+  drop_na() %>%
+  count(Question, Score) %>%
+  write.csv(., here("data", "ratings.csv"))
+
+```
+
 
 ```{r get-rankings}
 
@@ -98,11 +110,14 @@ data %>%
   pivot_longer(cols = hazards, names_to = "hazard", values_to = "ratings") %>%
   ggplot(aes(x=ratings, y=hazard)) +
   geom_line(aes(group = hazard)) +
-  geom_point(aes(color = timepoint)) + 
+  geom_point(aes(color = timepoint), size = 3) + 
   facet_wrap(~project) +
+  theme_bw() + 
   xlab("\nNumber of times selected") + 
   ylab("Hazard Label\n") + 
   guides(color=guide_legend(title="Timepoint"))
+
+ggsave("rating-changes.png", width = 6, height = 4, units = "in", dpi=330)
 
 ```
 
@@ -117,19 +132,27 @@ data %>%
   select(!hazards) %>%
   pivot_longer(cols = hazards, names_to = "hazard", values_to = "ratings") %>%
   pivot_wider(names_from = "timepoint", values_from = "ratings") %>%
-  mutate(diff = as.factor(After - Before)) %>%
+  mutate(diff = After - Before) %>%
   count(hazard, diff) %>%
   ungroup() %>%
-  pivot_wider(names_from = diff, values_from = n, values_fill = 0) %>%
-  rename("Up" = "1", "Down" = "-1") %>%
+  mutate(value = diff * n) %>%
+  #pivot_wider(names_from = diff, values_from = n, values_fill = 0) %>%
+  #rename("Up" = "1", "Down" = "-1") %>%
   # Make into a pyramid plot
-  ggplot(aes(hazards)) +
-  geom_bar(aes(y = -Down), stat = "identity", fill = "#fc8d62") + 
-  geom_bar(aes(y = Up), stat = "identity", fill = "#66c2a5") + 
+  ggplot(aes(y = hazard, x = value)) +
+  geom_point(aes(color = as.factor(diff)), size = 3) + 
+  #geom_line(arrow = arrow(ends="first", type = "closed")) +
+  #geom_line(arrow = arrow(ends="last", type = "closed")) +
+  geom_arrow(start = 0) +
   theme_minimal() +
-  coord_flip() +
-  scale_y_continuous(breaks = seq(from = -1, to = 6)) +
-  xlab("Hazard Label\n") + 
-  ylab("\nNumber of people who added or removed a label after discussion")
+  theme(panel.grid.minor = element_blank()) +
+  #coord_flip() +
+  ylab("Hazard Label\n") + 
+  xlab("\nNumber of people who added or removed labels")
 
+  # geom_bar(aes(y = -Down), stat = "identity", fill = "#fc8d62") + 
+  # geom_bar(aes(y = Up), stat = "identity", fill = "#66c2a5") + 
+
+
+# ggsave("ratings-moved.png", width = 6, height = 4, units = "in", dpi=330)
 ```
