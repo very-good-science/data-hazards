@@ -13,7 +13,7 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 
-data <- read.table(here("data", "21-sept-survey.txt"), sep = "\t", header = TRUE, encoding="utf-8")
+data <- read.table(here("..", "data", "21-sept-survey.txt"), sep = "\t", header = TRUE, encoding="utf-8")
 
 # Add a person ID colum
 data$ID <- seq.int(nrow(data))
@@ -47,7 +47,7 @@ data %>%
   pivot_longer(cols = everything(), names_to = "Question", values_to = "Score", names_prefix = "eval.") %>%
   drop_na() %>%
   count(Question, Score) %>%
-  write.csv(., here("data", "ratings.csv"))
+  write.csv(., here("..", "data", "ratings.csv"))
 
 ```
 
