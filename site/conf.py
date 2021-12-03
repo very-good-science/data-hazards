@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Data Hazards'
-copyright = '2021, Natalie Thurlby and Nina Di Cara'
-author = 'Natalie Thurlby and Nina Di Cara'
+project = "Data Hazards"
+copyright = "2021, Natalie Thurlby and Nina Di Cara"
+author = "Natalie Thurlby and Nina Di Cara"
 
 # The full version, including alpha/beta/rc tags
-release = 'v0.0.1'
+release = "v0.0.1"
 
 
 # -- General configuration ---------------------------------------------------
@@ -30,17 +30,18 @@ release = 'v0.0.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['myst_nb',
-              'sphinx_panels',
+extensions = [
+    "myst_nb",
+    "sphinx_panels",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ["_templates"]
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -49,7 +50,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 
-html_theme = 'pydata_sphinx_theme'
+html_theme = "pydata_sphinx_theme"
 
 html_theme_options = {
     "icon_links": [
@@ -69,25 +70,25 @@ html_theme_options = {
             "icon": "fab fa-twitter-square",
         },
     ],
-    'search_bar_text': 'Search this site...',
-    'show_prev_next': False,
+    "search_bar_text": "Search this site...",
+    "show_prev_next": False,
     "footer_items": ["license-footer", "sphinx-version"],
-
 }
 
 html_sidebars = {
-    'index': [],
-    'contents/materials/workshop/data-hazards': [],
-    'contents/sign-up': [],
-
+    "index": [],
+    "contents/materials/workshop/data-hazards": [],
+    "contents/sign-up": [],
+    "contents/contact": [],
 }
 
-html_favicon = '_static/favicon.png'
+html_favicon = "_static/favicon.png"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ["_static"]
+
 
 def setup(app):
     app.add_css_file("custom.css")
