@@ -14,20 +14,20 @@ The ethical implications go beyond most ethics Institutional Review Boards, to q
 
 ### Aims
 We aim to __create resources__ to:
-1. Create a shared vocabulary of Data Hazards in the form of [Data Hazard Labels](contents/materials/workshop/data-hazards).
+1. Create a shared vocabulary of Data Hazards in the form of [Data Hazard Labels](contents/data-hazards).
 2. Make ethical and future-thinking more accessible to data scientists, computer scientists and applied mathematicians - to apply to their own work.
-2. Enable bringing together and respecting diverse and interdisciplinary viewpoints to this work, through workshops or mailing lists.
+3. Enable bringing together and respecting diverse and interdisciplinary viewpoints to this work, through workshops or mailing lists.
 4. Find out what circumstances, and for who, these resources work best by
 
 ### How
 To support our aims we will:
-1. Get feedback on our draft [Data Hazard Labels](contents/materials/workshop/data-hazards), to develop them with the communities who will be using them.
+1. Get feedback on our draft [Data Hazard Labels](contents/data-hazards), to develop them with the communities who will be using them.
 2. Create resources that help data scientists reflect on their own work, by creating prompts, frameworks, and forms for them to consider.
 3. Run workshops and mailing lists where data scientists can listen to diverse perspectives and grow their ideas of what is possible, and where interdisciplinary researchers and the public can both be heard, respected, and listened to by the people who are doing computational and mathematical work.
 4. Listen to our community's feedback through surveys.
 
 ```{admonition} Why are the Hazard Labels so scary-looking?
-We know that the [Data Hazards labels](contents/materials/workshop/data-hazards) are a bit frightening. Argh, there's a skull!
+We know that the [Data Hazards labels](contents/data-hazards) are a bit frightening. Argh, there's a skull!
 Please know that __we don't want these labels to scare anyone away from considering ethics or from doing data science__, and we will do everything that we can to make applying Data Hazards labels as welcoming and approachable as possible, but also have some good reasons for choosing these images.
    
 We chose this format because of the similarity to [COSHH hazard labels](https://www.hse.gov.uk/chemical-classification/labelling-packaging/hazard-symbols-hazard-pictograms.htm) - hazard labels for chemicals.
@@ -148,7 +148,7 @@ Details TBC
 ```{toctree}
 :maxdepth: 2
 :hidden:
-contents/materials/workshop/data-hazards
+contents/data-hazards
 contents/upcoming-events
 contents/materials
 contents/sign-up

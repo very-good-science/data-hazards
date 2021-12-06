@@ -11,7 +11,7 @@ This page is essentially a crib sheet for the event, with links to things you'll
 * - Workshop survey
   - <a href="https://bristolexppsych.eu.qualtrics.com/jfe/form/SV_3IfJQ8kGNL9fxpc" target="_blank">Survey link</a>
 * - Data Hazard labels
-  - <a href="https://very-good-science.github.io/data-hazards/contents/materials/workshop/data-hazards.html" target="_blank">Label descriptions</a>
+  - <a href="https://very-good-science.github.io/data-hazards/contents/data-hazards.html" target="_blank">Label descriptions</a>
 * - Detailed timings
   - <a href="https://very-good-science.github.io/data-hazards/contents/materials/workshop/timings.html" target="_blank">Workshop timings</a>
 * - Sign up for future news

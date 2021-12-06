@@ -1,5 +1,0 @@
-# Discussion exercise
-
-
-## Overview
-

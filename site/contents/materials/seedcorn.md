@@ -11,8 +11,8 @@ The Data Hazards project aims to create materials to help researchers and data s
 
 ### Materials
 The Data Hazards materials consist of:
-- [11 Data Hazard labels](./workshop/data-hazards) which look similar to COSHH chemical hazard labels; they are supposed to communicate that while we still want to carry out this work, just as with dangerous chemicals, when we use data science we have a responsibility to "handle with care". We are developing these with researchers and the public. You can contribute to these through [our GitHub](https://github.com/very-good-science/data-hazards/), through [our workshops](../upcoming-events), or by [emailing us](mailto:grp-ethicaldatascience@groups.bristol.ac.uk).
-- [materials](../exercises) to help people learn about, apply, reflect on, and display these, for example workshop slides and timings.
+- [11 Data Hazard labels](../data-hazards) which look similar to COSHH chemical hazard labels; they are supposed to communicate that while we still want to carry out this work, just as with dangerous chemicals, when we use data science we have a responsibility to "handle with care". We are developing these with researchers and the public. You can contribute to these through [our GitHub](https://github.com/very-good-science/data-hazards/), through [our workshops](../upcoming-events), or by [emailing us](mailto:grp-ethicaldatascience@groups.bristol.ac.uk).
+- [materials](../materials) to help people learn about, apply, reflect on, and display these, for example workshop slides and timings.
 
 (aims-workshop)=
 ### Aims
@@ -23,7 +23,7 @@ The Data Hazards materials are designed to make it as easy as possible for resea
 - display their ethics self-assessment alongside their work, to let other people know that they have thought through these issues, and to inform any tech adopters of the work that would need doing to safely develop the work for deployment.
 
 ### Find out more
-If you'd like to read more about the project, this website contains our {ref}`roadmap<project-timeline>`, [materials](../exercises), and [initial proposal](./misc/proposal), as well as links to our [GitHub repository](https://github.com/very-good-science/data-hazards) and [Open Science Framework project](https://osf.io/3fv7t).
+If you'd like to read more about the project, this website contains our {ref}`roadmap<project-timeline>`, [materials](../materials), and [initial proposal](./misc/proposal), as well as links to our [GitHub repository](https://github.com/very-good-science/data-hazards) and [Open Science Framework project](https://osf.io/3fv7t).
 
 ## Why are successful JGI seed corn applicants being invited to take part in Data Hazards?
 All of our {ref}`aims<project-timeline>` can be covered in a 90-minute workshop format, which has been tested on live University of Bristol research projects, and had great feedback so far.
