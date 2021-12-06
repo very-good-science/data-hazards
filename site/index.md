@@ -150,7 +150,7 @@ Details TBC
 :hidden:
 contents/materials/workshop/data-hazards
 contents/upcoming-events
-contents/exercises
+contents/materials
 contents/sign-up
 contents/contact
 ```
