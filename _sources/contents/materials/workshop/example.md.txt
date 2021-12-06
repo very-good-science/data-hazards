@@ -22,7 +22,7 @@ It is not a diagnostic tool, but rather it is supposed to be used as a research 
 The algorithm has been designed and tested for computational efficiency, and is not resource-intensive.
 
 ## How to apply the hazards
-Go through [the list of hazards](data-hazards.md) and try to apply each hazard, looking at the examples and description for clarifications. 
+Go through [the list of hazards](../..data-hazards.md) and try to apply each hazard, looking at the examples and description for clarifications. 
 
 ## The applied hazards
 
@@ -66,7 +66,7 @@ Go through [the list of hazards](data-hazards.md) and try to apply each hazard, 
 ```
 
 ## Applying the safety precautions
-The applied hazards can then be used to help the researcher create a list of safety precautions for their project using those provided on the [hazards page](data-hazards.md). 
+The applied hazards can then be used to help the researcher create a list of safety precautions for their project using those provided on the [hazards page](../..data-hazards.md). 
 In this case the safety precautions might be:
 - Clearly lay out responsibilities for research and adoption/deployment.
 - Test the algorithm's efficacy separately for minority groups.
