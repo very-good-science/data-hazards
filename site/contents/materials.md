@@ -20,11 +20,18 @@ materials/workshop/workshop-slides
 
 ## Teaching/Lecture format
 
+For the teaching format there is a summary page for the students that has some links to be used during a lecture. 
+There is also a page for teachers that can be used to help plan a lesson which includes suggested timings and the overview of the activity. 
+
 ```{toctree}
 :maxdepth: 1
-materials/misc/proposal
+materials/teaching/students
+mateirals/teaching/teachers
 ```
 
+## Asynchronous/Solo format
+
+Materials coming soon - check back February 2022.
 
 ## Miscellaneous
 
