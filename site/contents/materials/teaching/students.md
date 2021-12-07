@@ -28,4 +28,6 @@ You can get the full detail of all the Data Hazards with their additional info a
 
 ## Slides
 
-You can find [the slides we were presenting here](https://docs.google.com/presentation/d/1KzTdvnL8wk9oZ-h7C_yNWHtA4ki5i6moij8y-gP-z0s/edit?usp=sharing) in case you would like access to them later. 
+You can find [the slides we were presenting here](https://docs.google.com/presentation/d/1KzTdvnL8wk9oZ-h7C_yNWHtA4ki5i6moij8y-gP-z0s/edit?usp=sharing) (and below) in case you would like access to them later. 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgCNu2VJz7pwb4obf8AR9haUTh8dZUw119rewY32pn0F-LOBvffhct9zt9qyiOzLWgzBFRgtYX_kZ5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
