@@ -6,7 +6,7 @@ This page contains some handy links about the Data Hazards project that might be
 
 [Link to the Slido](https://app.sli.do/event/wes4zth7)
 
-Alternatively you can access it by going to https://slido.com and entering the code #192908.
+Alternatively you can access it by going to https://slido.com and entering the code `#192908`.
 
 ## Data Hazard label names
 
