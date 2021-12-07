@@ -13,11 +13,11 @@ This page is essentially a crib sheet for the event, with links to things you'll
 * - Data Hazard labels
   - <a href="https://very-good-science.github.io/data-hazards/contents/data-hazards.html" target="_blank">Label descriptions</a>
 * - Detailed timings
-  - <a href="https://very-good-science.github.io/data-hazards/contents/materials/workshop/timings.html" target="_blank">Workshop timings</a>
+  - [Workshop timings](materials/workshop/timings)
 * - Sign up for future news
-  - <a href="https://very-good-science.github.io/data-hazards/contents/sign-up.html" target="_blank">Mailing list</a>
-* - Code of Code Conduct
-  - <a href="https://very-good-science.github.io/data-hazards/contents/materials/code-of-conduct.html" target="_blank">Link</a>
+  - [Mailing list](contents/sign-up)
+* - Code of Conduct
+  - [Code of Conduct](contents/materials/code-of-conduct)
 ```
 
 ## Scenario prompts  
