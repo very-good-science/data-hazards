@@ -77,7 +77,7 @@ html_theme_options = {
 
 html_sidebars = {
     "index": [],
-    "contents/materials/workshop/data-hazards": [],
+    "contents/data-hazards": [],
     "contents/sign-up": [],
     "contents/contact": [],
 }
