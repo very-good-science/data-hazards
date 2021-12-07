@@ -26,7 +26,7 @@ There is also a page for teachers that can be used to help plan a lesson which i
 ```{toctree}
 :maxdepth: 1
 materials/teaching/students
-mateirals/teaching/teachers
+materials/teaching/teachers
 ```
 
 ## Asynchronous/Solo format
