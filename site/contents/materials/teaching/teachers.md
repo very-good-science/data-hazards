@@ -70,7 +70,7 @@ We ask:
 
 You can find the slides we have used to present the background information about the Data Hazards [at this link]((https://docs.google.com/presentation/d/1KzTdvnL8wk9oZ-h7C_yNWHtA4ki5i6moij8y-gP-z0s/edit?usp=sharing)). There is also a preview of the slides below. 
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgCNu2VJz7pwb4obf8AR9haUTh8dZUw119rewY32pn0F-LOBvffhct9zt9qyiOzLWgzBFRgtYX_kZ5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgCNu2VJz7pwb4obf8AR9haUTh8dZUw119rewY32pn0F-LOBvffhct9zt9qyiOzLWgzBFRgtYX_kZ5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Tell us you used these resources
 If you used these resources in your teaching, you are under no obligation to do so, but we would be so pleased if you could send us a [brief email](grp-ethicaldatascience@groups.bristol.ac.uk) to let us know.
