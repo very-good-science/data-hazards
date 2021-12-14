@@ -4,7 +4,7 @@ On this page you will find materials we have made to help people to use or apply
 This includes a workshop format, a teaching/lecture based format, and an asychronous format which can be adapted to just be an individual exercise.
 We are currently developing all these materials so please do get in touch with us through the 'Contact' tab above if you have any thoughts or examples of how you have used the materials! 
 
-All of these activities are based around the [Data Hazard labels](../data-hazards). 
+All of these activities are based around the [Data Hazard labels](data-hazards). 
 
 ## Workshop format
 
