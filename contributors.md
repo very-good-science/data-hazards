@@ -18,3 +18,10 @@ To be added, please [submit an issue](https://github.com/very-good-science/data-
 ## Contributors
 
 <!--- Add yourself here!---> 
+
+### Ismael Kherrouvi Garcia
+
+* Role: Workshop facilitator (and huge fan!)
+* ORCID: [0000-0002-6850-8375](https://doi.org/0000-0002-6850-8375)
+* Find me on :octocat: [Ismael-KG](https://github.com/Ismael-KG), and Twitter ([@hermeneuticist](https://twitter.com/hermeneuticist))
+> In September 2021, I was delighted to facilitate a workshop alongside [@NatalieThurlby](https://github.com/NatalieThurlby) and [@ninadicara](https://github.com/ninadicara) to [test the Data Hazard labels](https://www.bristol.ac.uk/golding/events/2021/data-hazards-workshop---21-september-2021.html) with researchers from diverse backgrounds. This meant working with Natalie and Nina to familiarise myself with [the prompts they had prepared](https://github.com/very-good-science/data-hazards/blob/ae2ecfad7f85fe48670ed6221a6563353d31e77b/images/worst-case-prompt.png), and then keeping the conversation flowing during breakout rooms with workshop participants. I had previously gathered feedback from The Alan Turing Institute's [Ethics Advisory Group](https://www.turing.ac.uk/research/data-ethics/ethics-advisory-group) (EAG) for the Data Hazard labels. My time with the Turing's EAG allowed me to appreciate the value of the Data Hazard labels, both in the context of training data scientists on questions of ethics, and for preparing documentation for the review of research ethics committees.
