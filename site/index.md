@@ -153,4 +153,5 @@ contents/upcoming-events
 contents/materials
 contents/sign-up
 contents/contact
+contents/hazards-app
 ```
