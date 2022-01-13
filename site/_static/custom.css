@@ -30,8 +30,8 @@ div.timeline div.entry.right::after {
 
 .app-container {
   display: flex;
-  height: 800px;
-  width: 1000px;
+  height: 900px;
+  width: 150%;
   justify-content: left;
   align-items: flex-start;
   overflow: hidden !important;
