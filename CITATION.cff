@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Data Hazards
+message: >-
+  If you use the materials or ideas from this
+  repository, please cite it using the following
+  metadata.
+type: software
+authors:
+  - family-names: Zelenka
+    given-names: Natalie
+    email: natalie.zelenka@bristol.ac.uk
+    orcid: 'https://orcid.org/0000-0002-1007-0286'
+  - given-names: Nina H.
+    family-names: Di Cara
+    email: ninadicara@protonmail.com
+    orcid: 'https://orcid.org/0000-0002-6179-1067'
+repository-code: 'https://github.com/very-good-science/data-hazards'
+url: 'https://very-good-science.github.io/data-hazards/'
+abstract: >-
+  Data Hazards is a project to find a shared
+  vocabulary for talking about worst-case scenarios
+  of data science - and to use that vocabulary to
+  help people understand and avoid Data Hazards.
+keywords:
+  - ethics
+  - data science
+  - data ethics
+  - responsible innovation
+license: CC-BY-4.0
+version: '0.1'
