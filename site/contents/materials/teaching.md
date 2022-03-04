@@ -1,9 +1,17 @@
-# Data Hazards Teaching Materials
+# Teaching
 
-This page contains information that might be useful to those who are planning to include the Data Hazards in their teaching. 
+The Data Hazard labels make a great resource for teaching, and this has been a popular use for them so far. 
+This page contains information that might be useful if you are planning to include the Data Hazards in your teaching, and is based on student seminars that we delivered at the University of Bristol. 
+The format is generally aimed at undergraduate STEM students in a seminar, but could easily be adapted to suit the context.
+At the sidebar you will also find an example of the prompt page we gave to students to guide them through the session. 
 
-Here we give a specific example of how to introduce the Data Hazards in a 50 minute teaching slot. 
-The content discussed is generally aimed at undergraduate STEM students, but could easily be adapted to suit the context.
+The Data Hazards resources have also been used for undergraduate and masters students studying data storytelling, digital health and data science at other institutions. 
+
+
+```{toctree}
+:maxdepth: 1
+materials/teaching/students
+```
 
 ## Ethos and background 
 
@@ -32,9 +40,9 @@ Prior to the discussion, students should have the opportunity to ask clarifying 
 17:00 - 17:05 - Settling in  
 17:05 - 17:15 - Background presentation (see link to slides below)
 17:15 - 17:20 - Time to get into small groups  
-     17:20 - 17:25 - Project presentation by lecturer  
-     17:25 - 17:30 - Questions  
-     17:30 - 17:45 - Discussion and voting on Hazards  
+     17:20 - 17:25 - Case study presentation by lecturer  
+     17:25 - 17:30 - Small group discussions, with lecturer walking around the groups to assist
+     17:30 - 17:45 - Larger group feedback, identifying trends and voting on Hazards  
 17:45 - 17:50 - Wrap up  
 
 ## Preparation Required
@@ -52,19 +60,16 @@ We recommend you include as many of the following details in any case study desc
 - Who is involved in the research, e.g researchers, communities, sponsors?
 - Potential applications/routes to impact
 
-### Roles
-
-In the workshop format there are usually **project owners**, who present the project and answer questions about it, and then **facilitators** who help the small group to discuss the project. 
-Depending on the staff available and the group size you could have one person doing both roles, and might need at least one facilitator between two groups. 
 
 ### Interactive questions
 We used [slido](https://www.sli.do/) to ask questions to the entire group about their application of the Data Hazards.
 This requires a few minutes of setup.
 Alternatively, the questions could equally be done by a show of hands, in which case you might want to focus your attention on 1-3 relevant Hazard labels.
 
-We ask:
+We usually ask:
 - Following the discussion, which Hazards do you think apply to the case study? (Multiple choices: choose as many as you like)
 - Did you change your mind about which Hazards applied during the discussion? (Yes/No)
+- What have you taken away from the group discussion?
 
 ## Slides
 

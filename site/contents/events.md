@@ -1,4 +1,10 @@
-# Sign-up
+# Events
+
+Please see recent annoucements below including a list of our upcoming events, the slides from our previous events and also a change log which records important updates that we have made to the website or the Data Hazards themselves. 
+
+If you'd like to recieve updates straight to your email then you can sign up to our mailing list below.
+
+## Mailing list
 
 Sign up to the Data Hazards Newsletter to hear about project milestones such as publications or the release of new workshop dates:
 
@@ -24,3 +30,25 @@ Sign up to the Data Hazards Newsletter to hear about project milestones such as 
 
 <!--End mc_embed_signup-->
 ```
+
+Nina Di Cara and Natalie Thurlby manage the mailing list and mailing list data.
+Our contact details are available in the contact tab. 
+
+## Upcoming events
+
+- __9th March__ Talk at Strathmore University
+- __16th March__ University of Bristol Integrative Epidemiology Unit Seminar
+- __22-23rd March__ Data Hazards 'Gameshow' at [AI UK]() - we'll be on the XXXXX stage! 
+- __May & June 2022__ Data Hazards Workshop Facilitator Training [[Register your interest here]()]
+- __June 2022__ Jean Golding Institute Showcase [[Event info](events/jgi-showcase-events)]
+
+## Previous events
+  
+- __13.04.2022__ Turing Community Catch Up [[Slides doi:10.5281/zenodo.6326911](https://zenodo.org/record/6326912)]
+- __13.10.2022__ Bristol Tech Festival [[Slides ](events/bristol-tech-fest)]
+- __21.09.2022__ Data Hazards Workshop 
+
+## Change log
+
+
+

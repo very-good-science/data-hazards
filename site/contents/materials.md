@@ -1,4 +1,4 @@
-# Materials
+# How to use
 
 On this page you will find materials we have made to help people to use or apply the hazards. 
 This includes a workshop format, a teaching/lecture based format, and an asychronous format which can be adapted to just be an individual exercise.

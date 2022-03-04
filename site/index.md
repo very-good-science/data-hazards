@@ -149,8 +149,9 @@ Details TBC
 :maxdepth: 2
 :hidden:
 contents/data-hazards
-contents/upcoming-events
+contents/about
 contents/materials
-contents/sign-up
+contents/contribute
+contents/events
 contents/contact
 ```
