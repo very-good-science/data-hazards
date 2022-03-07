@@ -2,8 +2,8 @@
 
 Depending on what you would like to do there are different ways to get involved. 
 Please check out the options below!
-If you would like to suggest a change the wording of a Data Hazard, or suggest a new Hazard, then please 
-For now, they are a little thin, so if you'd like to help please get in touch with us, please [send us an email][dec-email] and we will help you to find what you're looking for!
+If you can't find what you are looking for then [send us an email][dec-email] and we will help!
+You can also come to our open community co-working calls if you would like to chat to us about an idea you have had.
 
 
 ## Suggesting new or improved Data Hazards
@@ -22,9 +22,19 @@ To add the changes to the main repository then:
 
 1. [Fork](https://help.github.com/articles/fork-a-repo) this repository to your own GitHub account.  
 2. Check that you are happy with the changes by [building the site locally](#build-the-site-locally).  
-3. Then, once you've made your changes, submit a [pull request](https://help.github.com/articles/creating-a-pull-request): we'll review it as quick as we can 😄.
+3. Before submitting your changes, please add a note to the [Change Log](changelog) that describes the change you made.
+4. Then, once you've made your changes, submit a [pull request](https://help.github.com/articles/creating-a-pull-request): we'll review it as quick as we can 😄.
 
 If you are fixing an [issue][issues] then please comment on it before you start working so that we don't repeat your work! 
+
+### Build the site locally
+
+In order to build the site locally, you'll need to run the following from your root directory:
+`sphinx-build site/ site/_build/` 
+
+These require some Python packages to run. 
+You may want to set up a [virtual environment](https://docs.python.org/3/library/venv.html) first, so that you don't install these packages system-wide.
+Then you can install the packages using `pip install -r requirements.txt`
 
 ## Adding slides
 We try to keep all our slides for Data Hazards on our website.
@@ -38,15 +48,6 @@ The current process is:
 4. Add link to markdown web page.
 
 Recommendations for a process to create html slides that works with myst markdown extremely welcome!
-
-## Build the site locally
-In order to build the site locally, you'll need to run the following from your root directory:
-`sphinx-build site/ site/_build/` 
-
-These require some Python packages to run. 
-You may want to set up a [virtual environment](https://docs.python.org/3/library/venv.html) first, so that you don't install these packages system-wide.
-Then you can install the packages using `pip install -r requirements.txt`
-
 
 ---
 [issues]: https://github.com/very-good-science/data-hazards/issues
