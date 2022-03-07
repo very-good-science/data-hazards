@@ -7,11 +7,6 @@ At the sidebar you will also find an example of the prompt page we gave to stude
 
 The Data Hazards resources have also been used for undergraduate and masters students studying data storytelling, digital health and data science at other institutions. 
 
-```{toctree}
-:maxdepth: 1
-materials/teaching/students
-```
-
 ## Format
 
 This teaching example is adapted from the general Data Hazards Workshop format, which is used by those who want feedback on specific research ideas. 
@@ -20,6 +15,12 @@ Here we keep the reflective discussion format of the workshop, but suggest the l
 We suggest starting with a 10-15 minute presentation to introduce the Data Hazards to the students, along with the reasoning of why they exist. 
 The lecturer should then present a case study that the students can discuss in small groups.
 Prior to the discussion, students should have the opportunity to ask clarifying questions about the project. 
+
+We provided a summary page for students too, to use during the seminar.
+```{toctree}
+:maxdepth: 1
+teaching/students
+```
 
 ## Timings
 
@@ -59,11 +60,11 @@ We usually ask:
 
 ## Slides
 
-You can find the slides we have used to present the background information about the Data Hazards in a seminar [at this link]((https://docs.google.com/presentation/d/1KzTdvnL8wk9oZ-h7C_yNWHtA4ki5i6moij8y-gP-z0s/edit?usp=sharing)). There is also a preview of the slides below. 
+You can find the slides we have used to present the background information about the Data Hazards in a seminar [at this link](https://docs.google.com/presentation/d/1KzTdvnL8wk9oZ-h7C_yNWHtA4ki5i6moij8y-gP-z0s/edit?usp=sharing). There is also a preview of the slides below. 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgCNu2VJz7pwb4obf8AR9haUTh8dZUw119rewY32pn0F-LOBvffhct9zt9qyiOzLWgzBFRgtYX_kZ5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Tell us you used these resources
+## Tell us you if used these resources
 
 If you used these resources in your teaching, you are under no obligation to do so, but we would be so pleased if you could send us a [brief email](grp-ethicaldatascience@groups.bristol.ac.uk) to let us know.
 We'd love to hear what case study you used and how the students reacted, and if there's anything we could do to make these resources easier to use.
