@@ -1,4 +1,4 @@
-# Change Log
+# Change log
 
 The change log records when changes that have been made to the project and gives a brief description of what the changes were. 
 The change log started in March 2022. 
