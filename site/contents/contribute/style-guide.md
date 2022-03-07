@@ -23,23 +23,21 @@ They may also be called 'the *H*azards' for short, but we prefer the full term t
 All new data hazards should use the following structure:
 
 ```
-
-# Hazard: Name of the hazard
-
-```{image} ../../images/hazards/hazard-image-name.png
-:alt: A red diamond shaped outline (like a warning sign) with .....
-:width: 250px
-```
-
-## Description
-A description should go here.
-
-## Examples
-- Example 1
-- Example 2
-
-## Safety Precautions
-- Pre-caution 1 
-- Pre-caution 2
-
+># Hazard: Name of the hazard
+>
+>```{image} ../../images/hazards/hazard-image-name.png
+>:alt: A red diamond shaped outline (like a warning sign) with .....
+>:width: 250px
+>```
+>
+>## Description
+>A description should go here.
+>
+>## Examples
+>- Example 1
+>- Example 2
+>
+>## Safety Precautions
+>- Pre-caution 1 
+>- Pre-caution 2
 ```
