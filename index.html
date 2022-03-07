@@ -8,36 +8,39 @@
 
     <title>Data Hazards &#8212; Data Hazards v0.0.1 documentation</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
-
+    <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+  
     
-  <link rel="stylesheet"
-    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
-
+    <link rel="stylesheet"
+      href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+    <link rel="preload" as="font" type="font/woff2" crossorigin
+      href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin
+      href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+  
     
       
-
+  
     
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/css/blank.css" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/pydata-sphinx-theme.css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/custom.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
     <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
-
+    <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+  
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
     <script src="_static/doctools.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <link rel="shortcut icon" href="_static/favicon.png"/>
@@ -85,20 +88,26 @@
 </li>
 
 <li class="toctree-l1 nav-item">
- <a class="reference internal nav-link" href="contents/upcoming-events.html">
-  Upcoming events
+ <a class="reference internal nav-link" href="contents/about.html">
+  About
  </a>
 </li>
 
 <li class="toctree-l1 nav-item">
  <a class="reference internal nav-link" href="contents/materials.html">
-  Materials
+  How to use
  </a>
 </li>
 
 <li class="toctree-l1 nav-item">
- <a class="reference internal nav-link" href="contents/sign-up.html">
-  Sign-up
+ <a class="reference internal nav-link" href="contents/contribute.html">
+  Contributing
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="contents/events.html">
+  Events
  </a>
 </li>
 
@@ -119,22 +128,16 @@
       <div class="navbar-end-item">
         <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
         <li class="nav-item">
-          <a class="nav-link" href="https://github.com/very-good-science/data-hazards" rel="noopener" target="_blank" title="GitHub">
-            <span><i class="fab fa-github-square"></i></span>
-            <label class="sr-only">GitHub</label>
-          </a>
+          <a class="nav-link" href="https://github.com/very-good-science/data-hazards" rel="noopener" target="_blank" title="GitHub"><span><i class="fab fa-github-square"></i></span>
+            <label class="sr-only">GitHub</label></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://osf.io/3fv7t" rel="noopener" target="_blank" title="Open Science Framework">
-            <span><i class="fas fa-book-open"></i></span>
-            <label class="sr-only">Open Science Framework</label>
-          </a>
+          <a class="nav-link" href="https://osf.io/3fv7t" rel="noopener" target="_blank" title="Open Science Framework"><span><i class="fas fa-book-open"></i></span>
+            <label class="sr-only">Open Science Framework</label></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://twitter.com/hashtag/DataHazards" rel="noopener" target="_blank" title="Twitter">
-            <span><i class="fab fa-twitter-square"></i></span>
-            <label class="sr-only">Twitter</label>
-          </a>
+          <a class="nav-link" href="https://twitter.com/hashtag/DataHazards" rel="noopener" target="_blank" title="Twitter"><span><i class="fab fa-twitter-square"></i></span>
+            <label class="sr-only">Twitter</label></a>
         </li>
       </ul>
       </div>
@@ -316,7 +319,7 @@ We made this choice because we want a similar response from people:</p>
 <p class="card-text"><strong>Oct 2021</strong> Use workshop feedback to improve data hazards and present early results</p>
 </div>
 <div class="card-body docutils">
-<p class="card-text"><span class="fa fa-check text-success mr-1"></span> Present early results from workshop at <a class="reference external" href="https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027">AI Ethics Best Practices and the Future of Innovation</a> as part of <a class="reference external" href="https://bristoltechfest.org/">Bristol Tech Festival</a> on <strong>13th Oct 2021</strong> (<a class="reference internal" href="contents/materials/bristol-tech-fest.html"><span class="doc std std-doc">slides</span></a>).</p>
+<p class="card-text"><span class="fa fa-check text-success mr-1"></span> Present early results from workshop at <a class="reference external" href="https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027">AI Ethics Best Practices and the Future of Innovation</a> as part of <a class="reference external" href="https://bristoltechfest.org/">Bristol Tech Festival</a> on <strong>13th Oct 2021</strong> (<a class="reference internal" href="contents/events/bristol-tech-fest.html"><span class="doc std std-doc">slides</span></a>).</p>
 <ul class="simple">
 <li><p class="card-text">Look at workshop feedback to make improvements to:</p>
 <ul>
@@ -403,8 +406,8 @@ We made this choice because we want a similar response from people:</p>
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
-<footer class="footer mt-5 mt-md-0">
+    <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+  <footer class="footer mt-5 mt-md-0">
   <div class="container">
     
     <div class="footer-item">
@@ -413,7 +416,7 @@ We made this choice because we want a similar response from people:</p>
     
     <div class="footer-item">
       <p class="sphinx-version">
-Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.3.1.<br>
+Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.4.0.<br>
 </p>
     </div>
     
