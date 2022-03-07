@@ -18,3 +18,5 @@ Holly Faser, University of Bristol, used the Data Hazards in a seminar for MSc s
 
 Natalie Zelenka used the Data Hazards in her thesis as part of the discussion of the ethical aspects of her work.
 [See this example on Natalie's website](https://nataliezelenka.github.io/phenotype_from_genotype/c04-snowflake/7-discussion.html#ethics-self-assessment)
+
+You can also see [another analysis by Natalie here](misc/geno_to_pheno_example.md).

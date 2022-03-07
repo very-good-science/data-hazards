@@ -1,51 +1,32 @@
 # How to use
 
-On this page you will find materials we have made to help people to use or apply the hazards. 
+On this page you will find materials we have made to help people to use or apply the [Data Hazard labels](data-hazards). 
 This includes a workshop format, a teaching/lecture based format, and an asychronous format which can be adapted to just be an individual exercise.
+
+You are welcome to use any of the materials we share here, which (like all of our content) are available to use with a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+This means, roughly, they can be re-used and adapted as long as you credit this repository. 
+
 We are currently developing all these materials so please do get in touch with us through the [Contact](contact) tab above if you have any thoughts or examples of how you have used the materials! 
 Alternatively if you have changes in mind that you would like to make then check out [How to contribute](contribute) - we always welcome new contributors!
 
-All of these activities are based around the [Data Hazard labels](data-hazards). 
-
-
-```{admonition} Stay up to date
-:class: tip
-✨[Sign up to our newsletter mailing list](http://eepurl.com/hHj-ej)✨  
-
-Sign up to hear about project milestones such as publications or the release of new workshop dates.
-
-```
-
-## Workshop format
-
-If you'd like to be part of any future test workshops then sign up to the mailing list using the 'Sign Up' tab above.
-
 ```{toctree}
 :maxdepth: 1
-materials/code-of-conduct
-materials/workshop/example
-materials/workshop/timings
-materials/workshop/workshop-slides
+code-of-conduct
+materials/workshop
+materials/teaching
+materials/self-assessment
 ```
 
-## Teaching/Lecture format
+## Ethos 
 
-For the teaching format there is a summary page for the students that has some links to be used during a lecture. 
-There is also a page for teachers that can be used to help plan a lesson which includes suggested timings and the overview of the activity. 
+If you are using the Data Hazards, please keep in mind the ethos that they were intended to be used with. 
+The Data Hazards are built on the foundations of standpoint theory. 
+This is an epistemiological theory that knowledge (including in the sciences) is not objective, and that our perspectives are shaped by our lived socio-political experiences. 
+This means that ethical problems are not going to have a single correct answer, and that to get a well-rounded understanding of the ethical issues of any new technology we need people from lots of different standpoints to analyse it from their perspective. 
+This is the best way we can understand the harms it could possibly cause.
+We also need to make sure that we are paying attention to how technology might be more likely to adversely affect people from minoritised backgrounds.
 
-```{toctree}
-:maxdepth: 1
-materials/teaching/students
-materials/teaching/teachers
-```
-
-## Asynchronous/Solo format
-
-Materials coming soon - check back February 2022.
-
-## Miscellaneous
-
-```{toctree}
-:maxdepth: 1
-materials/misc/proposal
-```
+In summary, the Data Hazards exist to prompt discussion, reflection and thought. 
+They are not a checkbox exercise, and there is no requirement for a group to come to a consensus. 
+In an individual context you will likely come to a conclusion, but someone else may have a different view.
+We hope that the Data Hazards discussion and reflective activities will help researchers be aware of a broader variety of potential ethical risks in tech projects, and that ethics is complex, situational and worth discussing.

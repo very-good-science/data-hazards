@@ -7,24 +7,10 @@ At the sidebar you will also find an example of the prompt page we gave to stude
 
 The Data Hazards resources have also been used for undergraduate and masters students studying data storytelling, digital health and data science at other institutions. 
 
-
 ```{toctree}
 :maxdepth: 1
 materials/teaching/students
 ```
-
-## Ethos and background 
-
-If you are teaching the Data Hazards, please keep in mind the ethos that they were intended to be used with. 
-The Data Hazards are built on the foundations of standpoint theory. 
-This is an epistemiological theory that knowledge (including in the sciences) is not objective, and that our perspectives are shaped by our lived socio-political experiences. 
-This means that ethical problems are not going to have a single correct answer, and that to get a well-rounded understanding of the ethical issues of any new technology we need people from lots of different standpoints to analyse it from their perspective. 
-This is the best way we can understand the harms it could possibly cause.
-We also need to make sure that we are paying attention to how technology might be more likely to adversely affect people from minoritised backgrounds.
-
-In summary, the Data Hazards exist to prompt discussion, reflection and thought. 
-They are not a checkbox exercise, and there is no requirement for a group to come to a consensus. 
-We hope that the Data Hazards discussion and reflective activities will help students be aware of a broader variety of potential ethical risks in tech projects, and that ethics is complex, situational and worth discussing in their future roles. 
 
 ## Format
 
@@ -73,10 +59,12 @@ We usually ask:
 
 ## Slides
 
-You can find the slides we have used to present the background information about the Data Hazards [at this link]((https://docs.google.com/presentation/d/1KzTdvnL8wk9oZ-h7C_yNWHtA4ki5i6moij8y-gP-z0s/edit?usp=sharing)). There is also a preview of the slides below. 
+You can find the slides we have used to present the background information about the Data Hazards in a seminar [at this link]((https://docs.google.com/presentation/d/1KzTdvnL8wk9oZ-h7C_yNWHtA4ki5i6moij8y-gP-z0s/edit?usp=sharing)). There is also a preview of the slides below. 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgCNu2VJz7pwb4obf8AR9haUTh8dZUw119rewY32pn0F-LOBvffhct9zt9qyiOzLWgzBFRgtYX_kZ5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Tell us you used these resources
+
 If you used these resources in your teaching, you are under no obligation to do so, but we would be so pleased if you could send us a [brief email](grp-ethicaldatascience@groups.bristol.ac.uk) to let us know.
 We'd love to hear what case study you used and how the students reacted, and if there's anything we could do to make these resources easier to use.
+You can read examples of how other people used them on our [Examples page](examples).
