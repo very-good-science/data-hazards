@@ -1,4 +1,4 @@
-# Hazard: Ranks or Classifies People
+# Hazard: Ranks Or Classifies People
 
 ```{image} ../../images/hazards/classifies-people.png
 :alt: A red diamond shaped outline (like a warning sign) with a set of weighing scales in the middle, and a person sitting on each side of the scale.

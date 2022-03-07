@@ -1,4 +1,4 @@
-# Hazard: Danger of Misuse
+# Hazard: Danger Of Misuse
 
 ```{image} ../../images/hazards/misuse.png
 :alt: A red diamond shaped outline (like a warning sign) with a hammer raised above a screw in the middle.

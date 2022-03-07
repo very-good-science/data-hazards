@@ -1,4 +1,4 @@
-# Hazard: Risk to Privacy
+# Hazard: Risk To Privacy
 
 ```{image} ../../images/hazards/privacy.png
 :alt: A red diamond shaped outline (like a warning sign) with a picture of a surveillance camera in the middle.
