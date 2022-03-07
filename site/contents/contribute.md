@@ -6,6 +6,7 @@ code-of-conduct
 style-guide
 how-to-contribute
 credit-for-contributions
+contributors
 changelog
 ```
 
@@ -48,7 +49,8 @@ The [How to contribute](contribute/how-to-contribute) guide gives you an overvie
 
 ## 4. Get credit
 
-The Data Hazards team are very keen to recognise all 
+The Data Hazards team are very keen to recognise all contributions people make to this project. 
+Check out our [Credit for contributions](contribue/../contribute/credit-for-contributions) page to see how to make sure you get acknowledged on the website. 
 
 ---
 [issues]: https://github.com/very-good-science/data-hazards/issues

@@ -1,4 +1,4 @@
-# Record of Contributions
+# Record of contributions
 
 The Data Hazards project exists because of the support and contributions of the many different people below.
 
@@ -44,6 +44,13 @@ To be added, please [submit an issue](https://github.com/very-good-science/data-
 ## Contributors
 
 <!--- Add yourself here!--->
+
+### Nina Di Cara  
+* Role: Co-PI
+* ORCID [0000-0002-6179-1067](https://orcid.org/0000-0002-6179-1067)
+* GitHub: [ninadicara](https://github.com/ninadicara)
+> Along with [Natalie](natalie-zelenka) I worked on the original idea for the Data Hazards, created resources around them (like teaching materials, slides, reflective prompts, illustrations), planned and delivered our workshops, and the website content. Jointly Natalie and I provide leadership for the project in terms of its next steps and uses. I care a lot about reducing the harm that technology can do to people who may not have power to fight back against, and hope this projects goes some way to making us all think more carefully about what we can all do as individuals to prevent harm. I am also thrilled to have been able to work with (and continue to work with) all the fantastic people who have got involved with this project! 
+
 
 ### Natalie Zelenka
 * Role: Co-PI 
