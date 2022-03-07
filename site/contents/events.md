@@ -4,14 +4,6 @@ Please see recent annoucements below including a list of our upcoming events, th
 
 If you'd like to recieve updates straight to your email then you can sign up to our mailing list below.
 
-```{admonition} Stay up to date
-:class: tip
-✨[Sign up to our newsletter mailing list](http://eepurl.com/hHj-ej)✨  
-
-Sign up to hear about project milestones such as publications or the release of new workshop dates.
-
-```
-
 ## Community co-working calls
 
 We hold open co-working calls every other Friday. 
@@ -35,5 +27,13 @@ The calls alternate between two times to try and make them as accessible as poss
 - __21.09.2022__ Data Hazards Workshop 
 
 
+## Mailing list 
+```{admonition} Stay up to date
+:class: tip  
+✨[Sign up to our newsletter mailing list](http://eepurl.com/hHj-ej)✨  
+Sign up to hear about project milestones such as publications or the release of new workshop dates.
+```
+
 ---
+
 [dec-email]: grp-ethicaldatascience@groups.bristol.ac.uk
