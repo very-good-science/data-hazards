@@ -1,4 +1,4 @@
-# *How* to contribute
+# How to contribute
 
 Depending on what you would like to do there are different ways to get involved. 
 Please check out the options below!

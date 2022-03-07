@@ -1,4 +1,4 @@
-# How to contribute
+# Contributing
 
 ```{toctree}
 :maxdepth: 1
