@@ -1,10 +1,8 @@
 # Data Hazard labels
 
-[//]: # (TODO: Link to contribution guidelines)
-
 This page contains the Data Hazard labels themselves.
 These labels, descriptions, examples, and safety precautions will evolve as we develop the hazard labels with the communities who will use them.
-We welcome you to suggest changes via [email](mailto:grp-ethicaldatascience@groups.bristol.ac.uk) or [GitHub](https://github.com/very-good-science/data-hazards).
+We welcome you to suggest changes, so please check our [contribution guidelines](contribute) if you would like to. 
 
 Each hazard has:
 - __Hazard__ image, title, and description which represents and describes the risk.
@@ -12,9 +10,6 @@ Each hazard has:
 - __Safety Precautions__ - things that we would want to see done **before** the research is deployed.
 
 They are designed to help us think about the different types of hazards
-
-[//]: # (TODO: Add 2 examples for each hazard - with a link if possible)
-[//]: # (TODO: Add safety precautions for each hazard - with a link if possible.)
 
 ````{panels}
 :container: container-fluid
