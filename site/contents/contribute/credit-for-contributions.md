@@ -8,7 +8,7 @@ To achieve this aim we have two ways to be acknowledged on the site: - you can d
 1. Be added to the front page list of contributors, which uses the [all-contributors bot](https://allcontributors.org/).  
 2. Add a more detailed overview of your contribution to the [Record of contributions](contributors).
 
-# 1. Add yourself to our contributors list with all-contributors
+## 1. Add yourself to our contributors list with all-contributors
 
 We have an [open issue](https://github.com/very-good-science/data-hazards/issues/109) for adding people to the list of contributors.
 The all-contributors bot [uses an emoji key] that recognises lots of different types of contribution. 
@@ -34,7 +34,7 @@ Some people aren’t on GitHub of course, so to add them to the contributions li
 This person’s contribution will then show up the next time you use the bot to add someone to the repo.
 
 
-# 2. Add yourself to our [Record of contributions](contributors)
+## 2. Add yourself to our [Record of contributions](contributors)
 
 It can be useful to have a more detailed description of your involvement in the project. 
 We would love for everyone to be listed here, but understand it can take a bit of time that not everyone has. 
