@@ -3,16 +3,16 @@
 ```{toctree}
 :maxdepth: 1
 code-of-conduct
-style-guide
-how-to-contribute
-credit-for-contributions
-contributors
-changelog
+contribute/style-guide
+contribute/how-to-contribute
+contribute/credit-for-contributions
+contribute/contributors
+contribute/changelog
 ```
 
 The Data Hazards project is always welcoming new contributors!
 This page gives you an overview of how you can get involved. 
-You can see all of our wondering existing contributors in our [Record of contributions](contribute/contributors). 
+You can see all of our wonderful existing contributors in our [Record of contributions](contribute/contributors). 
 
 We strongly welcome first-time GitHub users and are very happy to provide support if you would like to learn how to edit the repository.
 Please just [get in touch by email][dec-email] if that is the case.
