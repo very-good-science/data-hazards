@@ -27,11 +27,10 @@ They are designed to help us think about the different types of hazards
 :img-top: /images/hazards/general-hazard.png
 
 ```{link-button} hazards/general-hazard.html
-:text: Data Hazard
+:text: 
 :classes: stretched-link
 ```
-
-__Hazard: Data Hazard__
+__Data Hazard__
 
 Data Science is being used in this output, and any negative outcome of using this work are not the fault of "the algorithm" or "the software". 
 
@@ -41,9 +40,10 @@ This hazard applies to __all__ Data Science research outputs.
 :img-top: /images/hazards/reinforce-bias.png
 
 ```{link-button} hazards/reinforces-biases.html
-:text: Reinforces existing biases
+:text: 
 :classes: stretched-link
 ```
+__Reinforces Existing Biases__
 
 Reinforces unfair treatment of individuals and groups. This may be due to for example input data, algorithm or software design choices, or society at large. 
 
@@ -53,9 +53,11 @@ __Note:__ this is a hazard in it's own right, even if it isn't then used to harm
 :img-top: /images/hazards/classifies-people.png
 
 ```{link-button} hazards/ranks-classifies.html
-:text: Ranks or Classifies People
+:text: 
 :classes: stretched-link
 ``` 
+__Ranks Or Classifies People__
+
 Ranking and classifications of people are hazards in their own right and should be handled with care.
 
 To see why, we can think about what happens when the ranking/classification is inaccurate, when people disagree with how they are ranked/classified, as well as who the ranking/classification is and is not working for, how it can be gamed, and what it is used to justify or explain.
@@ -64,9 +66,10 @@ To see why, we can think about what happens when the ranking/classification is i
 :img-top: /images/hazards/environment.png
 
 ```{link-button} hazards/high-environmental-cost.html
-:text: High Environmental Cost
+:text: 
 :classes: stretched-link
 ``` 
+__High Environmental Cost__
 
 This hazard is appropriate where methodologies are energy-hungry, data-hungry (requiring more and more computation), or require special hardware that require rare materials. 
 
@@ -74,9 +77,10 @@ This hazard is appropriate where methodologies are energy-hungry, data-hungry (r
 :img-top: /images/hazards/lacks-community.png
 
 ```{link-button} hazards/lacks-community-involvement.html
-:text: Lacks Community Involvement
+:text: 
 :classes: stretched-link
 ``` 
+__Lacks Community Involvement__
 
 This applies when technology is being produced without input from the community it is supposed to serve.
 
@@ -84,20 +88,21 @@ This applies when technology is being produced without input from the community 
 :img-top: /images/hazards/misuse.png
 
 ```{link-button} hazards/danger-of-misuse.html
-:text: Danger of Misuse
+:text: 
 :classes: stretched-link
 ``` 
+__Danger Of Misuse__
 
 There is a danger of misusing the algorithm, technology, or data collected as part of this work.
-
 
 ---
 :img-top: /images/hazards/difficult-to-understand.png
 
 ```{link-button} hazards/difficult-to-understand.html
-:text: Difficult to Understand
+:text: 
 :classes: stretched-link
 ``` 
+__Difficult To Understand__
 
 There is a danger that the technology is difficult to understand. 
 This could be because of the technology itself is hard to interpret (e.g. neural nets), or problems with it's implementation (i.e. code is not provided, or not documented).
@@ -108,9 +113,10 @@ Depending on the circumstances of its use, this could mean that incorrect result
 :img-top: /images/hazards/direct-harm.png
 
 ```{link-button} hazards/direct-harm.html
-:text: May Cause Direct Harm
+:text: 
 :classes: stretched-link
 ``` 
+__May Cause Direct Harm__
 
 The application area of this technology means that it is capable of causing direct physical or psychological harm to someone even if used correctly e.g. healthcare and driverless vehicles may be expected to directly harm someone unless they have 100% accuracy.
 
@@ -118,9 +124,10 @@ The application area of this technology means that it is capable of causing dire
 :img-top: /images/hazards/privacy.png
 
 ```{link-button} hazards/risk-to-privacy.html
-:text: Risk to Privacy
+:text: 
 :classes: stretched-link
 ``` 
+__Risk To Privacy__
 
 This technology may risk the privacy of individuals whose data is processed by it. 
 
@@ -128,9 +135,10 @@ This technology may risk the privacy of individuals whose data is processed by i
 :img-top: /images/hazards/automates-decision-making.png
 
 ```{link-button} hazards/automates-decision-making.html
-:text: Automates Decision Making
+:text: 
 :classes: stretched-link
 ``` 
+__Automates Decision Making__
 
 Automated decision making can be hazardous for a number of reasons, and these will be highly dependent on the field in which it is being applied. 
 We should ask ourselves whose decisions are being automated, what automation can bring to the process, and who is benefitted/harmed from this automation. 
@@ -139,9 +147,10 @@ We should ask ourselves whose decisions are being automated, what automation can
 :img-top: /images/hazards/lacks-informed-consent.png
 
 ```{link-button} hazards/lacks-informed-consent.html
-:text: Lacks Informed Consent
+:text: 
 :classes: stretched-link
 ``` 
+__Lacks Informed Consent__
 
 This hazard applies to datasets or algorithms that use data which has not been provided with the explicit consent of the data owner/creator. This data often lacks
 other contextual information which can also make it difficult to understand how the dataset may be biased.
