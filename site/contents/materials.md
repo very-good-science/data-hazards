@@ -2,9 +2,19 @@
 
 On this page you will find materials we have made to help people to use or apply the hazards. 
 This includes a workshop format, a teaching/lecture based format, and an asychronous format which can be adapted to just be an individual exercise.
-We are currently developing all these materials so please do get in touch with us through the 'Contact' tab above if you have any thoughts or examples of how you have used the materials! 
+We are currently developing all these materials so please do get in touch with us through the [Contact](contact) tab above if you have any thoughts or examples of how you have used the materials! 
+Alternatively if you have changes in mind that you would like to make then check out [How to contribute](contribute) - we always welcome new contributors!
 
 All of these activities are based around the [Data Hazard labels](data-hazards). 
+
+
+```{admonition} Stay up to date
+:class: tip
+✨[Sign up to our newsletter mailing list](http://eepurl.com/hHj-ej)✨  
+
+Sign up to hear about project milestones such as publications or the release of new workshop dates.
+
+```
 
 ## Workshop format
 
