@@ -102,7 +102,7 @@ __Oct 2021__ Use workshop feedback to improve data hazards and present early res
 
 ^^^
 
-{fa}`check,text-success mr-1` Present early results from workshop at [AI Ethics Best Practices and the Future of Innovation](https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027) as part of [Bristol Tech Festival](https://bristoltechfest.org/) on __13th Oct 2021__ ([slides](contents/materials/bristol-tech-fest)).
+{fa}`check,text-success mr-1` Present early results from workshop at [AI Ethics Best Practices and the Future of Innovation](https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027) as part of [Bristol Tech Festival](https://bristoltechfest.org/) on __13th Oct 2021__ ([slides](contents/events/bristol-tech-fest)).
 - Look at workshop feedback to make improvements to:
     - data hazards labels
     - workshop exercises/materials

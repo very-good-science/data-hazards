@@ -6,6 +6,6 @@ We recommend that the self assessment is laid out as each Hazard, the researcher
 
 A template for self assessment is available as: 
 - [A LaTeX template on Overleaf](https://www.overleaf.com/latex/templates/data-hazards-self-assessment-template/cktsxpczrbjg)
-- [A Word template]()
+- [A Word template](https://very-good-science.github.io/data-hazards/_static/data_hazards_template.docx)
 
 For example of how this might look checkout the [Examples](examples) page!
