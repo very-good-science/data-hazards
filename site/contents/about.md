@@ -1,11 +1,5 @@
 # About
 
-```{image} ../images/hazardanatomy.png
-:alt: An image of a orange square with a red hexagon in it and the words 'Title', 'Description', 'Examples', 'Safety precautions'. 
-
-The anatomy of a Data Hazard label.
-```
-
 ## How the project started 
 
 The Data Hazards project started 2021.
@@ -14,12 +8,19 @@ We were also concerned that many projects that have significant societal impact 
 After that conversation we came up with the idea of Hazard labels for communicating these potential harms, and called them Data Hazards. 
 We decided they should be visual, like COSHH chemical hazards are, and that they should be a way for people at all stages of research to communicate about the same potential outcomes (no matter how far away those outcomes might seem).
 
+The image below describes the 'anatomy' of a Data Hazards label. 
+
+```{image} ../images/hazardanatomy.png
+:alt: An image of a orange square with a red hexagon in it and the words 'Title', 'Description', 'Examples', 'Safety precautions'. 
+```
+
 You can see [the current Data Hazard labels here](data-hazards).
 You can [read our original proposal here](materials/misc/proposal).
 
 Once we had thought of the original list of Hazards we wanted a way for researchers to think about them in a format that encouraged them to reflect, invite different opinions and make them think more broadly about the potential ethical concerns from their project. 
 This led to the development of our workshop format and [all the materials we have since made](materials) for self-reflection and teaching. 
 All our resources are designed for re-use by others. 
+
 
 ## Ethos
 

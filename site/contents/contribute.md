@@ -58,4 +58,4 @@ Check out our [Credit for contributions](contribue/../contribute/credit-for-cont
 
 ---
 [issues]: https://github.com/very-good-science/data-hazards/issues
-[dec-email]: grp-ethicaldatascience@groups.bristol.ac.uk
+[dec-email]: mailto:grp-ethicaldatascience@groups.bristol.ac.uk
