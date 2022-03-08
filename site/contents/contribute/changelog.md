@@ -12,7 +12,7 @@ More detailed paragraph (~100 words is more than enough!) that describes the cha
 
 ## 07.03.2022: Move Data Hazards to individual pages
 [@ninadicara](https://github.com/ninadicara)  
-Moved all of the Hazards to their own individual pages, and linked them from the original sphynx panels. 
+Moved all of the Hazards to their own individual pages, and linked them from the original sphinx panels. 
 Also capitalised all of the names so that they are consistently named. 
 This should make it easier for people to contribute to a single Hazard and record their contribution against it :) 
 
