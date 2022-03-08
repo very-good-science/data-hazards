@@ -1,6 +1,6 @@
 # Self Assessment
 
-A project self-assessment is a useful way to include ethical considerations in your project, and can be presented alongside a paper or project as supplementary materials. 
+A project self assessment is a useful way to include ethical considerations in your project, and can be presented alongside a paper or project as supplementary materials. 
 
 We recommend that the self assessment is laid out as each Hazard, the researcher's reasoning about why it does or does not apply, and whether any safety precautions have been taken. 
 

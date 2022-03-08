@@ -11,7 +11,7 @@ To achieve this aim we have two ways to be acknowledged on the site: - you can d
 ## 1. Add yourself to our contributors list with all-contributors
 
 We have an [open issue](https://github.com/very-good-science/data-hazards/issues/109) for adding people to the list of contributors.
-The all-contributors bot [uses an emoji key] that recognises lots of different types of contribution. 
+The all-contributors bot [uses an emoji key](https://allcontributors.org/docs/en/emoji-key) that recognises lots of different types of contribution. 
 If you do anything on the website (from fixing a broken link or typo all the way to writing a new page) then please do add yourself using the instructions on the issue! 
 We will do our best to add you too, but it is often faster for you to do it :)
 

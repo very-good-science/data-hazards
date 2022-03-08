@@ -10,13 +10,13 @@ You can also come to our [open community co-working calls](../events/coworking) 
 
 In the first instance please [start a Discussion with your idea](https://github.com/very-good-science/data-hazards/discussions/new?category=ideas) in the 'Ideas' category.
 We can then chat openly on GitHub about the suggestion, and this gives other people the opportunity to weigh-in on any changes we are considering. 
-Once changes have been agreed then you can follow the process below for [Updating our documentation](#updating-our-documentation).
+Once changes have been agreed then you can follow the process below for [making changes to the website](#making-changes-to-the-website-content).
 
 If you would rather you can also [email us][dec-email] to discuss.
 
 ## Making changes to the website content
 
-This website is based on a tool called Sphynx, which allows us to create all our content in Markdown and rendered it as a website. 
+This website is based on a tool called [Sphinx](https://www.sphinx-doc.org/en/master/), which allows us to create all our content in Markdown and render it as a website. 
 To find the documentation you want to change or add then follow the file path that is indicated by the website link from the `site` folder in the repo. 
 To add the changes to the main repository then:
 
