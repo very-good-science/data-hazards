@@ -27,7 +27,7 @@ If you'd like to work with us to use these materials in a new context, please do
 To hear more about the project or collaborate with us contact us via [email][dec-email].
 
 This project is being jointly led by:
-- Natalie Thurlby ([twitter][natalie-twitter], [email][natalie-email])
+- Natalie Zelenka ([twitter][natalie-twitter], [email][natalie-email])
 - Nina Di Cara ([twitter][nina-twitter], [email][nina-email])
 
 You could consider this project a spin-off of [Data Ethics Club][data-ethics-club].
@@ -66,8 +66,8 @@ If you'd like to join us as a contributor, check out our [contributor's guide](h
 ---
 [site-home]: https://very-good-science.github.io/data-hazards/
 [dec-email]: mailto:grp-ethicaldatascience@groups.bristol.ac.uk
-[natalie-email]: mailto:natalie.thurlby@bristol.ac.uk
-[natalie-twitter]: https://twitter.com/StatalieT
+[natalie-email]: mailto:natalie.zelenka@bristol.ac.uk
+[natalie-twitter]: https://twitter.com/NatZelenka
 [nina-twitter]: https://twitter.com/ninadicara
 [nina-email]: mailto:nina.dicara@bristol.ac.uk
 [data-ethics-club]: https://github.com/very-good-science/data-ethics-club/
