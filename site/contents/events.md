@@ -4,6 +4,13 @@ Please see below for a list of our upcoming events, and resources or slides from
 
 If you'd like to recieve updates straight to your email then you can sign up to our [mailing list](#mailing-list) below.
 
+## Mailing list 
+```{admonition} Stay up to date
+:class: tip  
+✨[Sign up to our newsletter mailing list](http://eepurl.com/hHj-ej)✨  
+Sign up to hear about project milestones such as publications or the release of new workshop dates.
+```
+
 ## Community co-working calls
 
 We hold open co-working calls every other Friday. 
@@ -13,7 +20,7 @@ The calls alternate between two times to try and make them as accessible as poss
 
 ## Upcoming events
 
-- __8th March 2022__ [We're at MozFest 2022](https://schedule.mozillafestival.org/session/KYGCEP-1)! Come and join us 12-13:30 UK time. 
+- __8th March 2022__ [We're at MozFest 2022](https://schedule.mozillafestival.org/session/KYGCEP-1)! Come and join us 12-13:30 UK time. [[Slides](https://docs.google.com/presentation/d/e/2PACX-1vT0FZltT-MSL2aSDiih9Y1zHqeYIG1Tha_PONd_csFk0czxA6Q7CSStG2I1cCv4H0Y7E3dAQzARpKL7/pub?start=false&loop=false&delayms=3000)]
 - __9th March 2022__ Talk at Strathmore University by Natalie 
 - __16th March 2022__ University of Bristol Integrative Epidemiology Unit Seminar by Nina
 - __22-23rd March 2022__ Data Hazards 'Gameshow' at [AI UK](https://www.turing.ac.uk/ai-uk) - we'll be on 'The Conversation' stage! 
@@ -26,14 +33,6 @@ The calls alternate between two times to try and make them as accessible as poss
 - __13.10.2022__ Bristol Tech Festival [[Slides ](events/bristol-tech-fest)]
 - __21.09.2022__ Data Hazards Workshop 
 
-
-## Mailing list 
-```{admonition} Stay up to date
-:class: tip  
-✨[Sign up to our newsletter mailing list](http://eepurl.com/hHj-ej)✨  
-Sign up to hear about project milestones such as publications or the release of new workshop dates.
-```
-
 ---
 
-[dec-email]: grp-ethicaldatascience@groups.bristol.ac.uk
+[dec-email]: mailto:grp-ethicaldatascience@groups.bristol.ac.uk
