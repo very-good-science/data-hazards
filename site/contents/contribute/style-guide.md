@@ -20,7 +20,7 @@ This makes it easier to see what has been changed between versions.
 Capitalisation of the *D*ata *H*azards *l*abels should be as you see in this sentence (i.e. capital D, captial H, lower-case l for labels).
 They may also be called 'the *H*azards' for short, but we prefer the full term to avoid confusion. 
 
-All new data hazards should use the following structure:
+All new Data Hazard labels should use the following structure:
 
 ```
 ># Hazard: Name of the hazard
