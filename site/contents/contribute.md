@@ -36,10 +36,11 @@ We would absolutely love your input on the following:
 3. Join one of [upcoming events](events) or (in development) asynchonous mailing lists to provide Data Hazards reviews on different projects.
 4. Contribute to [any of our materials](materials) or share ideas for new materials to help others use the Hazards.
     This could include:  
+    - Fixing a typo or a broken link.
     - Sharing a link to materials you have made. 
     - Adding a written example of how you used the Hazards to our growing list. 
     - Making additions or changes to the existing materials on the site. 
-5. Use the Data Hazards materials to reflect on your own work and contribute this as an example to help other people use the 
+5. Use the Data Hazards materials to reflect on your own work and contribute this as an example to help other people use them.
 6. Find [GitHub issue][issues] that you know how to solve, and help us with that!
 
 ## 2. Read our [Code of Conduct](code-of-conduct) and [Style Guide](contribute/style-guide)

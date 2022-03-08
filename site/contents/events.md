@@ -1,13 +1,13 @@
 # Events
 
-Please see recent annoucements below including a list of our upcoming events, the slides from our previous events and also a change log which records important updates that we have made to the website or the Data Hazards themselves. 
+Please see below for a list of our upcoming events, and resources or slides from our previous events.
 
-If you'd like to recieve updates straight to your email then you can sign up to our mailing list below.
+If you'd like to recieve updates straight to your email then you can sign up to our [mailing list](#mailing-list) below.
 
 ## Community co-working calls
 
 We hold open co-working calls every other Friday. 
-The calls alternate between two times to try and make them as accessible as possible. 
+The calls alternate between two times to try and make them as accessible as possible in different timezones. 
 [Please click here for details](events/coworking). 
 
 
