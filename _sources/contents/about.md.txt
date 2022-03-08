@@ -6,7 +6,7 @@ The Data Hazards project started 2021.
 We (Natalie and Nina) wanted a way to communicate what might go wrong in data science projects, because we were frustrated by the repetitive themes we were seeing in harmful technologies that we talked about in [Data Ethics Club](https://dataethicsclub.com).
 We were also concerned that many projects that have significant societal impact do not have those impacts scrutinised by an Ethics Committee, because they do not technically have research participants. 
 After that conversation we came up with the idea of Hazard labels for communicating these potential harms, and called them Data Hazards. 
-We decided they should be visual, like COSHH chemical hazards are, and that they should be a way for people at all stages of research to communicate about the same potential outcomes (no matter how far away those outcomes might seem).
+We decided they should be visual, like COSHH chemical hazards are, and that they should be a way for people at all stages of data science technology development to communicate about the same potential outcomes (no matter how far away those outcomes might seem).
 
 The image below describes the 'anatomy' of a Data Hazards label. 
 
