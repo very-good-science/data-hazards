@@ -1,7 +1,7 @@
 # Record of contributions
 
 The Data Hazards project exists because of the support and contributions of the many different people below.
-
+Please also note that people have also anonymously contributed ideas and resources to the project that Nina and Natalie have added on their behalf.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
