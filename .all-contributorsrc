@@ -1,6 +1,6 @@
 {
   "files": [
-    "README.md", 
+    "README.md",
     "site/contents/contribute/contributors.md"
   ],
   "imageSize": 100,
@@ -107,6 +107,15 @@
       "profile": "https://linkedin.com/in/jatonline",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "PogromcaPapai",
+      "name": "Jakub Dakowski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49349175?v=4",
+      "profile": "https://github.com/PogromcaPapai",
+      "contributions": [
+        "code"
       ]
     }
   ],
