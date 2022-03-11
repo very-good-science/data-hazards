@@ -1,6 +1,6 @@
 {
   "files": [
-    "README.md", 
+    "README.md",
     "site/contents/contribute/contributors.md"
   ],
   "imageSize": 100,
@@ -43,7 +43,8 @@
         "a11y",
         "doc",
         "design",
-        "bug"
+        "bug",
+        "test"
       ]
     },
     {
