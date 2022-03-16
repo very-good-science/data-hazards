@@ -1,7 +1,7 @@
 # Data Hazards Project
 [![DOI](https://zenodo.org/badge/346286403.svg)](https://zenodo.org/badge/latestdoi/346286403)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -59,6 +59,7 @@ If you'd like to join us as a contributor, check out our [contributor's guide](h
     <td align="center"><a href="https://github.com/PogromcaPapai"><img src="https://avatars.githubusercontent.com/u/49349175?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jakub Dakowski</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=PogromcaPapai" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/vairylein"><img src="https://avatars.githubusercontent.com/u/1439220?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vairylein</b></sub></a><br /><a href="#design-vairylein" title="Design">🎨</a></td>
     <td align="center"><a href="https://www.bristol.ac.uk/cdt/digital-health/people/current-students/holly-fraser/"><img src="https://www.bristol.ac.uk/media-library/sites/cdt/images/Fraser.jpg?s=100" width="100px;" alt=""/><br /><sub><b>Holly Fraser</b></sub></a><br /><a href="#userTesting" title="User Testing">📓</a> <a href="#example" title="Examples">💡</a></td>
+    <td align="center"><a href="https://github.com/gareth-j"><img src="https://avatars.githubusercontent.com/u/8915182?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gareth Jones</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=gareth-j" title="Code">💻</a></td>
   </tr>
 </table>
 
