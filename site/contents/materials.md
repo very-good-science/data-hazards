@@ -5,6 +5,7 @@
 materials/workshop
 materials/teaching
 materials/self-assessment
+materials/presenting
 materials/examples
 ```
 
