@@ -20,18 +20,18 @@ The calls alternate between two times to try and make them as accessible as poss
 
 ## Upcoming events
 
-- __8th March 2022__ [We're at MozFest 2022](https://schedule.mozillafestival.org/session/KYGCEP-1)! Come and join us 12-13:30 UK time. [[Slides](https://docs.google.com/presentation/d/e/2PACX-1vT0FZltT-MSL2aSDiih9Y1zHqeYIG1Tha_PONd_csFk0czxA6Q7CSStG2I1cCv4H0Y7E3dAQzARpKL7/pub?start=false&loop=false&delayms=3000)]
-- __9th March 2022__ Talk at Strathmore University by Natalie 
-- __16th March 2022__ University of Bristol Integrative Epidemiology Unit Seminar by Nina
 - __22-23rd March 2022__ Data Hazards 'Gameshow' at [AI UK](https://www.turing.ac.uk/ai-uk) - we'll be on 'The Conversation' stage! 
 - __May & June 2022__ Data Hazards Workshop Facilitator Training [[Register your interest by emailing us][dec-email]]
 - __June 2022__ Jean Golding Institute Showcase [[Event info](events/jgi-showcase-events)]
 
 ## Previous events
   
-- __13.04.2022__ Turing Community Catch Up [[Slides doi:10.5281/zenodo.6326911](https://zenodo.org/record/6326912)]
-- __13.10.2022__ Bristol Tech Festival [[Slides ](events/bristol-tech-fest)]
-- __21.09.2022__ Data Hazards Workshop 
+- __16th March 2022__ University of Bristol Integrative Epidemiology Unit Seminar by Nina [[Slides](https://docs.google.com/presentation/d/1-piQFeopC6MGpFXIgTPYkkfElgrTVlIaomXwtewBV6I/edit?usp=sharing)]
+- __9th March 2022__ Talk at Strathmore University by Natalie   
+- __8th March 2022__ [We're at MozFest 2022](https://schedule.mozillafestival.org/session/KYGCEP-1)! Come and join us 12-13:30 UK time. [[Slides](https://docs.google.com/presentation/d/e/2PACX-1vT0FZltT-MSL2aSDiih9Y1zHqeYIG1Tha_PONd_csFk0czxA6Q7CSStG2I1cCv4H0Y7E3dAQzARpKL7/pub?start=false&loop=false&delayms=3000)]
+- __13th Feb 2022__ Turing Community Catch Up [[Slides doi:10.5281/zenodo.6326911](https://zenodo.org/record/6326912)]
+- __13 October 2021__ Bristol Tech Festival [[Slides ](events/bristol-tech-fest)]
+- __21st September 2021__ Data Hazards Workshop 
 
 ---
 
