@@ -126,6 +126,16 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "",
+      "name": "Holly Fraser",
+      "avatar_url": "https://www.bristol.ac.uk/media-library/sites/cdt/images/Fraser.jpg",
+      "profile": "https://www.bristol.ac.uk/cdt/digital-health/people/current-students/holly-fraser/",
+      "contributions": [
+        "userTesting",
+        "example"
+      ]
     }
   ],
   "types": {
