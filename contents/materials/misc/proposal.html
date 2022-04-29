@@ -8,32 +8,29 @@
 
     <title>Proposal &#8212; Data Hazards v0.0.1 documentation</title>
     
-    <link href="../../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 <link href="../../../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
-  
+
     
-    <link rel="stylesheet"
-      href="../../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
-    <link rel="preload" as="font" type="font/woff2" crossorigin
-      href="../../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
-    <link rel="preload" as="font" type="font/woff2" crossorigin
-      href="../../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
-  
-    
-      
-  
-    
+  <link rel="stylesheet"
+    href="../../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
     <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/styles/pydata-sphinx-theme.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
-    <link rel="preload" as="script" href="../../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
-  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
     <script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
     <script src="../../../_static/jquery.js"></script>
     <script src="../../../_static/underscore.js"></script>
@@ -53,7 +50,7 @@
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
     
     <div class="container-fluid" id="banner"></div>
 
@@ -174,7 +171,7 @@
               
               <div class="toc-item">
                 
-<div class="tocsection onthispage pt-5 pb-3">
+<div class="tocsection onthispage mt-5 pt-1 pb-3">
     <i class="fas fa-list"></i> On this page
 </div>
 
@@ -260,8 +257,8 @@
               
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="proposal">
-<h1>Proposal<a class="headerlink" href="#proposal" title="Permalink to this headline">¶</a></h1>
+  <section id="proposal">
+<h1>Proposal<a class="headerlink" href="#proposal" title="Permalink to this headline">#</a></h1>
 <p><strong>Data Hazards - using worst case scenarios to make data ethics relevant to abstract technologies</strong></p>
 <div class="admonition-context-and-paths-forwards admonition">
 <p class="admonition-title">Context and paths forwards</p>
@@ -294,7 +291,7 @@ Thanks so much for reading!</p>
 </ul>
 </div>
 <section id="the-problem">
-<h2>The problem<a class="headerlink" href="#the-problem" title="Permalink to this headline">¶</a></h2>
+<h2>The problem<a class="headerlink" href="#the-problem" title="Permalink to this headline">#</a></h2>
 <p>Data science is having a profound and often deeply unfair impact on people’s lives.
 A typical route for this impact <a class="reference external" href="https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making/main-report-cdei-review-into-bias-in-algorithmic-decision-making">can look like this</a>: <code class="docutils literal notranslate"><span class="pre">researcher</span> <span class="pre">--&gt;</span> <span class="pre">adoption</span> <span class="pre">by</span> <span class="pre">a</span> <span class="pre">tech</span> <span class="pre">company</span> <span class="pre">--&gt;</span> <span class="pre">sale</span> <span class="pre">to</span> <span class="pre">a</span> <span class="pre">public</span> <span class="pre">service</span> <span class="pre">provider</span></code>.</p>
 <p>Data science researchers lack the incentives, training, resources, or support, to truly consider the societal impact of their work alone.
@@ -308,21 +305,21 @@ Often it can also be difficult for them read (e.g. due to unfamilar and speciali
 <p>Data scientists should, and should be supported and incentivised to, consider ethics early, <strong>and</strong> to listen to outside perspectives on their work.</p>
 </section>
 <section id="the-idea">
-<h2>The idea<a class="headerlink" href="#the-idea" title="Permalink to this headline">¶</a></h2>
+<h2>The idea<a class="headerlink" href="#the-idea" title="Permalink to this headline">#</a></h2>
 <section id="consider-worst-case-scenarios">
-<h3>Consider worst-case scenarios…<a class="headerlink" href="#consider-worst-case-scenarios" title="Permalink to this headline">¶</a></h3>
+<h3>Consider worst-case scenarios…<a class="headerlink" href="#consider-worst-case-scenarios" title="Permalink to this headline">#</a></h3>
 <p>No single intervention will be able to solve this problem, but there is a need for action we can take <em>as researchers</em> to interrupt the ethics-free pipeline from <code class="docutils literal notranslate"><span class="pre">research</span> <span class="pre">--&gt;</span> <span class="pre">human</span> <span class="pre">impact</span></code>.</p>
 <p>Considering worst case scenarios is one part of this puzzle.
 Worst case scenarios free us from trying to predict the future: we’re not saying that something <em>will</em> happen.
 This allows us to explore some darker possibilities even if we have skin in the game. And once we’ve considered them, we know what we’re trying to avoid.</p>
 <p>There are two important components to this:</p>
-<ol class="simple">
+<ol class="arabic simple">
 <li><p>Getting the data scientists themselves to reflect on what they are doing</p></li>
 <li><p>Allowing them to learn from others’ perspectives on what they are doing</p></li>
 </ol>
 </section>
 <section id="through-hazard-labels">
-<h3>…through Hazard labels<a class="headerlink" href="#through-hazard-labels" title="Permalink to this headline">¶</a></h3>
+<h3>…through Hazard labels<a class="headerlink" href="#through-hazard-labels" title="Permalink to this headline">#</a></h3>
 <p>We will develop an approachable framework for doing this, which mirrors the familiar COSHH chemical hazard labels, in order to provide:</p>
 <ul class="simple">
 <li><p>a starting point for thinking about <em>what</em> might happen, to reduce barriers to the task for the uninitiated. However they are only applied to research by considering <em>why</em> the labels fit.</p></li>
@@ -339,9 +336,9 @@ This allows us to explore some darker possibilities even if we have skin in the 
 </section>
 </section>
 <section id="what-we-will-make-and-do">
-<h2>What we will make and do<a class="headerlink" href="#what-we-will-make-and-do" title="Permalink to this headline">¶</a></h2>
+<h2>What we will make and do<a class="headerlink" href="#what-we-will-make-and-do" title="Permalink to this headline">#</a></h2>
 <section id="overview">
-<h3>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">¶</a></h3>
+<h3>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">#</a></h3>
 <p>We hope to create approachable and attractive materials that will help lower the barrier to considering worst case scenarios, including:</p>
 <ul class="simple">
 <li><p>hazard label materials (artwork, labels, descriptions)</p></li>
@@ -352,7 +349,7 @@ This allows us to explore some darker possibilities even if we have skin in the 
 <p>In order to share the work more widely we aim to publish the outputs (final product as described and its evaluation).</p>
 </section>
 <section id="hazards">
-<h3>Hazards<a class="headerlink" href="#hazards" title="Permalink to this headline">¶</a></h3>
+<h3>Hazards<a class="headerlink" href="#hazards" title="Permalink to this headline">#</a></h3>
 <p>We plan to keep to a small number of hazard labels to begin with, to keep the activities focused and manageable.
 Our current list includes:</p>
 <ul class="simple">
@@ -367,10 +364,10 @@ Our current list includes:</p>
 For example, for “Automating decision-making” you might want to consider if you “treat unusual data differently”.</p>
 </section>
 <section id="activities">
-<h3>Activities<a class="headerlink" href="#activities" title="Permalink to this headline">¶</a></h3>
+<h3>Activities<a class="headerlink" href="#activities" title="Permalink to this headline">#</a></h3>
 <p>To apply these data hazard labels, we will develop short activities that take inspiration for specific activities (e.g. worksheets or discussion activities) from existing horizon-scanning and foresight analyses.
 For example one guide for applying the labels might look like:</p>
-<ol class="simple">
+<ol class="arabic simple">
 <li><p>Imagine all potential applications of the technology</p></li>
 <li><p>Who will be effected by these applications?</p></li>
 <li><p>How could these people be negatively effected in a worst case scenario?</p></li>
@@ -380,7 +377,7 @@ For example one guide for applying the labels might look like:</p>
 <p>The last step (5) will help us to refine the hazard labels, but we also think there will always be a space for more free-form or specific concerns.</p>
 </section>
 <section id="miscellaneous">
-<h3>Miscellaneous<a class="headerlink" href="#miscellaneous" title="Permalink to this headline">¶</a></h3>
+<h3>Miscellaneous<a class="headerlink" href="#miscellaneous" title="Permalink to this headline">#</a></h3>
 <p>The outputs will also include some miscellaneous resources, e.g.</p>
 <ul class="simple">
 <li><p>How to present your Data Hazards (e.g. template slides and GitHub badges), and credit the work that other people do in helping you to consider the ethical implications.</p></li>
@@ -390,8 +387,8 @@ For example one guide for applying the labels might look like:</p>
 </ul>
 </section>
 <section id="workshop-plans">
-<h3>Workshop Plans<a class="headerlink" href="#workshop-plans" title="Permalink to this headline">¶</a></h3>
-<p>We hope to run two short (60-90 minute) workshops to test out the proposed <a class="reference external" href="#Activities">resources and activities</a> and get feedback on them.
+<h3>Workshop Plans<a class="headerlink" href="#workshop-plans" title="Permalink to this headline">#</a></h3>
+<p>We hope to run two short (60-90 minute) workshops to test out the proposed <span class="xref myst">resources and activities</span> and get feedback on them.
 For example, we hope these workshops will help us streamline the process, identify missing Data Hazard labels, and identify when this process is valuable and to whom.</p>
 <p>Our plans for this are as follows:</p>
 <ul class="simple">
@@ -406,7 +403,7 @@ For example, we hope these workshops will help us streamline the process, identi
 We hope for these both to take place in 2021 in the Summer and Autumn.</p>
 </section>
 <section id="jgi-seed-corn-funding">
-<h3>JGI Seed-corn funding<a class="headerlink" href="#jgi-seed-corn-funding" title="Permalink to this headline">¶</a></h3>
+<h3>JGI Seed-corn funding<a class="headerlink" href="#jgi-seed-corn-funding" title="Permalink to this headline">#</a></h3>
 <p>We plan to use the finalised Data Hazards resources (after workshop feedback) in the Jean Golding Institute institute for Data Science’s annual seed-corn funding (November 2021).</p>
 </section>
 </section>
@@ -422,8 +419,9 @@ We hope for these both to take place in 2021 in the Summer and Autumn.</p>
       </div>
     </div>
   
-    <script src="../../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
-  <footer class="footer mt-5 mt-md-0">
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+<footer class="footer mt-5 mt-md-0">
   <div class="container">
     
     <div class="footer-item">
@@ -432,7 +430,7 @@ We hope for these both to take place in 2021 in the Summer and Autumn.</p>
     
     <div class="footer-item">
       <p class="sphinx-version">
-Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.4.0.<br>
+Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.5.0.<br>
 </p>
     </div>
     
