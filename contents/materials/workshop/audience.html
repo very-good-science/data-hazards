@@ -1,0 +1,406 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>2. Identifying your audience &#8212; Data Hazards v0.0.1 documentation</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../../../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../../../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
+    <script src="../../../_static/jquery.js"></script>
+    <script src="../../../_static/underscore.js"></script>
+    <script src="../../../_static/doctools.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../../../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <link rel="shortcut icon" href="../../../_static/favicon.png"/>
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="3. Setting up" href="setup.html" />
+    <link rel="prev" title="1. Structure and Materials" href="structure.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+    <nav class="navbar navbar-light navbar-expand-lg bg-light fixed-top bd-navbar" id="navbar-main"><div class="container-xl">
+
+  <div id="navbar-start">
+    
+    
+<a class="navbar-brand" href="../../../index.html">
+<p class="title">Data Hazards</p>
+</a>
+
+    
+  </div>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapsible" aria-controls="navbar-collapsible" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  
+  <div id="navbar-collapsible" class="col-lg-9 collapse navbar-collapse">
+    <div id="navbar-center" class="mr-auto">
+      
+      <div class="navbar-center-item">
+        <ul id="navbar-main-elements" class="navbar-nav">
+    <li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../../data-hazards.html">
+  Data Hazard labels
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../../about.html">
+  About
+ </a>
+</li>
+
+<li class="toctree-l1 current active nav-item">
+ <a class="reference internal nav-link" href="../../materials.html">
+  How to use
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../../contribute.html">
+  Contributing
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../../events.html">
+  Events
+ </a>
+</li>
+
+<li class="toctree-l1 nav-item">
+ <a class="reference internal nav-link" href="../../contact.html">
+  Contact
+ </a>
+</li>
+
+    
+</ul>
+      </div>
+      
+    </div>
+
+    <div id="navbar-end">
+      
+      <div class="navbar-end-item">
+        <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
+        <li class="nav-item">
+          <a class="nav-link" href="https://github.com/very-good-science/data-hazards" rel="noopener" target="_blank" title="GitHub"><span><i class="fab fa-github-square"></i></span>
+            <label class="sr-only">GitHub</label></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://osf.io/3fv7t" rel="noopener" target="_blank" title="Open Science Framework"><span><i class="fas fa-book-open"></i></span>
+            <label class="sr-only">Open Science Framework</label></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://twitter.com/hashtag/DataHazards" rel="noopener" target="_blank" title="Twitter"><span><i class="fab fa-twitter-square"></i></span>
+            <label class="sr-only">Twitter</label></a>
+        </li>
+      </ul>
+      </div>
+      
+    </div>
+  </div>
+</div>
+    </nav>
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+            
+            <!-- Only show if we have sidebars configured, else just a small margin  -->
+            <div class="col-12 col-md-3 bd-sidebar">
+              <div class="sidebar-start-items"><form class="bd-search d-flex align-items-center" action="../../../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this site..." aria-label="Search this site..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  <div class="bd-toc-item active">
+    <ul class="current nav bd-sidenav">
+ <li class="toctree-l1 current active has-children">
+  <a class="reference internal" href="../workshop.html">
+   Workshop
+  </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul class="current">
+   <li class="toctree-l2">
+    <a class="reference internal" href="structure.html">
+     1. Structure and Materials
+    </a>
+   </li>
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
+     2. Identifying your audience
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="setup.html">
+     3. Setting up
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="facilitating.html">
+     4. Facilitating
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="feedback.html">
+     5. Feedback
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../teaching.html">
+   Teaching
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../teaching/students.html">
+     Data Hazards Student Overview
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../self-assessment.html">
+   Self Assessment
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../presenting.html">
+   Presenting your Data Hazards
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../examples.html">
+   Examples of using the Data Hazards
+  </a>
+ </li>
+</ul>
+
+  </div>
+</nav>
+              </div>
+              <div class="sidebar-end-items">
+              </div>
+            </div>
+            
+          
+
+          
+          <div class="d-none d-xl-block col-xl-2 bd-toc">
+            
+              
+              <div class="toc-item">
+                
+<div class="tocsection onthispage mt-5 pt-1 pb-3">
+    <i class="fas fa-list"></i> On this page
+</div>
+
+<nav id="bd-toc-nav">
+    <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#stakeholder-types">
+   Stakeholder types
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#the-project-team">
+     The project team
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#impacted-communities">
+     Impacted communities
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#organisational-representatives">
+     Organisational representatives
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#funders">
+     Funders
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#activity-identifying-stakeholders">
+   Activity: Identifying stakeholders
+  </a>
+ </li>
+</ul>
+
+</nav>
+              </div>
+              
+              <div class="toc-item">
+                
+              </div>
+              
+            
+          </div>
+          
+
+          
+          
+            
+          
+          <main class="col-12 col-md-9 col-xl-7 py-md-5 pl-md-5 pr-md-4 bd-content" role="main">
+              
+              <div>
+                
+  <section id="identifying-your-audience">
+<h1>2. Identifying your audience<a class="headerlink" href="#identifying-your-audience" title="Permalink to this headline">#</a></h1>
+<p>If you would like to run a workshop you will want to try and identify a range of people to attend who can bring different perspectives to the session.
+This is a brief overview of the types of stakeholders we have usually encountered, and activity to get you thinking about who you might invite.</p>
+<section id="stakeholder-types">
+<h2>Stakeholder types<a class="headerlink" href="#stakeholder-types" title="Permalink to this headline">#</a></h2>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Stakeholder group</p></th>
+<th class="head"><p>Knowledge Exchange</p></th>
+<th class="head"><p>Encouraging Diversity</p></th>
+<th class="head"><p>Example</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Project Team</p></td>
+<td><p>The team gain a new tool to reflect on their work and affect decisions whilst also having space to clarify whatever ethical concerns they already had.</p></td>
+<td><p>Principal investigators, research associates and assistants, project managers, software engineers…</p></td>
+<td><p>Data Hazard Labels can inform teams working on different projects</p></td>
+</tr>
+<tr class="row-odd"><td><p>Impacted Community/ies</p></td>
+<td><p>People who will be affected by, or use the research output can feed into its design, affecting the researchers’ decisions</p></td>
+<td><p>Product end-users, caring professions, marginalised communities…</p></td>
+<td><p>A project developing a system for cancer cells detection can involve cancer patients and clinicians</p></td>
+</tr>
+<tr class="row-even"><td><p>Organisational Representatives</p></td>
+<td><p>Professionals from the institution where the project is carried out can share their specialist knowledge</p></td>
+<td><p>Partnerships, legal, governance, human resources, finance, research ethics committee…</p></td>
+<td><p>Legal teams can help understand privacy concerns, whilst human resources professionals might have notes on recruitment</p></td>
+</tr>
+<tr class="row-odd"><td><p>Funders</p></td>
+<td><p>Funders can learn about the social impact and risks of scientific research</p></td>
+<td><p>Funders of different projects</p></td>
+<td><p>The technical feasibility of a project can be impacted by morally informed judgements, and funders can feel better informed through collaborative sessions like these</p></td>
+</tr>
+</tbody>
+</table>
+<p>There are many stakeholders of data science research projects, and even more reasons to build strong ties with them. In this section, we suggest four coarsely grained groups of stakeholders. The list is not intended to be exhaustive, but they are important parties to engage with. Data Hazard Training sessions are a great way to establish a shared vernacular when discussing data ethics with these parties.</p>
+<section id="the-project-team">
+<h3>The project team<a class="headerlink" href="#the-project-team" title="Permalink to this headline">#</a></h3>
+<p>It is important to discuss matters of ethics with the entire team. Whilst certain formal responsibilities may be clearly established, a project’s moral implications can fall to the entire team.</p>
+<p>Involving the entire team can lead to excellent discussions. From experience, we have found that facilitating discussions in a safe environment with various research team members can help individuals at different career stages voice their concerns about a project. The Data Hazard Labels then serve to establish conceptual clarity to discuss those concerns. Ultimately, these discussions can shape projects for the better.</p>
+<p>Furthermore, project teams are not forever. Researchers will continue their careers after a project ends and the team dissolves. But Data Hazard Labels serve as a basis to continue reflecting on data ethics afterwards. Therefore, our fantastic facilitators can help promote a cultural change within data science towards a more reflexive approach.</p>
+</section>
+<section id="impacted-communities">
+<h3>Impacted communities<a class="headerlink" href="#impacted-communities" title="Permalink to this headline">#</a></h3>
+<p>Research outputs might impact diverse communities. Such outputs might include tools that researchers might use for technical analyses; that clinicians might use for diagnosing patients; that policy-makers might use for influencing their decisions; or that the public might use for various reasons. It is important that, knowing the project team’s intended output, its potentially impacted communities be identified.</p>
+<p>Whilst Data Hazard Training sessions do not explore your project team’s research in-depth, inviting impacted communities is a way to establish a shared conceptual framework to discuss ethical questions as the more relevant research project progresses.</p>
+<p>Indirectly, Data Hazard Training sessions allow project teams to gain insight from their relevant communities. Attendees should feel encouraged to point to the Data Hazard Labels they find most relevant. This can then be captured by the session’s facilitator and shared with the project team later on.</p>
+</section>
+<section id="organisational-representatives">
+<h3>Organisational representatives<a class="headerlink" href="#organisational-representatives" title="Permalink to this headline">#</a></h3>
+<p>Research institutions often have different business units, such as legal, partnerships or human resources. Inviting their representatives to Data Hazard Training sessions can help demonstrate the institution’s care for the ethics of its research outputs. It can also foster a more trusting work environment, where colleagues from non-research positions gain greater understanding of the technical and ethical aspects of the research produced.</p>
+<p>Furthermore – and similarly to inviting entire project teams – this creates a space where business professionals can share their insights from their own specialist backgrounds. In this way, they can influence decisions within a project and provide perspectives and even solutions that might otherwise be missed.</p>
+</section>
+<section id="funders">
+<h3>Funders<a class="headerlink" href="#funders" title="Permalink to this headline">#</a></h3>
+<p>Those who fund research projects will be interested in knowing the impact they will have, as well as the different factors that influence its methodologies and final outputs. Once again, Data Hazard Training sessions allow for a shared series of terms to discuss the ethics of data science. These sessions also convey the urgency of data ethics. With all this, bringing funders into Data Hazard Training sessions can help foster a culture of understanding. By this, we mean that they promote a change from viewing “moral constraints” affecting methodological decisions to the moral basis from which to conduct a project for the better.</p>
+</section>
+</section>
+<section id="activity-identifying-stakeholders">
+<h2>Activity: Identifying stakeholders<a class="headerlink" href="#activity-identifying-stakeholders" title="Permalink to this headline">#</a></h2>
+<p>Take three minutes to think who you could invite to a Data Hazards Workshop. Afterwards, in breakout rooms, discuss who you thought of and share what you think a research project can gain from each identified stakeholder, and what each participant can gain from the session.
+For example:</p>
+<ul class="simple">
+<li><p>Person to invite: Colleague from the legal department</p></li>
+<li><p>What can they bring?: They are aware of the data protection policies and can support relevant discussions (particularly regarding consent and privacy)</p></li>
+<li><p>What do they gain?: Insight into ethical discussions about data science, “beyond legal”</p></li>
+</ul>
+</section>
+</section>
+
+
+              </div>
+              
+              
+          </main>
+          
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+<footer class="footer mt-5 mt-md-0">
+  <div class="container">
+    
+    <div class="footer-item">
+      License: <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
+    </div>
+    
+    <div class="footer-item">
+      <p class="sphinx-version">
+Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.5.0.<br>
+</p>
+    </div>
+    
+  </div>
+</footer>
+  </body>
+</html>
