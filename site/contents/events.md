@@ -20,12 +20,14 @@ The calls alternate between two times to try and make them as accessible as poss
 
 ## Upcoming events
 
-- __22-23rd March 2022__ Data Hazards 'Gameshow' at [AI UK](https://www.turing.ac.uk/ai-uk) - we'll be on 'The Conversation' stage! 
-- __May & June 2022__ Data Hazards Workshop Facilitator Training [[Register your interest by emailing us][dec-email]]
-- __June 2022__ Jean Golding Institute Showcase [[Event info](events/jgi-showcase-events)]
+- __7th June 2022__ [Data Hazards Workshop at the JGI Showcase](https://www.eventbrite.co.uk/e/jgi-showcase-data-hazards-workshop-tickets-329591586307)
+- __16th June 2022__ [Data Hazards Facilitator Training - In person in Bristol](https://www.eventbrite.co.uk/e/data-hazards-facilitator-training-tickets-311179104077)
+- __30th June 2022__ [Data Hazards Facilitator Training - Online](https://www.eventbrite.co.uk/preview?eid=321218983627/)
+
 
 ## Previous events
-  
+
+- __22-23rd March 2022__ Data Hazards 'Gameshow' at [AI UK](https://www.turing.ac.uk/ai-uk) - we were on 'The Conversation' stage! 
 - __16th March 2022__ University of Bristol Integrative Epidemiology Unit Seminar by Nina [[Slides](https://docs.google.com/presentation/d/1-piQFeopC6MGpFXIgTPYkkfElgrTVlIaomXwtewBV6I/edit?usp=sharing)]
 - __9th March 2022__ Talk at Strathmore University by Natalie   
 - __8th March 2022__ [We're at MozFest 2022](https://schedule.mozillafestival.org/session/KYGCEP-1)! Come and join us 12-13:30 UK time. [[Slides](https://docs.google.com/presentation/d/e/2PACX-1vT0FZltT-MSL2aSDiih9Y1zHqeYIG1Tha_PONd_csFk0czxA6Q7CSStG2I1cCv4H0Y7E3dAQzARpKL7/pub?start=false&loop=false&delayms=3000)]
