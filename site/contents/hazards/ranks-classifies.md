@@ -23,3 +23,7 @@ __Example 2:__ [School league tables](https://www.bristol.ac.uk/media-library/si
 - Carefully consider the validity of any classification groups and work with subject specialists from the application area on this. 
 - Be transparent about what the weaknesses of the algorithm and technology are: test how can it be fooled. 
 - Consider alternatives to ranking/classification, for example treating people equally, increasing resources for the issue at hand, or allowing people to self-select.
+
+## Related Resources
+
+[Book] [Sorting Things Out: Classification and its consequences by Bowker and Star (1999)](https://mitpress.mit.edu/books/sorting-things-out)
