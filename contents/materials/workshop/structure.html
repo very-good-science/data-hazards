@@ -6,13 +6,17 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>1. Structure and Materials &#8212; Data Hazards v0.0.1 documentation</title>
-    
-  <!-- Loaded before other Sphinx assets -->
-  <link href="../../../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
-<link href="../../../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+    <title>2. Workshop Structure &#8212; Data Hazards v0.0.1 documentation</title>
+<script>
+  document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+  document.documentElement.dataset.theme = localStorage.getItem("theme") || "light"
+</script>
 
-    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../../_static/styles/theme.css?digest=92025949c220c2e29695" rel="stylesheet">
+<link href="../../../_static/styles/pydata-sphinx-theme.css?digest=92025949c220c2e29695" rel="stylesheet">
+
+
   <link rel="stylesheet"
     href="../../../_static/vendor/fontawesome/5.13.0/css/all.min.css">
   <link rel="preload" as="font" type="font/woff2" crossorigin
@@ -24,12 +28,12 @@
     <link rel="stylesheet" type="text/css" href="../../../_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
-    
+
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+  <link rel="preload" as="script" href="../../../_static/scripts/pydata-sphinx-theme.js?digest=92025949c220c2e29695">
 
     <script data-url_root="../../../" id="documentation_options" src="../../../_static/documentation_options.js"></script>
     <script src="../../../_static/jquery.js"></script>
@@ -43,34 +47,42 @@
     <link rel="shortcut icon" href="../../../_static/favicon.png"/>
     <link rel="index" title="Index" href="../../../genindex.html" />
     <link rel="search" title="Search" href="../../../search.html" />
-    <link rel="next" title="2. Identifying your audience" href="audience.html" />
+    <link rel="next" title="3. Identifying your audience" href="audience.html" />
     <link rel="prev" title="Workshop" href="../workshop.html" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="None">
-    
-
-    <!-- Google Analytics -->
-    
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="docsearch:language" content="None">
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
-    
-    <div class="container-fluid" id="banner"></div>
+  
+  
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="180" data-default-mode="">
+    <div class="bd-header-announcement container-fluid" id="banner">
+      
+
+    </div>
 
     
-    <nav class="navbar navbar-light navbar-expand-lg bg-light fixed-top bd-navbar" id="navbar-main"><div class="container-xl">
+    <nav class="bd-header navbar navbar-light navbar-expand-lg bg-light fixed-top bd-navbar" id="navbar-main"><div class="bd-header__inner container-xl">
 
   <div id="navbar-start">
     
     
-<a class="navbar-brand" href="../../../index.html">
-<p class="title">Data Hazards</p>
-</a>
+  
 
+
+<a class="navbar-brand logo" href="../../../index.html">
+  
+  
+  
+  
+  
+    <p class="title logo__title">Data Hazards v0.0.1 documentation</p>
+  
+</a>
     
   </div>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-collapsible" aria-controls="navbar-collapsible" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+    <span class="fas fa-bars"></span>
   </button>
 
   
@@ -124,6 +136,14 @@
     <div id="navbar-end">
       
       <div class="navbar-end-item">
+        <span id="theme-switch" class="btn btn-sm btn-outline-primary navbar-btn rounded-circle">
+    <a class="theme-switch" data-mode="light"><i class="fas fa-sun"></i></a>
+    <a class="theme-switch" data-mode="dark"><i class="far fa-moon"></i></a>
+    <a class="theme-switch" data-mode="auto"><i class="fas fa-adjust"></i></a>
+</span>
+      </div>
+      
+      <div class="navbar-end-item">
         <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/very-good-science/data-hazards" rel="noopener" target="_blank" title="GitHub"><span><i class="fab fa-github-square"></i></span>
@@ -146,13 +166,13 @@
     </nav>
     
 
-    <div class="container-xl">
-      <div class="row">
+    <div class="bd-container container-xl">
+      <div class="bd-container__inner row">
           
-            
-            <!-- Only show if we have sidebars configured, else just a small margin  -->
-            <div class="col-12 col-md-3 bd-sidebar">
-              <div class="sidebar-start-items"><form class="bd-search d-flex align-items-center" action="../../../search.html" method="get">
+
+<!-- Only show if we have sidebars configured, else just a small margin  -->
+<div class="bd-sidebar-primary col-12 col-md-3 bd-sidebar">
+  <div class="sidebar-start-items"><form class="bd-search d-flex align-items-center" action="../../../search.html" method="get">
   <i class="icon fas fa-search"></i>
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this site..." aria-label="Search this site..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
@@ -170,27 +190,27 @@
   <ul class="current">
    <li class="toctree-l2 current active">
     <a class="current reference internal" href="#">
-     1. Structure and Materials
+     2. Workshop Structure
     </a>
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="audience.html">
-     2. Identifying your audience
+     3. Identifying your audience
     </a>
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="setup.html">
-     3. Setting up
+     4. Resources and Setting Up
     </a>
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="facilitating.html">
-     4. Facilitating
+     5. Facilitating Tips
     </a>
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="feedback.html">
-     5. Feedback
+     6. Feedback
     </a>
    </li>
   </ul>
@@ -231,19 +251,20 @@
 
   </div>
 </nav>
-              </div>
-              <div class="sidebar-end-items">
-              </div>
-            </div>
-            
-          
+  </div>
+  <div class="sidebar-end-items">
+  </div>
+</div>
+
 
           
-          <div class="d-none d-xl-block col-xl-2 bd-toc">
-            
-              
-              <div class="toc-item">
-                
+
+
+<div class="bd-sidebar-secondary d-none d-xl-block col-xl-2 bd-toc">
+  
+    
+    <div class="toc-item">
+      
 <div class="tocsection onthispage mt-5 pt-1 pb-3">
     <i class="fas fa-list"></i> On this page
 </div>
@@ -251,50 +272,38 @@
 <nav id="bd-toc-nav">
     <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#slides">
-   Slides
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#timings">
    Timings
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#id1">
-   Slides
+  <a class="reference internal nav-link" href="#workshop-ethos">
+   Workshop Ethos
   </a>
  </li>
 </ul>
 
 </nav>
-              </div>
-              
-              <div class="toc-item">
-                
-              </div>
-              
-            
-          </div>
-          
+    </div>
+    
+    <div class="toc-item">
+      
+    </div>
+    
+  
+</div>
+
 
           
           
-            
-          
-          <main class="col-12 col-md-9 col-xl-7 py-md-5 pl-md-5 pr-md-4 bd-content" role="main">
+          <div class="bd-content col-12 col-md-9 col-xl-7">
               
-              <div>
+              <article class="bd-article" role="main">
                 
-  <section id="structure-and-materials">
-<h1>1. Structure and Materials<a class="headerlink" href="#structure-and-materials" title="Permalink to this headline">#</a></h1>
+  <section id="workshop-structure">
+<h1>2. Workshop Structure<a class="headerlink" href="#workshop-structure" title="Permalink to this headline">#</a></h1>
 <p>To begin with we will introduce you to the Data Hazard labels and what a workshop would usually look like.
 This includes the <em>ethos</em> of a workshop, which focusses on the importance of multiple perspectives.</p>
-<section id="slides">
-<h2>Slides<a class="headerlink" href="#slides" title="Permalink to this headline">#</a></h2>
-<p>Here are the training slides which are about the Hazards and how the workshops work.</p>
-<p>[TODO: Slides to be inserted here.]</p>
-</section>
 <section id="timings">
 <h2>Timings<a class="headerlink" href="#timings" title="Permalink to this headline">#</a></h2>
 <p>We use the following timings for the Data Hazard workshop, it lasts between 90 minutes and 2 hours.
@@ -340,40 +349,55 @@ This is designed to help ensure that both the audience and the project owner get
 <li><p>10 mins: (Back in the main room) Collecting feedback and wrapping up.</p></li>
 </ul>
 </section>
-<section id="id1">
-<h2>Slides<a class="headerlink" href="#id1" title="Permalink to this headline">#</a></h2>
-<p>Below are the workshop slides that we made to be delivered to participants, which you can also <a class="reference external" href="https://docs.google.com/presentation/d/e/2PACX-1vQKUmKwso0Ct_4l0blZC_8m-k2r4vsxCbUxS66n1NGhEf9Mg6FIBsjLzI3BP5mTbQXT8La_MglmDqmS/pub?start=false&amp;loop=false&amp;delayms=3000">access at this link</a>.
-You are free to download and adapt them, as long as you credit this repository.</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKUmKwso0Ct_4l0blZC_8m-k2r4vsxCbUxS66n1NGhEf9Mg6FIBsjLzI3BP5mTbQXT8La_MglmDqmS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<section id="workshop-ethos">
+<h2>Workshop Ethos<a class="headerlink" href="#workshop-ethos" title="Permalink to this headline">#</a></h2>
+<p>We think it’s important that the workshops are run with the following things in mind:</p>
+<ul class="simple">
+<li><p>Multiplicity of perspectives​</p>
+<ul>
+<li><p>Everyone has different lived experiences and as a result different views​</p></li>
+<li><p>These views us to find importance in different places</p></li>
+<li><p>Only by considering a range of perspectives can we thoroughly consider ethics.</p></li>
+</ul>
+</li>
+<li><p>No ‘wrong’ answers</p>
+<ul>
+<li><p>We are aiming to explore potential avenues of interest that might not have occured to the project owner.</p></li>
+</ul>
+</li>
+<li><p>Aiming to prompt discussion and thought, not to settle on yes/no decisions</p></li>
+</ul>
 </section>
 </section>
 
 
-              </div>
+              </article>
               
+
               
-          </main>
+          </div>
           
-
       </div>
     </div>
+
+  
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../../../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
-<footer class="footer mt-5 mt-md-0">
-  <div class="container">
-    
-    <div class="footer-item">
-      License: <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
-    </div>
-    
-    <div class="footer-item">
-      <p class="sphinx-version">
+  <script src="../../../_static/scripts/pydata-sphinx-theme.js?digest=92025949c220c2e29695"></script>
+
+<footer class="bd-footer"><div class="bd-footer__inner container">
+  
+  <div class="footer-item">
+    License: <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
+  </div>
+  
+  <div class="footer-item">
+    <p class="sphinx-version">
 Created using <a href="http://sphinx-doc.org/">Sphinx</a> 4.5.0.<br>
 </p>
-    </div>
-    
   </div>
+  
+</div>
 </footer>
   </body>
 </html>

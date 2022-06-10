@@ -1,12 +1,7 @@
-# 1. Structure and Materials
+# 2. Workshop Structure
 
 To begin with we will introduce you to the Data Hazard labels and what a workshop would usually look like. 
 This includes the _ethos_ of a workshop, which focusses on the importance of multiple perspectives. 
-
-## Slides
-Here are the training slides which are about the Hazards and how the workshops work. 
-
-[TODO: Slides to be inserted here.]
 
 ## Timings
 
@@ -37,10 +32,14 @@ This is designed to help ensure that both the audience and the project owner get
         - What resonated least with them  
 - 10 mins: (Back in the main room) Collecting feedback and wrapping up. 
 
-## Slides 
+## Workshop Ethos
 
-Below are the workshop slides that we made to be delivered to participants, which you can also [access at this link](https://docs.google.com/presentation/d/e/2PACX-1vQKUmKwso0Ct_4l0blZC_8m-k2r4vsxCbUxS66n1NGhEf9Mg6FIBsjLzI3BP5mTbQXT8La_MglmDqmS/pub?start=false&loop=false&delayms=3000).
-You are free to download and adapt them, as long as you credit this repository. 
+We think it's important that the workshops are run with the following things in mind:   
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKUmKwso0Ct_4l0blZC_8m-k2r4vsxCbUxS66n1NGhEf9Mg6FIBsjLzI3BP5mTbQXT8La_MglmDqmS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+- Multiplicity of perspectives​
+    - Everyone has different lived experiences and as a result different views​
+    - These views us to find importance in different places
+    - Only by considering a range of perspectives can we thoroughly consider ethics. 
+- No ‘wrong’ answers
+    - We are aiming to explore potential avenues of interest that might not have occured to the project owner. 
+- Aiming to prompt discussion and thought, not to settle on yes/no decisions

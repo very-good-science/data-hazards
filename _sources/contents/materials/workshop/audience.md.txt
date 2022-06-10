@@ -1,4 +1,4 @@
-# 2. Identifying your audience
+# 3. Identifying your audience
 
 If you would like to run a workshop you will want to try and identify a range of people to attend who can bring different perspectives to the session. 
 This is a brief overview of the types of stakeholders we have usually encountered, and activity to get you thinking about who you might invite.

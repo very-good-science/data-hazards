@@ -1,10 +1,14 @@
-# 4. Facilitating
+# 5. Facilitating Tips
+
+## Share the Code of Conduct
+
+We have a code of conduct available to use if you would like, but also feel free to develop and use your own.
+It's important to remind peeople to be respectful towards one another during the discussion, and for people to know what to do 
+if they feel they have seen or experienced unacceptable behaviour. 
 
 ## Activity: an example of poor facilitation
 
-See how many issues you can spot with our facilitating! 
-
-[VIDEO TO ADD HERE]
+See how many issues you can spot with our facilitating in the video we show you!
 
 
 ## Facilitation Do's and Dont's
