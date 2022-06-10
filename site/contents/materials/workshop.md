@@ -14,14 +14,6 @@ We also plan to run another workshop in June 2022, so keep an eye on our [Events
 The idea of this was to allow people who were outsiders to the project to give the project owners a new perspective on what the concerns might be. 
 This would be guided by a discussion of the Data Hazards, facilitated by a dediated facilitator to make sure that the conversation goes smoothly, and adheres to the [Code of Conduct](../code-of-conduct).
 
-The image below is a prompt which gives an idea of the kinds of prompts the facilitators might make, and that the Data Hazards are designed to encourage. 
-
-```{image} ../../../images/worst-case-prompt.png
-:alt: An image of a mind map with yellow bubbles that have prompts for considering worst case scenarios. For example, what's the worst case scenario if the technology works only for some people? 
-```
-
-__The below links are in development as part of our facilitator workshop training we are running in June. Some pages may not be complete.__
-
 ```{toctree}
 :maxdepth: 1
 workshop/structure
@@ -29,6 +21,13 @@ workshop/audience
 workshop/setup
 workshop/facilitating
 workshop/feedback
+```
+
+
+The image below is a prompt which gives an idea of the kinds of prompts the facilitators might make, and that the Data Hazards are designed to encourage. 
+
+```{image} ../../../images/worst-case-prompt.png
+:alt: An image of a mind map with yellow bubbles that have prompts for considering worst case scenarios. For example, what's the worst case scenario if the technology works only for some people? 
 ```
 
 
