@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; url=content/data-hazards.html" />
+<meta http-equiv="refresh" content="0; url=contents/data-hazards.html" />
