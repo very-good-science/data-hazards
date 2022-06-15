@@ -106,6 +106,7 @@ __Oct 2021__ Use workshop feedback to improve data hazards and present early res
 ^^^
 
 {fa}`check,text-success mr-1` Present early results from workshop at [AI Ethics Best Practices and the Future of Innovation](https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027) as part of [Bristol Tech Festival](https://bristoltechfest.org/) on __13th Oct 2021__ ([slides](contents/events/bristol-tech-fest)).
+
 {fa}`check,text-success mr-1` Look at workshop feedback to make improvements to:
     - data hazards labels
     - workshop exercises/materials
@@ -129,7 +130,9 @@ __Jan 2021__ Awarded £20,000 Enhancing Research Culture funding
 __Feb-May 2022__ Developed new labels and facilitator training materials
 ^^^
 {fa}`check,text-success mr-1` hired animator to create animated explainers for Data Hazards and new Hazard labels
+
 {fa}`check,text-success mr-1` development and release of run-your-own workshop materials 
+
 {fa}`check,text-success mr-1` Data Hazards discussion session: Mozfest 2022
 ---
 :column: +right
@@ -143,7 +146,9 @@ __Feb-May 2022__ Developed new labels and facilitator training materials
 __June 2022__ 
 ^^^
 {fa}`check,text-success mr-1` Ran Data Hazards workshop as part of the Jean Golding Institute Showcase
+
 - Run first Data Hazards facilitator workshop in-person as part of Bristol Data Week 
+
 - Run second (online) Data Hazards facilitator workshop as part of Bristol Data Week
 
 ````
