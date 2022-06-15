@@ -11,12 +11,15 @@ We decided they should be visual, like COSHH chemical hazards are, and that they
 You can see [the current Data Hazard labels here](data-hazards).  
 You can [read our original proposal here](materials/misc/proposal).  
 
+<!--
+Image needs replacing: text not showing right and also old labels sytle.
 The image below describes the 'anatomy' of a Data Hazards label.   
 
 ```{image} ../images/hazardanatomy.svg
 :alt: An image of a orange square with a red hexagon in it and the words 'Title', 'Description', 'Examples', 'Safety precautions'. 
 ```
 <br>
+-->
   
 Once we had thought of the original list of Hazards we wanted a way for researchers to think about them in a format that encouraged them to reflect, invite different opinions and make them think more broadly about the potential ethical concerns from their project. 
 This led to the development of our workshop format and [all the materials we have since made](materials) for self-reflection and teaching. 
