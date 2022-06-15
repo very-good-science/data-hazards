@@ -103,7 +103,7 @@ __Oct 2021__ Use workshop feedback to improve data hazards and present early res
 ^^^
 
 {fa}`check,text-success mr-1` Present early results from workshop at [AI Ethics Best Practices and the Future of Innovation](https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027) as part of [Bristol Tech Festival](https://bristoltechfest.org/) on __13th Oct 2021__ ([slides](contents/events/bristol-tech-fest)).
-- Look at workshop feedback to make improvements to:
+{fa}`check,text-success mr-1` Look at workshop feedback to make improvements to:
     - data hazards labels
     - workshop exercises/materials
 
@@ -116,18 +116,18 @@ __Oct 2021__ Use workshop feedback to improve data hazards and present early res
 ---
 :column: +entry right
 
-__Dec 2021__ Trial asynchronous Data Hazards materials (without group discussion) as a tool for self-assessment.
+__Jan 2021__ Awarded £20,000 Enhancing Research Culture funding
 ^^^
-- Successful JGI Seedcorn applicants will be invited to trial our asynchronous materials and help us to improve the labels (info for Seed Corn applicants [here](contents/materials/seedcorn)).
+{fa}`check,text-success mr-1` 
 
 ---
 :column: +entry left
 
-__Early 2022__ Run second Data Hazards workshop (public and company/local-government focused)
+__Feb-May 2022__ Developed new labels and facilitator training materials
 ^^^
-
-- The second Data Hazards workshop will be part of the [JGI Showcase in June 2022](contents/events/jgi-showcase-events).
-
+{fa}`check,text-success mr-1` hired animator to create animated explainers for Data Hazards and new Hazard labels
+{fa}`check,text-success mr-1` development and release of run-your-own workshop materials 
+{fa}`check,text-success mr-1` Data Hazards discussion session: Mozfest 2022
 ---
 :column: +right
 
@@ -137,8 +137,11 @@ __Early 2022__ Run second Data Hazards workshop (public and company/local-govern
 ---
 :column: +entry right
 
-__Summer 2022__ Write up Data Hazards paper
+__June 2022__ 
 ^^^
+{fa}`check,text-success mr-1` Ran Data Hazards workshop as part of the Jean Golding Institute Showcase
+- Run first Data Hazards facilitator workshop in-person as part of Bristol Data Week 
+- Run second (online) Data Hazards facilitator workshop as part of Bristol Data Week
 
-Details TBC
 ````
+
