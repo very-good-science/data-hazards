@@ -8,7 +8,7 @@
 
     <title>About &#8212; Data Hazards v0.0.1 documentation</title>
 <script>
-  document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+  document.documentElement.dataset.mode = localStorage.getItem("mode") || "light";
   document.documentElement.dataset.theme = localStorage.getItem("theme") || "light"
 </script>
 
@@ -28,8 +28,8 @@
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/custom.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
 
   <!-- Pre-loaded scripts that we'll load fully later -->
@@ -54,7 +54,7 @@
   </head>
   
   
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="180" data-default-mode="">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="180" data-default-mode="light">
     <div class="bd-header-announcement container-fluid" id="banner">
       
 
@@ -75,7 +75,7 @@
   
   
   
-    <p class="title logo__title">Data Hazards v0.0.1 documentation</p>
+    <p class="title logo__title">Data Hazards</p>
   
 </a>
     
@@ -134,14 +134,6 @@
     </div>
 
     <div id="navbar-end">
-      
-      <div class="navbar-end-item">
-        <span id="theme-switch" class="btn btn-sm btn-outline-primary navbar-btn rounded-circle">
-    <a class="theme-switch" data-mode="light"><i class="fas fa-sun"></i></a>
-    <a class="theme-switch" data-mode="dark"><i class="far fa-moon"></i></a>
-    <a class="theme-switch" data-mode="auto"><i class="fas fa-adjust"></i></a>
-</span>
-      </div>
       
       <div class="navbar-end-item">
         <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
@@ -250,8 +242,15 @@ After that conversation we came up with the idea of Hazard labels for communicat
 We decided they should be visual, like COSHH chemical hazards are, and that they should be a way for people at all stages of data science technology development to communicate about the same potential outcomes (no matter how far away those outcomes might seem).</p>
 <p>You can see <a class="reference internal" href="data-hazards.html"><span class="doc std std-doc">the current Data Hazard labels here</span></a>.<br />
 You can <a class="reference internal" href="materials/misc/proposal.html"><span class="doc std std-doc">read our original proposal here</span></a>.</p>
-<p>The image below describes the ‘anatomy’ of a Data Hazards label.</p>
-<img alt="An image of a orange square with a red hexagon in it and the words 'Title', 'Description', 'Examples', 'Safety precautions'." src="../_images/hazardanatomy.svg" /><br>
+<!--
+Image needs replacing: text not showing right and also old labels sytle.
+The image below describes the 'anatomy' of a Data Hazards label.   
+
+```{image} ../images/hazardanatomy.svg
+:alt: An image of a orange square with a red hexagon in it and the words 'Title', 'Description', 'Examples', 'Safety precautions'. 
+```
+<br>
+-->
 <p>Once we had thought of the original list of Hazards we wanted a way for researchers to think about them in a format that encouraged them to reflect, invite different opinions and make them think more broadly about the potential ethical concerns from their project.
 This led to the development of our workshop format and <a class="reference internal" href="materials.html"><span class="doc std std-doc">all the materials we have since made</span></a> for self-reflection and teaching.
 All our resources are designed for re-use by others.</p>
@@ -338,15 +337,10 @@ We hope that the Data Hazards discussion and reflective activities will help res
 <p class="card-text"><strong>Oct 2021</strong> Use workshop feedback to improve data hazards and present early results</p>
 </div>
 <div class="card-body docutils">
-<p class="card-text"><span class="fa fa-check text-success mr-1"></span> Present early results from workshop at <a class="reference external" href="https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027">AI Ethics Best Practices and the Future of Innovation</a> as part of <a class="reference external" href="https://bristoltechfest.org/">Bristol Tech Festival</a> on <strong>13th Oct 2021</strong> (<span class="xref myst">slides</span>).</p>
-<ul class="simple">
-<li><p class="card-text">Look at workshop feedback to make improvements to:</p>
-<ul>
-<li><p class="card-text">data hazards labels</p></li>
-<li><p class="card-text">workshop exercises/materials</p></li>
-</ul>
-</li>
-</ul>
+<p class="card-text"><span class="fa fa-check text-success mr-1"></span> Present early results from workshop at <a class="reference external" href="https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027">AI Ethics Best Practices and the Future of Innovation</a> as part of <a class="reference external" href="https://bristoltechfest.org/">Bristol Tech Festival</a> on <strong>13th Oct 2021</strong> (<span class="xref myst">slides</span>).
+<span class="fa fa-check text-success mr-1"></span> Look at workshop feedback to make improvements to:
+- data hazards labels
+- workshop exercises/materials</p>
 </div>
 </div>
 </div>
@@ -365,24 +359,22 @@ We hope that the Data Hazards discussion and reflective activities will help res
 <div class="d-flex col-6 p-0 entry right docutils">
 <div class="card w-100 docutils">
 <div class="card-header docutils">
-<p class="card-text"><strong>Dec 2021</strong> Trial asynchronous Data Hazards materials (without group discussion) as a tool for self-assessment.</p>
+<p class="card-text"><strong>Jan 2021</strong> Awarded £20,000 Enhancing Research Culture funding</p>
 </div>
 <div class="card-body docutils">
-<ul class="simple">
-<li><p class="card-text">Successful JGI Seedcorn applicants will be invited to trial our asynchronous materials and help us to improve the labels (info for Seed Corn applicants <span class="xref myst">here</span>).</p></li>
-</ul>
+<p class="card-text"><span class="fa fa-check text-success mr-1"></span></p>
 </div>
 </div>
 </div>
 <div class="d-flex col-6 p-0 entry left docutils">
 <div class="card w-100 docutils">
 <div class="card-header docutils">
-<p class="card-text"><strong>Early 2022</strong> Run second Data Hazards workshop (public and company/local-government focused)</p>
+<p class="card-text"><strong>Feb-May 2022</strong> Developed new labels and facilitator training materials</p>
 </div>
 <div class="card-body docutils">
-<ul class="simple">
-<li><p class="card-text">The second Data Hazards workshop will be part of the <span class="xref myst">JGI Showcase in June 2022</span>.</p></li>
-</ul>
+<p class="card-text"><span class="fa fa-check text-success mr-1"></span> hired animator to create animated explainers for Data Hazards and new Hazard labels
+<span class="fa fa-check text-success mr-1"></span> development and release of run-your-own workshop materials
+<span class="fa fa-check text-success mr-1"></span> Data Hazards discussion session: Mozfest 2022</p>
 </div>
 </div>
 </div>
@@ -401,10 +393,14 @@ We hope that the Data Hazards discussion and reflective activities will help res
 <div class="d-flex col-6 p-0 entry right docutils">
 <div class="card w-100 docutils">
 <div class="card-header docutils">
-<p class="card-text"><strong>Summer 2022</strong> Write up Data Hazards paper</p>
+<p class="card-text"><strong>June 2022</strong></p>
 </div>
 <div class="card-body docutils">
-<p class="card-text">Details TBC</p>
+<p class="card-text"><span class="fa fa-check text-success mr-1"></span> Ran Data Hazards workshop as part of the Jean Golding Institute Showcase</p>
+<ul class="simple">
+<li><p class="card-text">Run first Data Hazards facilitator workshop in-person as part of Bristol Data Week</p></li>
+<li><p class="card-text">Run second (online) Data Hazards facilitator workshop as part of Bristol Data Week</p></li>
+</ul>
 </div>
 </div>
 </div>
