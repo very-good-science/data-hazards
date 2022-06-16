@@ -1,4 +1,4 @@
-# 4. Resources and Setting Up
+# Resources and Setting Up
 
 ## Facilitator to do list
 
@@ -8,19 +8,6 @@
 - [ ] Advertise or invite these people.
 - [ ] Prepare slides for the beginning that can be used to explain the Hazards if you would like, and possibly also slides to have up as prompts whilst people work on the discussion portion (see below for some examples)
 - [ ] Brief your project owners for the event, and give them guidance on what to say.
-
-## Giving guidance to project owners
-
-The project owner description is key to the format. ​
-
-Here are some things we recommend asking them to include in their 5-minute talk:​  
-
-- The overall objective of the project​.
-- Fairly detailed description of the variables in the dataset they are using (and what is not included)​.
-- How and when the data was collected​.
-- Any statistical/algorithmic methods being used​.
-- Who has input on the project​.
-- What outputs are expected, and how these will be shared.
 
 ## Example Workshop Slides
 

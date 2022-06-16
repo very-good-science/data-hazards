@@ -8,7 +8,7 @@
 
     <title>Self Assessment &#8212; Data Hazards v0.0.1 documentation</title>
 <script>
-  document.documentElement.dataset.mode = localStorage.getItem("mode") || "light";
+  document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
   document.documentElement.dataset.theme = localStorage.getItem("theme") || "light"
 </script>
 
@@ -54,7 +54,7 @@
   </head>
   
   
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="180" data-default-mode="light">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="180" data-default-mode="">
     <div class="bd-header-announcement container-fluid" id="banner">
       
 
@@ -75,7 +75,7 @@
   
   
   
-    <p class="title logo__title">Data Hazards</p>
+    <p class="title logo__title">Data Hazards v0.0.1 documentation</p>
   
 </a>
     
@@ -136,6 +136,14 @@
     <div id="navbar-end">
       
       <div class="navbar-end-item">
+        <span id="theme-switch" class="btn btn-sm btn-outline-primary navbar-btn rounded-circle">
+    <a class="theme-switch" data-mode="light"><i class="fas fa-sun"></i></a>
+    <a class="theme-switch" data-mode="dark"><i class="far fa-moon"></i></a>
+    <a class="theme-switch" data-mode="auto"><i class="fas fa-adjust"></i></a>
+</span>
+      </div>
+      
+      <div class="navbar-end-item">
         <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/very-good-science/data-hazards" rel="noopener" target="_blank" title="GitHub"><span><i class="fab fa-github-square"></i></span>
@@ -182,27 +190,27 @@
   <ul>
    <li class="toctree-l2">
     <a class="reference internal" href="workshop/structure.html">
-     2. Workshop Structure
+     Workshop Structure
     </a>
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="workshop/audience.html">
-     3. Identifying your audience
+     Identifying your audience
     </a>
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="workshop/setup.html">
-     4. Resources and Setting Up
+     Resources and Setting Up
     </a>
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="workshop/facilitating.html">
-     5. Facilitating Tips
+     Facilitating Tips
     </a>
    </li>
    <li class="toctree-l2">
     <a class="reference internal" href="workshop/feedback.html">
-     6. Feedback
+     Collecting Feedback
     </a>
    </li>
   </ul>

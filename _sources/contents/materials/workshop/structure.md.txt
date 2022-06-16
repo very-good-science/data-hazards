@@ -1,7 +1,26 @@
-# 2. Workshop Structure
+# Workshop Structure
 
 To begin with we will introduce you to the Data Hazard labels and what a workshop would usually look like. 
 This includes the _ethos_ of a workshop, which focusses on the importance of multiple perspectives. 
+
+## Workshop roles
+
+Facilitators:  
+- Probably you!  
+- There to run the workshop and help everyone get the most out of it.   
+- This involves managing each of the breakout rooms and supporting the discussions.  
+
+Audience Members:  
+- There to find out more about the projects and provide feedback.  
+- Combination of different types of people.  
+- Your decision about whether they are ‘experts’ or not (both can be interesting!)  
+See more about who to invite in the 'Identifying your audience' section.  
+
+Project Owners:  
+- There to have their project discussed by the audience members.  
+- Seeking feedback on an idea or project.  
+See more about how to support project owners in the 'Working with project owners' section.
+
 
 ## Timings
 

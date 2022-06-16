@@ -1,16 +1,17 @@
-# 3. Identifying your audience
+# Identifying your audience
 
 If you would like to run a workshop you will want to try and identify a range of people to attend who can bring different perspectives to the session. 
 This is a brief overview of the types of stakeholders we have usually encountered, and activity to get you thinking about who you might invite.
 
-## Stakeholder types
+## Audience types
 
-| Stakeholder group | Knowledge Exchange | Encouraging Diversity | Example |
+| Audience group | Knowledge Exchange | Encouraging Diversity | Example |
 |------|------|-----|-------|
 | Project Team | The team gain a new tool to reflect on their work and affect decisions whilst also having space to clarify whatever ethical concerns they already had. | Principal investigators, research associates and assistants, project managers, software engineers… |  Data Hazard Labels can inform teams working on different projects |
 | Impacted Community/ies | People who will be affected by, or use the research output can feed into its design, affecting the researchers’ decisions | Product end-users, caring professions, marginalised communities…  | A project developing a system for cancer cells detection can involve cancer patients and clinicians  |
 | Organisational Representatives | Professionals from the institution where the project is carried out can share their specialist knowledge | Partnerships, legal, governance, human resources, finance, research ethics committee…  | Legal teams can help understand privacy concerns, whilst human resources professionals might have notes on recruitment  |
 | Funders | Funders can learn about the social impact and risks of scientific research   | Funders of different projects  | The technical feasibility of a project can be impacted by morally informed judgements, and funders can feel better informed through collaborative sessions like these  |
+| Outside perspectives | The team gain a novel perspetive on a topic they know well  | A variety of subject specialisms  | A philosopher will have a unique perspective on the ethics of a data science project. |
 
 
 There are many stakeholders of data science research projects, and even more reasons to build strong ties with them. In this section, we suggest four coarsely grained groups of stakeholders. The list is not intended to be exhaustive, but they are important parties to engage with. Data Hazard Training sessions are a great way to establish a shared vernacular when discussing data ethics with these parties. 
@@ -41,10 +42,6 @@ Furthermore – and similarly to inviting entire project teams – this creates 
 
 Those who fund research projects will be interested in knowing the impact they will have, as well as the different factors that influence its methodologies and final outputs. Once again, Data Hazard Training sessions allow for a shared series of terms to discuss the ethics of data science. These sessions also convey the urgency of data ethics. With all this, bringing funders into Data Hazard Training sessions can help foster a culture of understanding. By this, we mean that they promote a change from viewing “moral constraints” affecting methodological decisions to the moral basis from which to conduct a project for the better. 
 
-## Activity: Identifying stakeholders
+### Outside perspectives
 
-Take three minutes to think who you could invite to a Data Hazards Workshop. Afterwards, in breakout rooms, discuss who you thought of and share what you think a research project can gain from each identified stakeholder, and what each participant can gain from the session. 
-For example:  
-- Person to invite: Colleague from the legal department  
-- What can they bring?: They are aware of the data protection policies and can support relevant discussions (particularly regarding consent and privacy) 
-- What do they gain?: Insight into ethical discussions about data science, “beyond legal”   
+Project teams can sometimes lack exposure to very many disciplines. A project team might be highly technical, for example. Data Hazard Workshops are a great way to bring diverse disciplines into dialogue. By creating a safe space to discuss complex ethical issues, experts from different disciplines can bring their own perspectives to the debate. Through interdisciplinary discussions, better-informed ethical decisions can be made.
