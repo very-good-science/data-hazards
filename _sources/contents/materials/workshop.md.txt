@@ -17,8 +17,9 @@ This would be guided by a discussion of the Data Hazards, facilitated by a dedia
 ```{toctree}
 :maxdepth: 1
 workshop/structure
-workshop/audience
 workshop/setup
+workshop/project-owners
+workshop/audience
 workshop/facilitating
 workshop/feedback
 ```
