@@ -49,4 +49,5 @@ contents/materials
 contents/contribute
 contents/events
 contents/contact
+contents/hazards-app
 ```
