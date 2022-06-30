@@ -11,7 +11,7 @@
 
 ## Example Workshop Slides
 
-Below are the workshop slides that we made to be delivered to participants, which you can also [access at this link](https://docs.google.com/presentation/d/e/2PACX-1vQKUmKwso0Ct_4l0blZC_8m-k2r4vsxCbUxS66n1NGhEf9Mg6FIBsjLzI3BP5mTbQXT8La_MglmDqmS/pub?start=false&loop=false&delayms=3000).
+Below are the workshop slides that we made to be delivered to participants, and you can also [download the slides](https://docs.google.com/presentation/d/1KzTdvnL8wk9oZ-h7C_yNWHtA4ki5i6moij8y-gP-z0s/edit#slide=id.g118dc3aa1dc_0_88).
 You are free to download and adapt them, but please remember to credit this repository. 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQKUmKwso0Ct_4l0blZC_8m-k2r4vsxCbUxS66n1NGhEf9Mg6FIBsjLzI3BP5mTbQXT8La_MglmDqmS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
