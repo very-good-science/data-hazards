@@ -28,14 +28,3 @@ div.timeline div.entry.left::after {
 div.timeline div.entry.right::after {
     left: -.5em;
 }
-
-
-
-.app-container {
-  display: flex;
-  height: 900px;
-  width: 150%;
-  justify-content: left;
-  align-items: flex-start;
-  overflow: hidden !important;
-}
