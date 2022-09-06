@@ -1,7 +1,7 @@
-# Record of Contributions
+# Record of contributions
 
 The Data Hazards project exists because of the support and contributions of the many different people below.
-
+Please also note that people have also anonymously contributed ideas and resources to the project that Nina and Natalie have added on their behalf.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -12,7 +12,7 @@ The Data Hazards project exists because of the support and contributions of the 
     <td align="center"><a href="https://github.com/conorhoughton"><img src="https://avatars.githubusercontent.com/u/6955092?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Conor Houghton</b></sub></a><br /><a href="#fundingFinding-conorhoughton" title="Funding Finding">🔍</a></td>
     <td align="center"><a href="https://github.com/ninadicara"><img src="https://avatars.githubusercontent.com/u/44364127?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nina</b></sub></a><br /><a href="#projectManagement-ninadicara" title="Project Management">📆</a> <a href="#ideas-ninadicara" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-ninadicara" title="Event Organizing">📋</a> <a href="#maintenance-ninadicara" title="Maintenance">🚧</a> <a href="#a11y-ninadicara" title="Accessibility">️️️️♿️</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=ninadicara" title="Documentation">📖</a> <a href="#design-ninadicara" title="Design">🎨</a> <a href="https://github.com/very-good-science/data-hazards/issues?q=author%3Aninadicara" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://dynamicgenetics.org"><img src="https://avatars.githubusercontent.com/u/1908453?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Valerio Maggio</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Aleriomaggio" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://github.com/Ismael-KG"><img src="https://avatars.githubusercontent.com/u/64027166?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ismael-KG</b></sub></a><br /><a href="#eventOrganizing-Ismael-KG" title="Event Organizing">📋</a></td>
+    <td align="center"><a href="https://github.com/Ismael-KG"><img src="https://avatars.githubusercontent.com/u/64027166?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ismael-KG</b></sub></a><br /><a href="#eventOrganizing-Ismael-KG" title="Event Organizing">📋</a> <a href="#ideas-Ismael-KG" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://research-information.bris.ac.uk/en/persons/kate-robson-brown"><img src="http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/kate-robson-brown-head-shot150x100.jpg?s=100" width="100px;" alt=""/><br /><sub><b>Kate Robson-Brown</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3A" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://www.bris.ac.uk/contact/person/getDetails?personKey=9tNdYV3TvjDC0p0L3d6TSvZ4ligZa3"><img src="http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/patty-head-shot150x100.jpg?s=100" width="100px;" alt=""/><br /><sub><b>Patricia Holley</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3A" title="Reviewed Pull Requests">👀</a></td>
   </tr>
@@ -20,6 +20,10 @@ The Data Hazards project exists because of the support and contributions of the 
     <td align="center"><a href="https://www.bris.ac.uk/contact/person/getDetails?personKey=grE64xPWAmrfuY1ZszJYlss6li3H7X"><img src="http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/Lily-Rice150x100.jpg?s=100" width="100px;" alt=""/><br /><sub><b>Lily Rice</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3A" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/ekuw"><img src="https://avatars.githubusercontent.com/u/76116294?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ekuw</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Aekuw" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://linkedin.com/in/jatonline"><img src="https://avatars.githubusercontent.com/u/48878399?v=4?s=100" width="100px;" alt=""/><br /><sub><b>James Thomas</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Ajatonline" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/PogromcaPapai"><img src="https://avatars.githubusercontent.com/u/49349175?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jakub Dakowski</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=PogromcaPapai" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/vairylein"><img src="https://avatars.githubusercontent.com/u/1439220?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vairylein</b></sub></a><br /><a href="#design-vairylein" title="Design">🎨</a></td>
+    <td align="center"><a href="https://www.bristol.ac.uk/cdt/digital-health/people/current-students/holly-fraser/"><img src="https://www.bristol.ac.uk/media-library/sites/cdt/images/Fraser.jpg?s=100" width="100px;" alt=""/><br /><sub><b>Holly Fraser</b></sub></a><br /><a href="#userTesting" title="User Testing">📓</a> <a href="#example" title="Examples">💡</a></td>
+    <td align="center"><a href="https://github.com/gareth-j"><img src="https://avatars.githubusercontent.com/u/8915182?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gareth Jones</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=gareth-j" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -44,6 +48,13 @@ To be added, please [submit an issue](https://github.com/very-good-science/data-
 ## Contributors
 
 <!--- Add yourself here!--->
+
+### Nina Di Cara  
+* Role: Co-PI
+* ORCID [0000-0002-6179-1067](https://orcid.org/0000-0002-6179-1067)
+* GitHub: [ninadicara](https://github.com/ninadicara)
+> Along with [Natalie](natalie-zelenka) I worked on the original idea for the Data Hazards, created resources around them (like teaching materials, slides, reflective prompts, illustrations), planned and delivered our workshops, and the website content. Jointly Natalie and I provide leadership for the project in terms of its next steps and uses. I care a lot about reducing the harm that technology can do to people who may not have power to fight back against, and hope this projects goes some way to making us all think more carefully about what we can all do as individuals to prevent harm. I am also thrilled to have been able to work with (and continue to work with) all the fantastic people who have got involved with this project! 
+
 
 ### Natalie Zelenka
 * Role: Co-PI 

@@ -1,0 +1,1 @@
+# Generate a Data Hazards summary image

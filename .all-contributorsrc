@@ -1,16 +1,16 @@
 {
   "files": [
-    "README.md", 
-    "CONTRIBUTORS.md",
+    "README.md",
+    "site/contents/contribute/contributors.md"
   ],
   "imageSize": 100,
   "commit": false,
   "contributors": [
     {
-      "login": "NatalieThurlby",
-      "name": "NatalieThurlby",
+      "login": "NatalieZelenka",
+      "name": "NatalieZelenka",
       "avatar_url": "https://avatars.githubusercontent.com/u/17617308?v=4",
-      "profile": "https://github.com/NatalieThurlby",
+      "profile": "https://github.com/NatalieZelenka",
       "contributions": [
         "projectManagement",
         "design",
@@ -61,7 +61,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/64027166?v=4",
       "profile": "https://github.com/Ismael-KG",
       "contributions": [
-        "eventOrganizing"
+        "eventOrganizing",
+        "ideas"
       ]
     },
     {
@@ -107,6 +108,43 @@
       "profile": "https://linkedin.com/in/jatonline",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "PogromcaPapai",
+      "name": "Jakub Dakowski",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49349175?v=4",
+      "profile": "https://github.com/PogromcaPapai",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "vairylein",
+      "name": "vairylein",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1439220?v=4",
+      "profile": "https://github.com/vairylein",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "",
+      "name": "Holly Fraser",
+      "avatar_url": "https://www.bristol.ac.uk/media-library/sites/cdt/images/Fraser.jpg",
+      "profile": "https://www.bristol.ac.uk/cdt/digital-health/people/current-students/holly-fraser/",
+      "contributions": [
+        "userTesting",
+        "example"
+      ]
+    },
+    {
+      "login": "gareth-j",
+      "name": "Gareth Jones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8915182?v=4",
+      "profile": "https://github.com/gareth-j",
+      "contributions": [
+        "code"
       ]
     }
   ],

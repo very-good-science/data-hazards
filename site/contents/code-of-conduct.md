@@ -1,10 +1,10 @@
 # Code of Conduct
 
 We want all Data Hazards spaces (online or in person) to be places where people feel welcome to discuss their thoughts and ideas. 
-This Code of Conduct (CoC) was developed for Data Ethics Club, to ensure that those participating are protected from abuse, harassment or discrimination, 
+This Code of Conduct (CoC) aims to ensure that those participating in the Data Hazards community are protected from abuse, harassment or discrimination, 
 and that the discussions we have are supportive and productive. 
 
-This CoC is based on content from the [Jean Golding Institute’s](http://www.bristol.ac.uk/golding/) CoC for online events, [Arizona Diversity Journal Club CoC](https://www.as.arizona.edu/diversity_coffee/#two), 
+This CoC was originally developed for [Data Ethics Club](https://dataethicsclub.com), and is based on content from the [Jean Golding Institute’s](http://www.bristol.ac.uk/golding/) CoC for online events, [Arizona Diversity Journal Club CoC](https://www.as.arizona.edu/diversity_coffee/#two), 
 and the [Recurse Centre’s Social Rules](https://www.recurse.com/manual#sub-sec-social-rules). 
 If you would like to suggest an addition or amendment then you can [make an issue](https://github.com/very-good-science/ethical-data-science-journal-club/issues/new/choose), 
 submit a PR or [email us](https://github.com/very-good-science/data-ethics-club#organisers).
@@ -39,4 +39,4 @@ The below Do-s and Don’t-s are guidelines to remind us all of best standards o
 If you have been subject to or witnessed unacceptable behaviour, either during a meeting or on this repository, then you can get in touch with either Natalie or Nina.  
 Natalie: natalie.thurlby@bristol.ac.uk  
 Nina: nina.dicara@bristol.ac.uk  
-If you would prefer to contact someone who is not directly involved in organising the group, then you can direct your concerns to Patricia Holley ([JGI Manager](http://www.bristol.ac.uk/golding/people/team/)), at p.holley@bristol.ac.uk
+If you would prefer to contact someone who is not directly involved in organising the group, then you can direct your concerns to John Newby ([JGI Manager](http://www.bristol.ac.uk/golding/people/team/)), at [John.Newby@bristol.ac.uk](mailto:John.Newby@bristol.ac.uk)

@@ -7,12 +7,6 @@ on:
     - main
     paths:
       site/**
-    
-  pull_request:
-    branches: 
-    - main
-    paths:
-      site/**
 
   workflow_dispatch:
 
@@ -20,6 +14,7 @@ on:
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
   deploy-book:
+    if: ${{ github.event.action }} == 'opened'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -37,7 +32,8 @@ jobs:
     # Build the book
     - name: Build the site
       run: |
-        sphinx-build site/ site/_build/
+        sphinx-build site/ site/_build
+        cp CNAME site/_build
 
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
