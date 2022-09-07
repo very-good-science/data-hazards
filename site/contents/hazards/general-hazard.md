@@ -17,4 +17,4 @@ All other Data Hazard examples could feature as examples here.
 
 ## Safety Precautions
 
--  Users of this work should be informed that __the responsibility for using this work responsibly and ethically, lies with each person who impliments it in a project or product.__
+-  Users of this work should be informed that __the responsibility for using this work responsibly and ethically, lies with each person who implements it in a project or product.__
