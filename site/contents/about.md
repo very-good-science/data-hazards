@@ -3,7 +3,7 @@
 ## How the project started 
 
 The Data Hazards project started 2021.
-We (Natalie and Nina) wanted a way to communicate what might go wrong in data science projects, because we were frustrated by the repetitive themes we were seeing in harmful technologies that we talked about in [Data Ethics Club](https://dataethicsclub.com).
+We (Natalie Zelenka and Nina Di Cara) wanted a way to communicate what might go wrong in data science projects, because we were frustrated by the repetitive themes we were seeing in harmful technologies that we talked about in [Data Ethics Club](https://dataethicsclub.com).
 We were also concerned that many projects that have significant societal impact do not have those impacts scrutinised by an Ethics Committee, because they do not technically have research participants. 
 After that conversation we came up with the idea of Hazard labels for communicating these potential harms, and called them Data Hazards. 
 We decided they should be visual, like COSHH chemical hazards are, and that they should be a way for people at all stages of data science technology development to communicate about the same potential outcomes (no matter how far away those outcomes might seem).
@@ -29,7 +29,7 @@ All our resources are designed for re-use by others.
 ## Ethos
 
 The Data Hazards are built on the foundations of [standpoint theory](https://en.wikipedia.org/wiki/Standpoint_theory). 
-This is an epistemiological theory that knowledge (including in the sciences) is not objective, and that our perspectives are shaped by our lived socio-political experiences. 
+This is an epistemological theory that knowledge (including in the sciences) is not objective, and that our perspectives are shaped by our lived socio-political experiences. 
 This means that ethical problems are not going to have a single correct answer, and that to get a well-rounded understanding of the ethical issues of any new technology we need people from lots of different standpoints to analyse it from their perspective. 
 This is the best way we can understand the harms it could possibly cause.
 We also need to make sure that we are paying attention to how technology might be more likely to adversely affect people from minoritised backgrounds.
