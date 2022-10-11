@@ -4,11 +4,6 @@ We want all Data Hazards spaces (online or in person) to be places where people 
 This Code of Conduct (CoC) aims to ensure that those participating in the Data Hazards community are protected from abuse, harassment or discrimination, 
 and that the discussions we have are supportive and productive. 
 
-This CoC was originally developed for [Data Ethics Club](https://dataethicsclub.com), and is based on content from the [Jean Golding Institute’s](http://www.bristol.ac.uk/golding/) CoC for online events, [Arizona Diversity Journal Club CoC](https://www.as.arizona.edu/diversity_coffee/#two), 
-and the [Recurse Centre’s Social Rules](https://www.recurse.com/manual#sub-sec-social-rules). 
-If you would like to suggest an addition or amendment then you can [make an issue](https://github.com/very-good-science/ethical-data-science-journal-club/issues/new/choose), 
-submit a PR or [email us](https://github.com/very-good-science/data-ethics-club#organisers).
-
 ## Unacceptable behaviours
 Unacceptable behaviours will result in immediate action and potentially lead to suspension from future meetings. 
 This being said, consistent and intentional disregard for the Discussion Guidelines below can also be regarded as unacceptable if such behaviour significantly disrupts the group and makes it an unwelcome environment for others. 
@@ -37,6 +32,30 @@ The below Do-s and Don’t-s are guidelines to remind us all of best standards o
 
 ## Reporting Procedure
 If you have been subject to or witnessed unacceptable behaviour, either during a meeting or on this repository, then you can get in touch with either Natalie or Nina.  
-Natalie: natalie.thurlby@bristol.ac.uk  
+Natalie: natalie.zelenka@bristol.ac.uk  
 Nina: nina.dicara@bristol.ac.uk  
 If you would prefer to contact someone who is not directly involved in organising the group, then you can direct your concerns to John Newby ([JGI Manager](http://www.bristol.ac.uk/golding/people/team/)), at [John.Newby@bristol.ac.uk](mailto:John.Newby@bristol.ac.uk)
+
+## Response process
+Once an incident has been reported, we will respond as quickly as possible, according to the following guidelines:
+- Severe and clear breaches of the code of conduct could result in immediate removal from a workshop. 
+- In less severe cases, we will:
+- Ask reporters to fill out a short form detailing what happened. 
+- Assemble a small committee of 2-5 people (which would not include anyone with conflicts of interest) who would:
+    - Where appropriate, meet with the reportee to gather information. Not all committee members need to attend this meeting, but at least two must.
+    - The committee would then meet to determine whether or not the code of conduct was breached and whether we need to amend the code of conduct for the future.
+    - The committee would also determine what an appropriate response would be to best protect our community from harm. 
+
+Responses could include:
+- A warning (verbally or via email) to the party who has breached the code of conduct.
+- Ensuring that the reporter and reported person are not allocated to the same small group activities.
+- Banning from future workshops as an attendee, and/or as a facilitator.
+- Removal from contributing on GitHub.
+- Removal from our Slack workspace.
+
+---
+
+This CoC was originally developed for [Data Ethics Club](https://dataethicsclub.com), and is based on content from the [Jean Golding Institute’s](http://www.bristol.ac.uk/golding/) CoC for online events, [Arizona Diversity Journal Club CoC](https://www.as.arizona.edu/diversity_coffee/#two), 
+and the [Recurse Centre’s Social Rules](https://www.recurse.com/manual#sub-sec-social-rules). 
+If you would like to suggest an addition or amendment then you can [make an issue](https://github.com/very-good-science/data-hazards/issues/new), 
+submit a PR or [email us](https://datahazards.com/contents/contact.html).

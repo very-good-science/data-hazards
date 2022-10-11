@@ -13,8 +13,8 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=9b1a4fa89bdd0e95b23b" rel="stylesheet">
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=9b1a4fa89bdd0e95b23b" rel="stylesheet">
+  <link href="../_static/styles/theme.css?digest=1e1de1a1873e13ef5536" rel="stylesheet">
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=1e1de1a1873e13ef5536" rel="stylesheet">
 
   
   <link rel="stylesheet"
@@ -23,27 +23,23 @@
     href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2">
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2">
 
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="../_static/custom.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=9b1a4fa89bdd0e95b23b">
+  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=1e1de1a1873e13ef5536">
 
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
     <script src="../_static/underscore.js"></script>
     <script src="../_static/doctools.js"></script>
-    <script>let toggleHintShow = 'Click to show';</script>
-    <script>let toggleHintHide = 'Click to hide';</script>
-    <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js"></script>
-    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'contents/code-of-conduct';</script>
     <link rel="shortcut icon" href="../_static/favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
@@ -71,7 +67,7 @@
     <div class="search-button__search-container">
       
 <form class="bd-search d-flex align-items-center" action="../search.html" method="get">
-  <i class="icon fas fa-search"></i>
+  <i class="fa-solid fa-magnifying-glass"></i>
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this site..." aria-label="Search this site..." autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
 </form>
@@ -81,7 +77,7 @@
   
   <nav class="bd-header navbar navbar-expand-lg bd-navbar" id="navbar-main"><div class="bd-header__inner bd-page-width">
   <label class="sidebar-toggle primary-toggle" for="__primary">
-      <span class="fas fa-bars"></span>
+      <span class="fa-solid fa-bars"></span>
   </label>
   <div id="navbar-start">
     
@@ -176,8 +172,8 @@
     <div id="navbar-end">
       <div class="navbar-end-item navbar-end__search-button-container">
         
-<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search">
-  <i class="fas fa-search"></i>
+<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" data-toggle="tooltip">
+  <i class="fa-solid fa-magnifying-glass"></i>
 </button>
       </div>
       
@@ -190,7 +186,8 @@
           
           
           
-          <a href="https://github.com/very-good-science/data-hazards" title="GitHub" class="nav-link" rel="noopener" target="_blank"><span><i class="fab fa-github-square"></i></span>
+          
+          <a href="https://github.com/very-good-science/data-hazards" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-toggle="tooltip"><span><i class="fab fa-github-square"></i></span>
             <label class="sr-only">GitHub</label></a>
         </li>
         <li class="nav-item">
@@ -200,7 +197,8 @@
           
           
           
-          <a href="https://osf.io/3fv7t" title="Open Science Framework" class="nav-link" rel="noopener" target="_blank"><span><i class="fas fa-book-open"></i></span>
+          
+          <a href="https://osf.io/3fv7t" title="Open Science Framework" class="nav-link" rel="noopener" target="_blank" data-toggle="tooltip"><span><i class="fas fa-book-open"></i></span>
             <label class="sr-only">Open Science Framework</label></a>
         </li>
         <li class="nav-item">
@@ -210,7 +208,8 @@
           
           
           
-          <a href="https://twitter.com/hashtag/DataHazards" title="Twitter" class="nav-link" rel="noopener" target="_blank"><span><i class="fab fa-twitter-square"></i></span>
+          
+          <a href="https://twitter.com/hashtag/DataHazards" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-toggle="tooltip"><span><i class="fab fa-twitter-square"></i></span>
             <label class="sr-only">Twitter</label></a>
         </li>
       </ul>
@@ -222,14 +221,14 @@
 
   
   <div class="search-button-container--mobile">
-<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search">
-  <i class="fas fa-search"></i>
+<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" data-toggle="tooltip">
+  <i class="fa-solid fa-magnifying-glass"></i>
 </button>
   </div>
 
   
   <label class="sidebar-toggle secondary-toggle" for="__secondary">
-      <span class="fas fa-outdent"></span>
+      <span class="fa-solid fa-outdent"></span>
   </label>
   
 
@@ -324,7 +323,8 @@
           
           
           
-          <a href="https://github.com/very-good-science/data-hazards" title="GitHub" class="nav-link" rel="noopener" target="_blank"><span><i class="fab fa-github-square"></i></span>
+          
+          <a href="https://github.com/very-good-science/data-hazards" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-toggle="tooltip"><span><i class="fab fa-github-square"></i></span>
             <label class="sr-only">GitHub</label></a>
         </li>
         <li class="nav-item">
@@ -334,7 +334,8 @@
           
           
           
-          <a href="https://osf.io/3fv7t" title="Open Science Framework" class="nav-link" rel="noopener" target="_blank"><span><i class="fas fa-book-open"></i></span>
+          
+          <a href="https://osf.io/3fv7t" title="Open Science Framework" class="nav-link" rel="noopener" target="_blank" data-toggle="tooltip"><span><i class="fas fa-book-open"></i></span>
             <label class="sr-only">Open Science Framework</label></a>
         </li>
         <li class="nav-item">
@@ -344,7 +345,8 @@
           
           
           
-          <a href="https://twitter.com/hashtag/DataHazards" title="Twitter" class="nav-link" rel="noopener" target="_blank"><span><i class="fab fa-twitter-square"></i></span>
+          
+          <a href="https://twitter.com/hashtag/DataHazards" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-toggle="tooltip"><span><i class="fab fa-twitter-square"></i></span>
             <label class="sr-only">Twitter</label></a>
         </li>
       </ul>
@@ -362,36 +364,12 @@
   </p>
   <div class="bd-toc-item navbar-nav">
     <ul class="current nav bd-sidenav">
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
-   Code of Conduct
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="contribute/style-guide.html">
-   Style guide
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="contribute/how-to-contribute.html">
-   How to contribute
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="contribute/credit-for-contributions.html">
-   Credit for contributions
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="contribute/contributors.html">
-   Record of contributions
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="contribute/changelog.html">
-   Change log
-  </a>
- </li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Code of Conduct</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contribute/style-guide.html">Style guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contribute/how-to-contribute.html">How to contribute</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contribute/credit-for-contributions.html">Credit for contributions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contribute/contributors.html">Record of contributions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="contribute/changelog.html">Change log</a></li>
 </ul>
 
   </div>
@@ -425,10 +403,6 @@
 <p>We want all Data Hazards spaces (online or in person) to be places where people feel welcome to discuss their thoughts and ideas.
 This Code of Conduct (CoC) aims to ensure that those participating in the Data Hazards community are protected from abuse, harassment or discrimination,
 and that the discussions we have are supportive and productive.</p>
-<p>This CoC was originally developed for <a class="reference external" href="https://dataethicsclub.com">Data Ethics Club</a>, and is based on content from the <a class="reference external" href="http://www.bristol.ac.uk/golding/">Jean Golding Institute’s</a> CoC for online events, <a class="reference external" href="https://www.as.arizona.edu/diversity_coffee/#two">Arizona Diversity Journal Club CoC</a>,
-and the <a class="reference external" href="https://www.recurse.com/manual#sub-sec-social-rules">Recurse Centre’s Social Rules</a>.
-If you would like to suggest an addition or amendment then you can <a class="reference external" href="https://github.com/very-good-science/ethical-data-science-journal-club/issues/new/choose">make an issue</a>,
-submit a PR or <a class="reference external" href="https://github.com/very-good-science/data-ethics-club#organisers">email us</a>.</p>
 <section id="unacceptable-behaviours">
 <h2>Unacceptable behaviours<a class="headerlink" href="#unacceptable-behaviours" title="Permalink to this headline">#</a></h2>
 <p>Unacceptable behaviours will result in immediate action and potentially lead to suspension from future meetings.
@@ -467,9 +441,38 @@ This being said, consistent and intentional disregard for the Discussion Guideli
 <section id="reporting-procedure">
 <h2>Reporting Procedure<a class="headerlink" href="#reporting-procedure" title="Permalink to this headline">#</a></h2>
 <p>If you have been subject to or witnessed unacceptable behaviour, either during a meeting or on this repository, then you can get in touch with either Natalie or Nina.<br />
-Natalie: natalie.thurlby&#64;bristol.ac.uk<br />
+Natalie: natalie.zelenka&#64;bristol.ac.uk<br />
 Nina: nina.dicara&#64;bristol.ac.uk<br />
 If you would prefer to contact someone who is not directly involved in organising the group, then you can direct your concerns to John Newby (<a class="reference external" href="http://www.bristol.ac.uk/golding/people/team/">JGI Manager</a>), at <a class="reference external" href="mailto:John&#46;Newby&#37;&#52;&#48;bristol&#46;ac&#46;uk">John<span>&#46;</span>Newby<span>&#64;</span>bristol<span>&#46;</span>ac<span>&#46;</span>uk</a></p>
+</section>
+<section id="response-process">
+<h2>Response process<a class="headerlink" href="#response-process" title="Permalink to this headline">#</a></h2>
+<p>Once an incident has been reported, we will respond as quickly as possible, according to the following guidelines:</p>
+<ul class="simple">
+<li><p>Severe and clear breaches of the code of conduct could result in immediate removal from a workshop.</p></li>
+<li><p>In less severe cases, we will:</p></li>
+<li><p>Ask reporters to fill out a short form detailing what happened.</p></li>
+<li><p>Assemble a small committee of 2-5 people (which would not include anyone with conflicts of interest) who would:</p>
+<ul>
+<li><p>Where appropriate, meet with the reportee to gather information. Not all committee members need to attend this meeting, but at least two must.</p></li>
+<li><p>The committee would then meet to determine whether or not the code of conduct was breached and whether we need to amend the code of conduct for the future.</p></li>
+<li><p>The committee would also determine what an appropriate response would be to best protect our community from harm.</p></li>
+</ul>
+</li>
+</ul>
+<p>Responses could include:</p>
+<ul class="simple">
+<li><p>A warning (verbally or via email) to the party who has breached the code of conduct.</p></li>
+<li><p>Ensuring that the reporter and reported person are not allocated to the same small group activities.</p></li>
+<li><p>Banning from future workshops as an attendee, and/or as a facilitator.</p></li>
+<li><p>Removal from contributing on GitHub.</p></li>
+<li><p>Removal from our Slack workspace.</p></li>
+</ul>
+<hr class="docutils" />
+<p>This CoC was originally developed for <a class="reference external" href="https://dataethicsclub.com">Data Ethics Club</a>, and is based on content from the <a class="reference external" href="http://www.bristol.ac.uk/golding/">Jean Golding Institute’s</a> CoC for online events, <a class="reference external" href="https://www.as.arizona.edu/diversity_coffee/#two">Arizona Diversity Journal Club CoC</a>,
+and the <a class="reference external" href="https://www.recurse.com/manual#sub-sec-social-rules">Recurse Centre’s Social Rules</a>.
+If you would like to suggest an addition or amendment then you can <a class="reference external" href="https://github.com/very-good-science/data-hazards/issues/new">make an issue</a>,
+submit a PR or <a class="reference external" href="https://datahazards.com/contents/contact.html">email us</a>.</p>
 </section>
 </section>
 
@@ -487,7 +490,7 @@ If you would prefer to contact someone who is not directly involved in organisin
 <div class="toc-item">
   
 <div class="tocsection onthispage">
-    <i class="fas fa-list"></i> On this page
+    <i class="fa-solid fa-list"></i> On this page
 </div>
 <nav id="bd-toc-nav" class="page-toc">
     <ul class="visible nav section-nav flex-column">
@@ -518,9 +521,19 @@ If you would prefer to contact someone who is not directly involved in organisin
    Reporting Procedure
   </a>
  </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#response-process">
+   Response process
+  </a>
+ </li>
 </ul>
 
 </nav>
+</div>
+
+<div class="toc-item">
+  
+<div id="searchbox"></div>
 </div>
 
 <div class="toc-item">
@@ -531,7 +544,7 @@ If you would prefer to contact someone who is not directly involved in organisin
   
 <div class="tocsection sourcelink">
     <a href="../_sources/contents/code-of-conduct.md.txt">
-        <i class="fas fa-file-alt"></i> Show Source
+        <i class="fa-solid fa-file-lines"></i> Show Source
     </a>
 </div>
 
@@ -554,7 +567,7 @@ If you would prefer to contact someone who is not directly involved in organisin
   
     
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=9b1a4fa89bdd0e95b23b"></script>
+  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=1e1de1a1873e13ef5536"></script>
 
   <footer class="bd-footer"><div class="bd-footer__inner container">
   
