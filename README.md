@@ -1,7 +1,7 @@
 # Data Hazards Project
 [![DOI](https://zenodo.org/badge/346286403.svg)](https://zenodo.org/badge/latestdoi/346286403)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -64,6 +64,7 @@ If you'd like to join us as a contributor, check out our [contributor's guide](h
     </tr>
     <tr>
       <td align="center"><a href="https://philosopher-analyst.netlify.app/"><img src="https://avatars.githubusercontent.com/u/39963221?v=4?s=100" width="100px;" alt="Zoë Turner"/><br /><sub><b>Zoë Turner</b></sub></a><br /><a href="#maintenance-Lextuga007" title="Maintenance">🚧</a> <a href="#ideas-Lextuga007" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center"><a href="https://susana465.github.io/"><img src="https://avatars.githubusercontent.com/u/73224467?v=4?s=100" width="100px;" alt="Susana Roman Garcia"/><br /><sub><b>Susana Roman Garcia</b></sub></a><br /><a href="#example-Susana465" title="Examples">💡</a> <a href="#talk-Susana465" title="Talks">📢</a> <a href="#ideas-Susana465" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
