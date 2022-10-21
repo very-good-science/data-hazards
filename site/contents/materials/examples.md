@@ -29,12 +29,12 @@ Natalie Zelenka used the Data Hazards in her thesis as part of the discussion of
 
 You can also see [another analysis by Natalie here](misc/geno_to_pheno_example.md).
 
-[Susana Roman Garcia](https://susana465.github.io/) has integrated the Data Hazards analysis into her PhD work, including it as part of roadmap to ethical and reproducible research. See [Susana's beautiful poster about her work is available here](https://github.com/Susana465/Bias-and-Reproducibility-Poster/blob/main/20221006_poster_phd_journey.jpg), presented at [COMBINE 2022](http://www.co.mbine.org/#about). 
+[Susana Román García](https://susana465.github.io/) has integrated the Data Hazards analysis into her PhD work, including it as part of roadmap to ethical and reproducible research. See [Susana's beautiful poster about her work is available here](https://github.com/Susana465/Bias-and-Reproducibility-Poster/blob/main/20221006_poster_phd_journey.jpg), presented at [COMBINE 2022](http://www.co.mbine.org/#about). 
 
 
 ## Delivering Workshops
 
-[Susana Roman Garcia](https://susana465.github.io/) delivered a Data Hazards Workshop at [COMBINE 2022](http://www.co.mbine.org/#about) after attending our facilitator training in Summer 2022. 
+[Susana Román García](https://susana465.github.io/) delivered a Data Hazards Workshop at [COMBINE 2022](http://www.co.mbine.org/#about) after attending our facilitator training in Summer 2022. 
 [You can see Susana's workshop materials here](https://github.com/Susana465/Data_Hazards_workshop_COMBINE). 
 As a result we also recieved some new Data Hazard suggestions from the attendees! 
 
