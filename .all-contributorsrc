@@ -153,7 +153,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/39963221?v=4",
       "profile": "https://philosopher-analyst.netlify.app/",
       "contributions": [
-        "maintenance"
+        "maintenance",
+        "ideas"
       ]
     }
   ],
@@ -169,5 +170,6 @@
   "projectOwner": "very-good-science",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
