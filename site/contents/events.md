@@ -20,13 +20,14 @@ The calls alternate between two times to try and make them as accessible as poss
 
 ## Upcoming events
 
-- __7th June 2022__ [Data Hazards Workshop at the JGI Showcase](https://www.eventbrite.co.uk/e/jgi-showcase-data-hazards-workshop-tickets-329591586307)
-- __16th June 2022__ [Data Hazards Facilitator Training - In person in Bristol](https://www.eventbrite.co.uk/e/data-hazards-facilitator-training-tickets-311179104077)
-- __30th June 2022__ [Data Hazards Facilitator Training - Online](https://www.eventbrite.co.uk/preview?eid=321218983627/)
+- May 2023 - Version 1.0 Launch of the Data Hazards! This will be an in-person event in Bristol. Stay tuned for details. 
 
 
 ## Previous events
 
+- __7th June 2022__ [Data Hazards Workshop at the JGI Showcase](https://www.eventbrite.co.uk/e/jgi-showcase-data-hazards-workshop-tickets-329591586307)
+- __16th June 2022__ [Data Hazards Facilitator Training - In person in Bristol](https://www.eventbrite.co.uk/e/data-hazards-facilitator-training-tickets-311179104077)
+- __30th June 2022__ [Data Hazards Facilitator Training - Online](https://www.eventbrite.co.uk/preview?eid=321218983627/)
 - __22-23rd March 2022__ Data Hazards 'Gameshow' at [AI UK](https://www.turing.ac.uk/ai-uk) - we were on 'The Conversation' stage! 
 - __16th March 2022__ University of Bristol Integrative Epidemiology Unit Seminar by Nina [[Slides](https://docs.google.com/presentation/d/1-piQFeopC6MGpFXIgTPYkkfElgrTVlIaomXwtewBV6I/edit?usp=sharing)]
 - __9th March 2022__ Talk at Strathmore University by Natalie   
