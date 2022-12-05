@@ -1,6 +1,6 @@
 # Contact
 
-The Data Hazards Project is jointly led by Natalie Thurlby and Nina Di Cara. Our details are provided below.  
+The Data Hazards Project is jointly led by Natalie Zelenka and Nina Di Cara. Our details are provided below.  
 We're always keen to hear from people interested in the project, or wanting to get involved. Feel free to send us both an email, or you can find us on Twitter!
 
 
