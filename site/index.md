@@ -2,7 +2,7 @@
 
 [//]: # (TODO: Include all alt text)
 
-```{image} images/draft_hazards2.png
+```{image} images/title-image.png
 :alt: Data Hazard warning signs labelled algorithmic decision-making, ranking people, difficult to understand.
 ```
 
