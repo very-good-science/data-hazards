@@ -10,7 +10,7 @@ You can also come to our [open community co-working calls](../events/coworking) 
 
 In the first instance please [start a Discussion with your idea](https://github.com/very-good-science/data-hazards/discussions/new?category=ideas) in the 'Ideas' category.
 We can then chat openly on GitHub about the suggestion, and this gives other people the opportunity to weigh-in on any changes we are considering. 
-Once changes have been agreed then you can follow the process below for [making changes to the website](#making-changes-to-the-website-content).
+Once changes have been agreed then you can follow the process below for making changes to the website.
 
 If you would rather you can also [email us][dec-email] to discuss.
 
@@ -21,7 +21,7 @@ To find the documentation you want to change or add then follow the file path th
 To add the changes to the main repository then:
 
 1. [Fork](https://help.github.com/articles/fork-a-repo) this repository to your own GitHub account.  
-2. Check that you are happy with the changes by [building the site locally](#build-the-site-locally).  
+2. Check that you are happy with the changes by building the site locally.  
 3. Before submitting your changes, please add a note to the [Change Log](changelog) that describes the change you made.
 4. Then, once you've made your changes, submit a [pull request](https://help.github.com/articles/creating-a-pull-request): we'll review it as quick as we can 😄.
 

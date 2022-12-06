@@ -2,7 +2,7 @@
 
 Please see below for a list of our upcoming events, and resources or slides from our previous events.
 
-If you'd like to recieve updates straight to your email then you can sign up to our [mailing list](#mailing-list) below.
+If you'd like to recieve updates straight to your email then you can sign up to our mailing list below.
 
 ## Mailing list 
 ```{admonition} Stay up to date
