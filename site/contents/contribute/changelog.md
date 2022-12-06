@@ -10,6 +10,11 @@ The most recent changes should be at the top of the list.
 More detailed paragraph (~100 words is more than enough!) that describes the changes in more detail and their impact.  
 [Your name](link to your github profile) -->
 
+## 06.12.2022: Update new Hazard labels
+[@ninadicara](https://github.com/ninadicara)  
+Updated all the images of the Hazards with our new labels designed by the amazing Yasmin! 
+
+
 ## 07.03.2022: Move Data Hazards to individual pages
 [@ninadicara](https://github.com/ninadicara)  
 Moved all of the Hazards to their own individual pages, and linked them from the original sphinx panels. 
