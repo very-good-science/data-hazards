@@ -13,7 +13,7 @@ Sign up to hear about project milestones such as publications or the release of 
 
 ## Community co-working calls
 
-We are currently in the process of organising a new series of co-working calls, so if you'd like to chat it's best to [email us directly](contact).
+We are currently in the process of organising a new series of co-working calls, so if you'd like to chat it's best to [email us directly](dh-email).
 
 
 ## Upcoming events
@@ -36,4 +36,4 @@ We are currently in the process of organising a new series of co-working calls, 
 
 ---
 
-[dec-email]: mailto:grp-ethicaldatascience@groups.bristol.ac.uk
+[dh-email]: mailto:data-hazards-project@bristol.ac.uk
