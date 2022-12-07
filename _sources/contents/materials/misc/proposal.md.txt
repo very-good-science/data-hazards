@@ -116,7 +116,7 @@ The outputs will also include some miscellaneous resources, e.g.
 - Recommendations for who data scientists might want to approach to help them critically evaluate their work, such as those based in sociology or philosophy. 
 
 ### Workshop Plans
-We hope to run two short (60-90 minute) workshops to test out the proposed [resources and activities](#Activities) and get feedback on them. 
+We hope to run two short (60-90 minute) workshops to test out the proposed resources and activities and get feedback on them. 
 For example, we hope these workshops will help us streamline the process, identify missing Data Hazard labels, and identify when this process is valuable and to whom.
 
 Our plans for this are as follows:

@@ -42,7 +42,7 @@ This page is a place where anyone who has contributed to the project can be reco
 This page is based on a similar model used by [The Turing Way](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) for recognising contributors to open source projects. 
 
 We welcome anyone asking to be added to this page if they have made a contribution.  
-You can read about different ways to contribute to the project in our [contributors guide](CONTRIBUTING.md).  
+You can read about different ways to contribute to the project in our [contributors guide](how-to-contribute).  
 To be added, please [submit an issue](https://github.com/very-good-science/data-hazards/issues), make a pull request, or [send us an email](mailto:grp-ethicaldatascience@groups.bristol.ac.uk) which includes the following details: 
 * Your Name  
 * Your Role and Affiliation  
@@ -59,7 +59,7 @@ To be added, please [submit an issue](https://github.com/very-good-science/data-
 * Role: Co-PI
 * ORCID [0000-0002-6179-1067](https://orcid.org/0000-0002-6179-1067)
 * GitHub: [ninadicara](https://github.com/ninadicara)
-> Along with [Natalie](natalie-zelenka) I worked on the original idea for the Data Hazards, created resources around them (like teaching materials, slides, reflective prompts, illustrations), planned and delivered our workshops, and the website content. Jointly Natalie and I provide leadership for the project in terms of its next steps and uses. I care a lot about reducing the harm that technology can do to people who may not have power to fight back against, and hope this projects goes some way to making us all think more carefully about what we can all do as individuals to prevent harm. I am also thrilled to have been able to work with (and continue to work with) all the fantastic people who have got involved with this project! 
+> Along with Natalie I worked on the original idea for the Data Hazards, created resources around them (like teaching materials, slides, reflective prompts, illustrations), planned and delivered our workshops, and the website content. Jointly Natalie and I provide leadership for the project in terms of its next steps and uses. I care a lot about reducing the harm that technology can do to people who may not have power to fight back against, and hope this projects goes some way to making us all think more carefully about what we can all do as individuals to prevent harm. I am also thrilled to have been able to work with (and continue to work with) all the fantastic people who have got involved with this project! 
 
 
 ### Natalie Zelenka

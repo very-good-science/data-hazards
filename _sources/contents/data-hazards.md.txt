@@ -4,6 +4,8 @@ This page contains the Data Hazard labels themselves.
 These labels, descriptions, examples, and safety precautions will evolve as we develop the hazard labels with the communities who will use them.
 We welcome you to suggest changes, so please check our [contribution guidelines](contribute) if you would like to. 
 
+You can [download a printable set of Data Hazards cards here](../_static/DataHazards_PrintableCards.pdf).  
+
 Each hazard has:
 - __Hazard__ image, title, and description which represents and describes the risk.
 - __Examples__ to clarify what the hazard covers.

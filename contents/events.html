@@ -6,35 +6,36 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Events &#8212; Data Hazards v0.0.1 documentation</title>
-  <script>
+    <title>Events &#8212; Data Hazards v0.2 documentation</title>
+  
+  
+  
+  <script data-cfasync="false">
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "light";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=1e1de1a1873e13ef5536" rel="stylesheet">
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=1e1de1a1873e13ef5536" rel="stylesheet">
+  <link href="../_static/styles/theme.css?digest=796348d33e8b1d947c94" rel="stylesheet">
+<link href="../_static/styles/bootstrap.css?digest=796348d33e8b1d947c94" rel="stylesheet">
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=796348d33e8b1d947c94" rel="stylesheet">
 
   
-  <link rel="stylesheet"
-    href="../_static/vendor/fontawesome/6.1.2/css/all.min.css">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2">
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=796348d33e8b1d947c94" rel="stylesheet">
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2">
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2">
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2">
 
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="../_static/custom.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=1e1de1a1873e13ef5536">
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=796348d33e8b1d947c94">
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=796348d33e8b1d947c94">
 
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
@@ -52,6 +53,10 @@
   
   
   <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="180" data-default-mode="light">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
 
   
   <input type="checkbox" class="sidebar-toggle" name="__primary" id="__primary">
@@ -114,39 +119,39 @@
     </p>
     <ul id="navbar-main-elements" class="navbar-nav">
         
-                <li class="nav-item">
-                    <a class="nav-link" href="data-hazards.html">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="data-hazards.html">
                         Data Hazard labels
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
 
-                <li class="nav-item">
-                    <a class="nav-link" href="about.html">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="about.html">
                         About
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
 
-                <li class="nav-item">
-                    <a class="nav-link" href="materials.html">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="materials.html">
                         How to use
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
 
-                <li class="nav-item">
-                    <a class="nav-link" href="contribute.html">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="contribute.html">
                         Contributing
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
 
-                <li class="nav-item current active">
-                    <a class="nav-link" href="#">
+                    <li class="nav-item current active">
+                      <a class="nav-link nav-internal" href="#">
                         Events
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
             <div class="nav-item dropdown">
                 <button class="btn dropdown-toggle nav-item" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -154,11 +159,11 @@
                 </button>
                 <div class="dropdown-menu">
                     
-                <li class="nav-item">
-                    <a class="nav-link" href="contact.html">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="contact.html">
                         Contact
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
                 </div>
             </div>
@@ -170,12 +175,14 @@
     </div>
 
     <div id="navbar-end">
-      <div class="navbar-end-item navbar-end__search-button-container">
-        
-<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" data-toggle="tooltip">
+      
+        <div class="navbar-end-item navbar-persistent--container">
+          
+<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-toggle="tooltip">
   <i class="fa-solid fa-magnifying-glass"></i>
 </button>
-      </div>
+        </div>
+      
       
       <div class="navbar-end-item">
         <ul id="navbar-icon-links" class="navbar-nav" aria-label="Icon Links">
@@ -220,11 +227,13 @@
 
 
   
-  <div class="search-button-container--mobile">
-<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" data-toggle="tooltip">
+  
+    <div class="navbar-persistent--mobile">
+<button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-toggle="tooltip">
   <i class="fa-solid fa-magnifying-glass"></i>
 </button>
-  </div>
+    </div>
+  
 
   
   <label class="sidebar-toggle secondary-toggle" for="__secondary">
@@ -254,39 +263,39 @@
     </p>
     <ul id="navbar-main-elements" class="navbar-nav">
         
-                <li class="nav-item">
-                    <a class="nav-link" href="data-hazards.html">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="data-hazards.html">
                         Data Hazard labels
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
 
-                <li class="nav-item">
-                    <a class="nav-link" href="about.html">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="about.html">
                         About
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
 
-                <li class="nav-item">
-                    <a class="nav-link" href="materials.html">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="materials.html">
                         How to use
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
 
-                <li class="nav-item">
-                    <a class="nav-link" href="contribute.html">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="contribute.html">
                         Contributing
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
 
-                <li class="nav-item current active">
-                    <a class="nav-link" href="#">
+                    <li class="nav-item current active">
+                      <a class="nav-link nav-internal" href="#">
                         Events
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
             <div class="nav-item dropdown">
                 <button class="btn dropdown-toggle nav-item" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -294,11 +303,11 @@
                 </button>
                 <div class="dropdown-menu">
                     
-                <li class="nav-item">
-                    <a class="nav-link" href="contact.html">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="contact.html">
                         Contact
-                    </a>
-                </li>
+                      </a>
+                    </li>
                 
                 </div>
             </div>
@@ -364,8 +373,11 @@
     </div>
   </div>
 
+  
+  <div id="rtd-footer-container"></div>
+
       </div>
-      <main class="bd-main">
+      <main id="main-content" class="bd-main">
         
         
         <div class="bd-content">
@@ -381,7 +393,7 @@
   <section id="events">
 <h1>Events<a class="headerlink" href="#events" title="Permalink to this headline">#</a></h1>
 <p>Please see below for a list of our upcoming events, and resources or slides from our previous events.</p>
-<p>If you’d like to recieve updates straight to your email then you can sign up to our <span class="xref myst">mailing list</span> below.</p>
+<p>If you’d like to recieve updates straight to your email then you can sign up to our mailing list below.</p>
 <section id="mailing-list">
 <h2>Mailing list<a class="headerlink" href="#mailing-list" title="Permalink to this headline">#</a></h2>
 <div class="tip admonition">
@@ -392,27 +404,26 @@ Sign up to hear about project milestones such as publications or the release of 
 </section>
 <section id="community-co-working-calls">
 <h2>Community co-working calls<a class="headerlink" href="#community-co-working-calls" title="Permalink to this headline">#</a></h2>
-<p>We hold open co-working calls every other Friday.
-The calls alternate between two times to try and make them as accessible as possible in different timezones.
-<a class="reference internal" href="events/coworking.html"><span class="doc std std-doc">Please click here for details</span></a>.</p>
+<p>We are currently in the process of organising a new series of co-working calls, so if you’d like to chat it’s best to <span class="xref myst">email us directly</span>.</p>
 </section>
 <section id="upcoming-events">
 <h2>Upcoming events<a class="headerlink" href="#upcoming-events" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
-<li><p><strong>7th June 2022</strong> <a class="reference external" href="https://www.eventbrite.co.uk/e/jgi-showcase-data-hazards-workshop-tickets-329591586307">Data Hazards Workshop at the JGI Showcase</a></p></li>
-<li><p><strong>16th June 2022</strong> <a class="reference external" href="https://www.eventbrite.co.uk/e/data-hazards-facilitator-training-tickets-311179104077">Data Hazards Facilitator Training - In person in Bristol</a></p></li>
-<li><p><strong>30th June 2022</strong> <a class="reference external" href="https://www.eventbrite.co.uk/preview?eid=321218983627/">Data Hazards Facilitator Training - Online</a></p></li>
+<li><p>May 2023 - Version 1.0 Launch of the Data Hazards! This will be an in-person event in Bristol. Stay tuned for details.</p></li>
 </ul>
 </section>
 <section id="previous-events">
 <h2>Previous events<a class="headerlink" href="#previous-events" title="Permalink to this headline">#</a></h2>
 <ul class="simple">
+<li><p><strong>7th June 2022</strong> <a class="reference external" href="https://www.eventbrite.co.uk/e/jgi-showcase-data-hazards-workshop-tickets-329591586307">Data Hazards Workshop at the JGI Showcase</a></p></li>
+<li><p><strong>16th June 2022</strong> <a class="reference external" href="https://www.eventbrite.co.uk/e/data-hazards-facilitator-training-tickets-311179104077">Data Hazards Facilitator Training - In person in Bristol</a></p></li>
+<li><p><strong>30th June 2022</strong> <a class="reference external" href="https://www.eventbrite.co.uk/preview?eid=321218983627/">Data Hazards Facilitator Training - Online</a></p></li>
 <li><p><strong>22-23rd March 2022</strong> Data Hazards ‘Gameshow’ at <a class="reference external" href="https://www.turing.ac.uk/ai-uk">AI UK</a> - we were on ‘The Conversation’ stage!</p></li>
 <li><p><strong>16th March 2022</strong> University of Bristol Integrative Epidemiology Unit Seminar by Nina [<a class="reference external" href="https://docs.google.com/presentation/d/1-piQFeopC6MGpFXIgTPYkkfElgrTVlIaomXwtewBV6I/edit?usp=sharing">Slides</a>]</p></li>
 <li><p><strong>9th March 2022</strong> Talk at Strathmore University by Natalie</p></li>
 <li><p><strong>8th March 2022</strong> <a class="reference external" href="https://schedule.mozillafestival.org/session/KYGCEP-1">We’re at MozFest 2022</a>! Come and join us 12-13:30 UK time. [<a class="reference external" href="https://docs.google.com/presentation/d/e/2PACX-1vT0FZltT-MSL2aSDiih9Y1zHqeYIG1Tha_PONd_csFk0czxA6Q7CSStG2I1cCv4H0Y7E3dAQzARpKL7/pub?start=false&amp;loop=false&amp;delayms=3000">Slides</a>]</p></li>
 <li><p><strong>13th Feb 2022</strong> Turing Community Catch Up [<a class="reference external" href="https://zenodo.org/record/6326912">Slides doi:10.5281/zenodo.6326911</a>]</p></li>
-<li><p><strong>13 October 2021</strong> Bristol Tech Festival [<a class="reference internal" href="events/bristol-tech-fest.html"><span class="doc std std-doc">Slides </span></a>]</p></li>
+<li><p><strong>13 October 2021</strong> Bristol Tech Festival [<a class="reference internal" href="events/bristol-tech-fest.html"><span class="doc std std-doc">Slides</span></a>]</p></li>
 <li><p><strong>21st September 2021</strong> Data Hazards Workshop</p></li>
 </ul>
 <hr class="docutils" />
@@ -498,7 +509,8 @@ The calls alternate between two times to try and make them as accessible as poss
   
     
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=1e1de1a1873e13ef5536"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=796348d33e8b1d947c94"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=796348d33e8b1d947c94"></script>
 
   <footer class="bd-footer"><div class="bd-footer__inner container">
   

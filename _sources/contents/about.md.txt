@@ -61,7 +61,7 @@ __March-April 2021__: Behind the scenes plans
 
 {fa}`check,text-success mr-1` Thinking, reading and planning
 
-{fa}`check,text-success mr-1` Writing [proposal](contents/materials/misc/proposal)
+{fa}`check,text-success mr-1` Writing [proposal](materials/misc/proposal)
 
 {fa}`check,text-success mr-1` Getting feedback on initial ideas
 
@@ -96,7 +96,7 @@ __May-Aug 2021__: Prepare for first Data Hazards workshop
 __Sept 2021__ Run first Data Hazards workshops (academic-focused)
 ^^^
 
-{fa}`check,text-success mr-1` Run [first Data Hazards workshop](contents/events/2021-09-21_workshop) on __21st Sept 2021__.
+{fa}`check,text-success mr-1` Run [first Data Hazards workshop](events/2021-09-21_workshop) on __21st Sept 2021__.
 
 ---
 :column: +entry left
@@ -105,7 +105,7 @@ __Oct 2021__ Use workshop feedback to improve data hazards and present early res
 
 ^^^
 
-{fa}`check,text-success mr-1` Present early results from workshop at [AI Ethics Best Practices and the Future of Innovation](https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027) as part of [Bristol Tech Festival](https://bristoltechfest.org/) on __13th Oct 2021__ ([slides](contents/events/bristol-tech-fest)).
+{fa}`check,text-success mr-1` Present early results from workshop at [AI Ethics Best Practices and the Future of Innovation](https://www.eventbrite.co.uk/e/ai-ethics-best-practices-and-the-future-of-innovation-tickets-173883098027) as part of [Bristol Tech Festival](https://bristoltechfest.org/) on __13th Oct 2021__ ([slides](events/bristol-tech-fest)).
 
 {fa}`check,text-success mr-1` Look at workshop feedback to make improvements to:
     - data hazards labels

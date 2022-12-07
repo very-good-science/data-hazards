@@ -4,6 +4,9 @@ The Data Hazards were originally designed around a workshop format.
 This was to allow a series of _Project Owners_ to present a research project to _Audience Members_, who would give them feedback on the ethics of their project. 
 This could be in any context, like a team meeting, a seminar or a scoping exercise.
 
+You can [download a printable set of Data Hazards cards here](../../_static/DataHazards_PrintableCards.pdf). 
+
+
 <!-- ```{admonition} Upcoming workshops
 We are currently planning facilitator training for running Data Hazards workshops to take place in June 2022.
 If you are interested in taking part please [email us](grp-ethicaldatascience@groups.bristol.ac.uk)! 
