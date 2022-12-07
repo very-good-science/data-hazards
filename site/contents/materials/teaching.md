@@ -7,6 +7,8 @@ At the sidebar you will also find an example of the prompt page we gave to stude
 
 The Data Hazards resources have also been used for undergraduate and masters students studying data storytelling, digital health and data science at other institutions. 
 
+You can [download a printable set of Data Hazards cards here](../../_static/DataHazards_PrintableCards.pdf). 
+
 ## Format
 
 This teaching example is adapted from the general Data Hazards Workshop format, which is used by those who want feedback on specific research ideas. 
@@ -66,6 +68,6 @@ You can find the slides we have used to present the background information about
 
 ## Tell us you if used these resources
 
-If you used these resources in your teaching, you are under no obligation to do so, but we would be so pleased if you could send us a [brief email](grp-ethicaldatascience@groups.bristol.ac.uk) to let us know.
+If you used these resources in your teaching, you are under no obligation to do so, but we would be so pleased if you could send us a [brief email](mailto:grp-ethicaldatascience@groups.bristol.ac.uk) to let us know.
 We'd love to hear what case study you used and how the students reacted, and if there's anything we could do to make these resources easier to use.
 You can read examples of how other people used them on our [Examples page](examples).

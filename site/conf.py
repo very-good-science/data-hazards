@@ -22,7 +22,7 @@ copyright = "2021, Natalie Thurlby and Nina Di Cara"
 author = "Natalie Thurlby and Nina Di Cara"
 
 # The full version, including alpha/beta/rc tags
-release = "v0.0.1"
+release = "v0.2"
 
 
 # -- General configuration ---------------------------------------------------
