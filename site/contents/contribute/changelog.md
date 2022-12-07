@@ -12,7 +12,7 @@ More detailed paragraph (~100 words is more than enough!) that describes the cha
 
 ## 06.12.2022: Update new Hazard labels
 [@ninadicara](https://github.com/ninadicara)  
-Updated all the images of the Hazards with our new labels designed by the amazing Yasmin! 
+Updated all the images of the Hazards with our new labels designed by the amazing [Yasmin Dwiputri](http://yasmindwiputri.com/)! 
 
 
 ## 07.03.2022: Move Data Hazards to individual pages
