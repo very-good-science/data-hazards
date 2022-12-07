@@ -2,7 +2,7 @@
 
 Depending on what you would like to do there are different ways to get involved. 
 Please check out the options below!
-If you can't find what you are looking for then [send us an email][dec-email] and we will help!
+If you can't find what you are looking for then [send us an email][dh-email] and we will help!
 You can also come to our [open community co-working calls](../events/coworking) if you would like to chat to us about an idea you have had.
 
 
@@ -12,7 +12,7 @@ In the first instance please [start a Discussion with your idea](https://github.
 We can then chat openly on GitHub about the suggestion, and this gives other people the opportunity to weigh-in on any changes we are considering. 
 Once changes have been agreed then you can follow the process below for making changes to the website.
 
-If you would rather you can also [email us][dec-email] to discuss.
+If you would rather you can also [email us][dh-email] to discuss.
 
 ## Making changes to the website content
 
@@ -51,4 +51,4 @@ Recommendations for a process to create html slides that works with myst markdow
 
 ---
 [issues]: https://github.com/very-good-science/data-hazards/issues
-[dec-email]: mailto:grp-ethicaldatascience@groups.bristol.ac.uk
+[dh-email]: mailto:data-hazards-project@bristol.ac.uk
