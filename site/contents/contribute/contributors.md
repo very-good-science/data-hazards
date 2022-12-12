@@ -23,6 +23,12 @@ Please also note that people have also anonymously contributed ideas and resourc
       <td align="center"><a href="https://linkedin.com/in/jatonline"><img src="https://avatars.githubusercontent.com/u/48878399?v=4?s=100" width="100px;" alt="James Thomas"/><br /><sub><b>James Thomas</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Ajatonline" title="Reviewed Pull Requests">👀</a></td>
       <td align="center"><a href="https://github.com/PogromcaPapai"><img src="https://avatars.githubusercontent.com/u/49349175?v=4?s=100" width="100px;" alt="Jakub Dakowski"/><br /><sub><b>Jakub Dakowski</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=PogromcaPapai" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/vairylein"><img src="https://avatars.githubusercontent.com/u/1439220?v=4?s=100" width="100px;" alt="vairylein"/><br /><sub><b>vairylein</b></sub></a><br /><a href="#design-vairylein" title="Design">🎨</a> <a href="#ideas-vairylein" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center"><a href="https://www.bristol.ac.uk/cdt/digital-health/people/current-students/holly-fraser/"><img src="https://www.bristol.ac.uk/media-library/sites/cdt/images/Fraser.jpg?s=100" width="100px;" alt="Holly Fraser"/><br /><sub><b>Holly Fraser</b></sub></a><br /><a href="#userTesting" title="User Testing">📓</a> <a href="#example" title="Examples">💡</a></td>
+      <td align="center"><a href="https://github.com/gareth-j"><img src="https://avatars.githubusercontent.com/u/8915182?v=4?s=100" width="100px;" alt="Gareth Jones"/><br /><sub><b>Gareth Jones</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=gareth-j" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://philosopher-analyst.netlify.app/"><img src="https://avatars.githubusercontent.com/u/39963221?v=4?s=100" width="100px;" alt="Zoë Turner"/><br /><sub><b>Zoë Turner</b></sub></a><br /><a href="#maintenance-Lextuga007" title="Maintenance">🚧</a> <a href="#ideas-Lextuga007" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center"><a href="https://susana465.github.io/"><img src="https://avatars.githubusercontent.com/u/73224467?v=4?s=100" width="100px;" alt="Susana Roman Garcia"/><br /><sub><b>Susana Roman Garcia</b></sub></a><br /><a href="#example-Susana465" title="Examples">💡</a> <a href="#talk-Susana465" title="Talks">📢</a> <a href="#ideas-Susana465" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
@@ -36,7 +42,7 @@ This page is a place where anyone who has contributed to the project can be reco
 This page is based on a similar model used by [The Turing Way](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) for recognising contributors to open source projects. 
 
 We welcome anyone asking to be added to this page if they have made a contribution.  
-You can read about different ways to contribute to the project in our [contributors guide](CONTRIBUTING.md).  
+You can read about different ways to contribute to the project in our [contributors guide](how-to-contribute).  
 To be added, please [submit an issue](https://github.com/very-good-science/data-hazards/issues), make a pull request, or [send us an email](mailto:grp-ethicaldatascience@groups.bristol.ac.uk) which includes the following details: 
 * Your Name  
 * Your Role and Affiliation  
@@ -53,7 +59,7 @@ To be added, please [submit an issue](https://github.com/very-good-science/data-
 * Role: Co-PI
 * ORCID [0000-0002-6179-1067](https://orcid.org/0000-0002-6179-1067)
 * GitHub: [ninadicara](https://github.com/ninadicara)
-> Along with [Natalie](natalie-zelenka) I worked on the original idea for the Data Hazards, created resources around them (like teaching materials, slides, reflective prompts, illustrations), planned and delivered our workshops, and the website content. Jointly Natalie and I provide leadership for the project in terms of its next steps and uses. I care a lot about reducing the harm that technology can do to people who may not have power to fight back against, and hope this projects goes some way to making us all think more carefully about what we can all do as individuals to prevent harm. I am also thrilled to have been able to work with (and continue to work with) all the fantastic people who have got involved with this project! 
+> Along with Natalie I worked on the original idea for the Data Hazards, created resources around them (like teaching materials, slides, reflective prompts, illustrations), planned and delivered our workshops, and the website content. Jointly Natalie and I provide leadership for the project in terms of its next steps and uses. I care a lot about reducing the harm that technology can do to people who may not have power to fight back against, and hope this projects goes some way to making us all think more carefully about what we can all do as individuals to prevent harm. I am also thrilled to have been able to work with (and continue to work with) all the fantastic people who have got involved with this project! 
 
 
 ### Natalie Zelenka
