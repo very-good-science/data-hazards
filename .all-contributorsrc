@@ -62,7 +62,9 @@
       "profile": "https://github.com/Ismael-KG",
       "contributions": [
         "eventOrganizing",
-        "ideas"
+        "ideas",
+        "talks",
+        "promotion"
       ]
     },
     {
@@ -126,7 +128,8 @@
       "profile": "https://github.com/vairylein",
       "contributions": [
         "design",
-        "ideas"
+        "ideas",
+        "promotion"
       ]
     },
     {
@@ -166,7 +169,8 @@
       "contributions": [
         "example",
         "talk",
-        "ideas"
+        "ideas",
+        "promotion"
       ]
     },
     {
@@ -178,6 +182,17 @@
         "design",
         "ideas",
         "support"
+      ]
+    },
+    {
+      "login": "HDiscoDay",
+      "name": "Huw Day",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85741581?v=4",
+      "profile": "https://github.com/HDiscoDay",
+      "contributions": [
+        "example",
+        "ideas",
+        "promotion"
       ]
     }
   ],
