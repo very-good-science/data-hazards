@@ -22,7 +22,9 @@ __Example 2:__ [School league tables](https://www.bristol.ac.uk/media-library/si
 - Test the effect of the algorithm or technology for different marginalised groups. 
 - Carefully consider the validity of any classification groups and work with subject specialists from the application area on this. 
 - Be transparent about what the weaknesses of the algorithm and technology are: test how can it be fooled. 
-- Consider alternatives to ranking/classification, for example treating people equally, increasing resources for the issue at hand, or allowing people to self-select.
+- Consider alternatives to ranking/classification, for example treating people equally, increasing resources for the issue at hand, or allowing people to self-select.  
+- Consider the implication of sampling bias in the data used as inputs to classification models, which may result in overrepresentation of
+particular demographic groups or might mean there is limited training data for particular classes. 
 
 ## Related Resources
 

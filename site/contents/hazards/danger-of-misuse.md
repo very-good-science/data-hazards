@@ -11,12 +11,14 @@ There is a danger of misusing the algorithm, technology, or data collected as pa
 
 ## Examples
 
-__Example 1:__ Statistical method to do impossible tasks, for example [predicting future human behaviour]().
+__Example 1:__ Using statistical methods to do impossible tasks, like predicting future human behaviour.
 
-__Example 2:__ The collection of a large data set of individuals, which could be hacked, or used for other purposes.
+__Example 2:__ The collection of a large data set about identifiable individuals, which could be hacked, or used for purposes other than what it was collected for.
+
+__Example 3:__ Misinterpreting statistical methods or failing to appreciate their limitations, for example assuming that psychometrics will accurately or definitively predict future human behaviour.
 
 ## Safety Precautions
 
 - Write clear instructions about in what circumstances the algorithm/technology will work or give valid answers and present these wherever the work is presented.
-- If work is piloted outside of this context, it must be re-tested.
+- If work is piloted outside of its original context, it must be re-tested.
 - Follow data governance guidelines.
