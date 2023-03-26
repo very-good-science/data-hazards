@@ -1,5 +1,4 @@
-# Tools for preventing Data Hazards
-
+# Hazard Prevention Tools
 
 Many researchers, companies and communities are working hard to develop tools 
 that can help make data science research and development safer. 
@@ -19,7 +18,7 @@ relevant template, or if you don't use GitHub please send us an email.
 ## Development 
 
 **[Etiq](https://docs.etiq.ai/)**
-*By:* [Etiq AI](https://etiq.ai/about-us) 
+*By:* [Etiq AI](https://etiq.ai/about-us)  
 Etiq is an ML testing platform for data scientists and ML engineers. 
 It includes features such as a 'bias metric scan', and other tools for 
 assessing accuracy and drift. 
