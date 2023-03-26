@@ -1,5 +1,7 @@
 # About
 
+Read more about the origin of the project and its ethos, contributors and timeline here. 
+
 ## How the project started 
 
 The Data Hazards project started in 2021.
@@ -66,10 +68,50 @@ In an individual context you will likely come to a conclusion, but someone else 
 We hope that the Data Hazards discussion and reflective activities will help researchers be aware of a broader variety of potential ethical risks in tech projects, and that ethics is complex, situational and worth discussing.
 
 
+## Contributors
+
+Our brilliant contributors are listed here, and you can [read more detail about our contributing process here](contribute).
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/NatalieThurlby"><img src="https://avatars.githubusercontent.com/u/17617308?v=4?s=100" width="100px;" alt="NatalieThurlby"/><br /><sub><b>NatalieThurlby</b></sub></a><br /><a href="#projectManagement-NatalieThurlby" title="Project Management">📆</a> <a href="#design-NatalieThurlby" title="Design">🎨</a> <a href="#ideas-NatalieThurlby" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-NatalieThurlby" title="Event Organizing">📋</a> <a href="#maintenance-NatalieThurlby" title="Maintenance">🚧</a> <a href="#infra-NatalieThurlby" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=NatalieThurlby" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/conorhoughton"><img src="https://avatars.githubusercontent.com/u/6955092?v=4?s=100" width="100px;" alt="Conor Houghton"/><br /><sub><b>Conor Houghton</b></sub></a><br /><a href="#fundingFinding-conorhoughton" title="Funding Finding">🔍</a></td>
+      <td align="center"><a href="https://github.com/ninadicara"><img src="https://avatars.githubusercontent.com/u/44364127?v=4?s=100" width="100px;" alt="Nina"/><br /><sub><b>Nina</b></sub></a><br /><a href="#projectManagement-ninadicara" title="Project Management">📆</a> <a href="#ideas-ninadicara" title="Ideas, Planning, & Feedback">🤔</a> <a href="#eventOrganizing-ninadicara" title="Event Organizing">📋</a> <a href="#maintenance-ninadicara" title="Maintenance">🚧</a> <a href="#a11y-ninadicara" title="Accessibility">️️️️♿️</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=ninadicara" title="Documentation">📖</a> <a href="#design-ninadicara" title="Design">🎨</a> <a href="https://github.com/very-good-science/data-hazards/issues?q=author%3Aninadicara" title="Bug reports">🐛</a></td>
+      <td align="center"><a href="http://dynamicgenetics.org"><img src="https://avatars.githubusercontent.com/u/1908453?v=4?s=100" width="100px;" alt="Valerio Maggio"/><br /><sub><b>Valerio Maggio</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Aleriomaggio" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center"><a href="https://github.com/Ismael-KG"><img src="https://avatars.githubusercontent.com/u/64027166?v=4?s=100" width="100px;" alt="Ismael-KG"/><br /><sub><b>Ismael-KG</b></sub></a><br /><a href="#eventOrganizing-Ismael-KG" title="Event Organizing">📋</a></td>
+      <td align="center"><a href="https://research-information.bris.ac.uk/en/persons/kate-robson-brown"><img src="http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/kate-robson-brown-head-shot150x100.jpg?s=100" width="100px;" alt="Kate Robson-Brown"/><br /><sub><b>Kate Robson-Brown</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3A" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center"><a href="https://www.bris.ac.uk/contact/person/getDetails?personKey=9tNdYV3TvjDC0p0L3d6TSvZ4ligZa3"><img src="http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/patty-head-shot150x100.jpg?s=100" width="100px;" alt="Patricia Holley"/><br /><sub><b>Patricia Holley</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3A" title="Reviewed Pull Requests">👀</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.bris.ac.uk/contact/person/getDetails?personKey=grE64xPWAmrfuY1ZszJYlss6li3H7X"><img src="http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/Lily-Rice150x100.jpg?s=100" width="100px;" alt="Lily Rice"/><br /><sub><b>Lily Rice</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3A" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center"><a href="https://github.com/ekuw"><img src="https://avatars.githubusercontent.com/u/76116294?v=4?s=100" width="100px;" alt="ekuw"/><br /><sub><b>ekuw</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Aekuw" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center"><a href="https://linkedin.com/in/jatonline"><img src="https://avatars.githubusercontent.com/u/48878399?v=4?s=100" width="100px;" alt="James Thomas"/><br /><sub><b>James Thomas</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/pulls?q=is%3Apr+reviewed-by%3Ajatonline" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center"><a href="https://github.com/PogromcaPapai"><img src="https://avatars.githubusercontent.com/u/49349175?v=4?s=100" width="100px;" alt="Jakub Dakowski"/><br /><sub><b>Jakub Dakowski</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=PogromcaPapai" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/vairylein"><img src="https://avatars.githubusercontent.com/u/1439220?v=4?s=100" width="100px;" alt="vairylein"/><br /><sub><b>vairylein</b></sub></a><br /><a href="#design-vairylein" title="Design">🎨</a> <a href="#ideas-vairylein" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center"><a href="https://www.bristol.ac.uk/cdt/digital-health/people/current-students/holly-fraser/"><img src="https://www.bristol.ac.uk/media-library/sites/cdt/images/Fraser.jpg?s=100" width="100px;" alt="Holly Fraser"/><br /><sub><b>Holly Fraser</b></sub></a><br /><a href="#userTesting" title="User Testing">📓</a> <a href="#example" title="Examples">💡</a></td>
+      <td align="center"><a href="https://github.com/gareth-j"><img src="https://avatars.githubusercontent.com/u/8915182?v=4?s=100" width="100px;" alt="Gareth Jones"/><br /><sub><b>Gareth Jones</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=gareth-j" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://philosopher-analyst.netlify.app/"><img src="https://avatars.githubusercontent.com/u/39963221?v=4?s=100" width="100px;" alt="Zoë Turner"/><br /><sub><b>Zoë Turner</b></sub></a><br /><a href="#maintenance-Lextuga007" title="Maintenance">🚧</a> <a href="#ideas-Lextuga007" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center"><a href="https://susana465.github.io/"><img src="https://avatars.githubusercontent.com/u/73224467?v=4?s=100" width="100px;" alt="Susana Roman Garcia"/><br /><sub><b>Susana Roman Garcia</b></sub></a><br /><a href="#example-Susana465" title="Examples">💡</a> <a href="#talk-Susana465" title="Talks">📢</a> <a href="#ideas-Susana465" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
 (project-timeline)=
 ## Project timeline
 
-Here's a rough project timeline to let you know what we've been up to:
+Here's a rough project timeline that tells the rough history of the project, and sometimes what we have coming up! 
 
 ````{panels}
 :container: timeline

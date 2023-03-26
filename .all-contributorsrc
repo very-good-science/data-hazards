@@ -1,7 +1,8 @@
 {
   "files": [
     "README.md",
-    "site/contents/contribute/contributors.md"
+    "site/contents/contribute/contributors.md",
+    "site/contents/about.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -64,7 +65,8 @@
         "eventOrganizing",
         "ideas",
         "talks",
-        "promotion"
+        "promotion",
+        "a11y"
       ]
     },
     {
@@ -170,7 +172,8 @@
         "example",
         "talk",
         "ideas",
-        "promotion"
+        "promotion",
+        "eventOrganizing"
       ]
     },
     {
