@@ -1,6 +1,6 @@
-# Hazard Prevention Tools
+# Hazard Mitigation Resources
 
-Many researchers, companies and communities are working hard to develop tools 
+Many researchers, companies and communities are working hard to develop tools and resources
 that can help make data science research and development safer.
 This page is an opportunity to signpost to those projects and tools we know of that 
 might help those looking for ways to implement safety precautions in their work
