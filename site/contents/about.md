@@ -2,6 +2,10 @@
 
 Read more about the origin of the project and its ethos, contributors and timeline here. 
 
+<div style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bsAXXCdF7fo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## How the project started 
 
 The Data Hazards project started in 2021.
@@ -202,10 +206,12 @@ __Feb-May 2022__ Developed new labels and facilitator training materials
 ---
 :column: +entry right
 
-__June 2022__ 
+__June 2022__: Run our facilitator workshops
 ^^^
 {fa}`check,text-success mr-1` Ran a Data Hazards workshop as part of the Jean Golding Institute Showcase.
+
 {fa}`check,text-success mr-1` Ran our first Data Hazards facilitator workshop in-person as part of Bristol Data Week.
+
 {fa}`check,text-success mr-1` Ran our second (online) Data Hazards facilitator workshop.
 
 ---
