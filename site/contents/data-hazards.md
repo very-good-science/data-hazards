@@ -11,7 +11,9 @@ Each hazard has:
 - __Examples__ to clarify what the hazard covers.
 - __Safety Precautions__ - things that we would want to see done **before** the research is deployed.
 
-They are designed to help us think about the different types of hazards
+They are designed to help us think about the different types of hazards. 
+
+We also collect a series of resources and tools (scroll down) to help apply the safety precautions to your project.
 
 ````{panels}
 :container: container-fluid
@@ -154,3 +156,7 @@ other contextual information which can also make it difficult to understand how 
 
 ````
 
+## Related resources
+
+You can find our [list of useful tools and resources to help you implement the Data Hazard safety resources here](tools). 
+You can also [download a printable set of Data Hazards cards here](../_static/DataHazards_PrintableCards.pdf).  
