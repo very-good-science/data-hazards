@@ -20,6 +20,11 @@ __Example 3:__ [Algorithmic colonisation of Africa](https://script-ed.org/articl
 
 ## Safety Precautions
 
-- Ask the people who the works is about if they want this kind of solution, and co-create or [co-produce](https://www.youtube.com/watch?v=6XF0GFDYw3E) research with them as partners.
+- Be proactive in reaching out to communities, including diasporic communities. If you are not sure how to contact communities then consider
+whether it is possible to do your work ethically in their absence.
+- Consider how issues of power, consent and trust may be present in your interaction with the relevant communities. 
+- Ask the people who the works is about if they want this kind of solution, and co-create or [co-produce](https://involve.org.uk/resources/methods/co-production) research with them as partners. 
+- Consider where the benefit for data science work lies and ensure that communities receive benefit from this work that is desirable to them.
 - Test the effectiveness of the algorithm or technology for different marginalised groups.
-- Consideration of issues of power, consent and trust. 
+- Consider where you may inadvertently be [classifying or ranking](ranks-classifies) one community over another when considering whose views 'count' towards addressing the research problem. 
+
