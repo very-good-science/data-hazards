@@ -13,7 +13,7 @@ Each hazard has:
 
 They are designed to help us think about the different types of hazards. 
 
-We also collect a series of resources and tools (scroll down) to help apply the safety precautions to your project.
+We also collect a series of mitigation resources and tools (scroll down) to help apply the safety precautions to your project.
 
 ````{panels}
 :container: container-fluid
