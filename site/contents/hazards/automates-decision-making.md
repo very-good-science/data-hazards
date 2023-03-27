@@ -22,3 +22,4 @@ __Example 2:__ Credit scores are produced automatically and rarely involve human
 - Rigorous testing across a broad range of scenarios, and edge cases. This should include those with experience of the domain, and those about whom decisions are being made.
 - Consider human-in-the-loop solutions for higher risk decisions. 
 - Ensure outputs of decision making processes are interpretable. 
+- Ensure there is an easy, accessible and timely way to challenge the automated decision making and/or not have it applied in the first place.

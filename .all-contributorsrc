@@ -1,7 +1,8 @@
 {
   "files": [
     "README.md",
-    "site/contents/contribute/contributors.md"
+    "site/contents/contribute/contributors.md",
+    "site/contents/about.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -62,7 +63,10 @@
       "profile": "https://github.com/Ismael-KG",
       "contributions": [
         "eventOrganizing",
-        "ideas"
+        "ideas",
+        "talks",
+        "promotion",
+        "a11y"
       ]
     },
     {
@@ -126,7 +130,8 @@
       "profile": "https://github.com/vairylein",
       "contributions": [
         "design",
-        "ideas"
+        "ideas",
+        "promotion"
       ]
     },
     {
@@ -166,7 +171,9 @@
       "contributions": [
         "example",
         "talk",
-        "ideas"
+        "ideas",
+        "promotion",
+        "eventOrganizing"
       ]
     },
     {
@@ -178,6 +185,17 @@
         "design",
         "ideas",
         "support"
+      ]
+    },
+    {
+      "login": "HDiscoDay",
+      "name": "Huw Day",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85741581?v=4",
+      "profile": "https://github.com/HDiscoDay",
+      "contributions": [
+        "example",
+        "ideas",
+        "promotion"
       ]
     }
   ],

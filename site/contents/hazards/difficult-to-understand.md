@@ -19,7 +19,10 @@ __Example 1:__ Deep learning is used to perform [credit-scoring](https://www.moo
 
 __Example 2:__ Even when journals have a policy of having code and data availability, published researchers can be unaware of what they agreed to and resist sharing it, as [this](https://www.pnas.org/content/115/11/2584) paper surveying Science publications shows.
 
+__Example 3:__ The advanced use of spreadsheets such as Excel which may use complicated formulae, macros, Visual Basic code, or multiple tabs with links. These can make algorithms and assumptions obscure.
+
 ## Safety Precautions
 
 - Make research code Open Source with [an appropriate software license](https://choosealicense.com/) where possible. Your local [Research Software Engineering](https://society-rse.org/) group may be able to help you with this.
 - Compare results to white box (explainable) methods such as [Random Forest](https://en.wikipedia.org/wiki/Random_forest) or [Regression](https://en.wikipedia.org/wiki/Regression_analysis), which may perform just as well. 
+- Ensure code is well documented with accompanying and/or inline documentation.

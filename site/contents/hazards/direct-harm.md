@@ -16,6 +16,8 @@ __Example 1:__ Software running on driverless cars can fail, allowing the car to
 
 __Example 2:__ AI chatbots, which are becoming more widely used in the medical field, may be used as medication reminders or for triaging services based on need. 
 
+__Example 3:__ Recommender algorithms used on social media have been found to, within minutes, start recommending content about suicide, self-harm, or disordered eating to new accounts [in recent research](https://counterhate.com/research/deadly-by-design/). This makes harmful content extremely accessible to young people. 
+
 
 ## Safety Precautions
 

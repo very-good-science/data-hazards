@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = "Data Hazards"
-copyright = "2021, Natalie Thurlby and Nina Di Cara"
-author = "Natalie Thurlby and Nina Di Cara"
+copyright = "2023, Natalie Zelenka and Nina Di Cara"
+author = "Natalie Zelenka and Nina Di Cara"
 
 # The full version, including alpha/beta/rc tags
-release = "v0.2"
+release = "v1.0"
 
 
 # -- General configuration ---------------------------------------------------

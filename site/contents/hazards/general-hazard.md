@@ -18,3 +18,5 @@ All other Data Hazard examples could feature as examples here.
 ## Safety Precautions
 
 -  Users of this work should be informed that __the responsibility for using this work responsibly and ethically, lies with each person who implements it in a project or product.__
+-  Consider the implications of how any data used has been collected, and what types of data might be missing. 
+-  Explicitly set out any assumptions used in your work, and any key research that is being relied upon for the project.
