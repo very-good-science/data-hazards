@@ -158,5 +158,5 @@ other contextual information which can also make it difficult to understand how 
 
 ## Related resources
 
-You can find our [list of useful tools and resources to help you implement the Data Hazard safety resources here](tools). 
+You can find our [list of useful tools and resources to help you implement the Data Hazard safety resources here](mitigation-resources.md). 
 You can also [download a printable set of Data Hazards cards here](../_static/DataHazards_PrintableCards.pdf).  
