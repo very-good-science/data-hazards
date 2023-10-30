@@ -53,6 +53,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 html_theme = "pydata_sphinx_theme"
 
 html_theme_options = {
+    "use_edit_page_button": True,
     "icon_links": [
         {
             "name": "GitHub",
@@ -80,7 +81,11 @@ html_theme_options = {
 }
 
 html_context = {
-   "default_mode": "light"
+   "default_mode": "light",
+    "github_user": "very-good-science",
+    "github_repo": "data-hazards",
+    "github_version": "main",
+    "doc_path": "site/",
 }
 
 html_sidebars = {
