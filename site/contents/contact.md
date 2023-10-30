@@ -7,13 +7,18 @@ We're always keen to hear from people interested in the project, or wanting to g
 ```{list-table}
 :header-rows: 1
 
-* - __Nina DiCara__
+* - __Nina Di Cara__
   - __Natalie Zelenka__
-* - PhD Student, MRC Integrative Epidemiology Unit, University of Bristol
+  - __Huw Day__
+* - Research Associate in Mental Health Data Science, University of Bristol
+  - Senior Research Fellow of Health Informatics,<br>University College London
   - Data Scientist, Jean Golding Institute, University of Bristol
 * - GitHub: [@ninadicara](https://github.com/ninadicara)
   - GitHub: [@NatalieZelenka](https://github.com/NatalieZelenka)
+  - GitHub: [@hdiscoday](https://github.com/hdiscoday)
 * - Twitter: [@ninadicara](https://twitter.com/ninadicara)
   - Twitter: [@NatZelenka](https://twitter.com/NatZelenka)
+  - Twitter: [@disco_huw](https://twitter.com/disco_huw)
 * - Email: [ninadicara@bristol.ac.uk](mailto:ninadicara@bristol.ac.uk)
-  - Email: [natalie.zelenka@bristol.ac.uk](mailto:natalie.zelenka@bristol.ac.uk)
+  - Email: [n.zelenka@ucl.ac.uk](mailto:n.zelenka@ucl.ac.uk)
+  - Email: [huw.day@bristol.ac.uk](mailto:huw.day@bristol.ac.uk)
