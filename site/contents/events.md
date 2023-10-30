@@ -2,6 +2,8 @@
 
 Please see below for a list of our upcoming events, and resources or slides from our previous events.
 
+
+<!--
 If you'd like to recieve updates straight to your email then you can sign up to our mailing list below.
 
 ## Mailing list 
@@ -15,14 +17,12 @@ Sign up to hear about project milestones such as publications or the release of 
 
 We are currently in the process of organising a new series of co-working calls, so if you'd like to chat it's best to [email us directly](dh-email).
 
-
 ## Upcoming events
-
-- May 2023 - Version 1.0 Launch of the Data Hazards! This will be an in-person event in Bristol. Stay tuned for details. 
+-->
 
 
 ## Previous events
-
+- __29 March 2023__ - [Version 1.0 Launch of the Data Hazards!](https://www.eventbrite.com/e/celebrating-the-launch-of-data-hazards-tickets-532096995437) 
 - __7th June 2022__ [Data Hazards Workshop at the JGI Showcase](https://www.eventbrite.co.uk/e/jgi-showcase-data-hazards-workshop-tickets-329591586307)
 - __16th June 2022__ [Data Hazards Facilitator Training - In person in Bristol](https://www.eventbrite.co.uk/e/data-hazards-facilitator-training-tickets-311179104077)
 - __30th June 2022__ [Data Hazards Facilitator Training - Online](https://www.eventbrite.co.uk/preview?eid=321218983627/)
