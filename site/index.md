@@ -53,6 +53,10 @@ contents/data-hazards
 contents/about
 contents/materials
 contents/contribute
-contents/events
 contents/contact
 ```
+
+<!--
+Feel free to re-add later and uncomment any relevant bits of the events page:
+contents/events
+-->
