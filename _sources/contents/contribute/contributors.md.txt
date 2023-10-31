@@ -29,6 +29,7 @@ Please also note that people have also anonymously contributed ideas and resourc
     <tr>
       <td align="center"><a href="https://philosopher-analyst.netlify.app/"><img src="https://avatars.githubusercontent.com/u/39963221?v=4?s=100" width="100px;" alt="Zoë Turner"/><br /><sub><b>Zoë Turner</b></sub></a><br /><a href="#maintenance-Lextuga007" title="Maintenance">🚧</a> <a href="#ideas-Lextuga007" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center"><a href="https://susana465.github.io/"><img src="https://avatars.githubusercontent.com/u/73224467?v=4?s=100" width="100px;" alt="Susana Roman Garcia"/><br /><sub><b>Susana Roman Garcia</b></sub></a><br /><a href="#example-Susana465" title="Examples">💡</a> <a href="#talk-Susana465" title="Talks">📢</a> <a href="#ideas-Susana465" title="Ideas, Planning, & Feedback">🤔</a></td>
+          <td align="center"><a href="http://melaniestefan.net/"><img src="https://avatars.githubusercontent.com/u/7545731?s=400&v=4" width="100px;" alt="Melanie I Stefan"/><br /><sub><b>Melanie I Stefan</b></sub></a><br /><a href="#ideas-MelanieIStefan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#talk-MelanieIStefan" title="Talks">📢</a> </td>
     </tr>
   </tbody>
 </table>
@@ -74,3 +75,12 @@ To be added, please [submit an issue](https://github.com/very-good-science/data-
 * ORCID: [0000-0002-6850-8375](https://doi.org/0000-0002-6850-8375)
 * Find me on :octocat: [Ismael-KG](https://github.com/Ismael-KG), and Twitter ([@hermeneuticist](https://twitter.com/hermeneuticist))
 > In September 2021, I was delighted to facilitate a workshop alongside [@NatalieZelenka](https://github.com/NatalieZelenka) and [@ninadicara](https://github.com/ninadicara) to [test the Data Hazard labels](https://www.bristol.ac.uk/golding/events/2021/data-hazards-workshop---21-september-2021.html) with researchers from diverse backgrounds. This meant working with Natalie and Nina to familiarise myself with [the prompts they had prepared](https://github.com/very-good-science/data-hazards/blob/ae2ecfad7f85fe48670ed6221a6563353d31e77b/images/worst-case-prompt.png), and then keeping the conversation flowing during breakout rooms with workshop participants. I had previously gathered feedback from The Alan Turing Institute's [Ethics Advisory Group](https://www.turing.ac.uk/research/data-ethics/ethics-advisory-group) (EAG) for the Data Hazard labels. My time with the Turing's EAG allowed me to appreciate the value of the Data Hazard labels, both in the context of training data scientists on questions of ethics, and for preparing documentation for the review of research ethics committees.
+
+
+### Melanie I Stefan
+
+* Role: Early adopter
+* ORCID: 0000-0002-6086-7357 [https://orcid.org/my-orcid?orcid=0000-0002-6086-7357]
+* GitHub: [MelanieIStefan](https://github.com/MelanieIStefan)
+> I was introduced to Data Hazards by the wonderful [@Susana465](https://susana465.github.io/), and it has informed my thinking and practice ever since. I helped facilitate a workhop on Data Hazards at [COMBINE 2022 in Berlin](https://co.mbine.org/author/combine-2022/), and also talked about how I use the Data Hazards framework to flag up potential issues with my own lecture materials at the [Data Hazards, Ethics and Reproducibility One-Day Symposium] (https://www.eventbrite.com/e/online-data-hazards-ethics-and-reproducibility-one-day-symposium-tickets-517490858087) at the Turing Institute in 2023. I am also involved in the discussion on the Data Hazards labels themselves.   
+
