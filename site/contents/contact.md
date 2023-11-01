@@ -15,7 +15,7 @@ We're always keen to hear from people interested in the project, or wanting to g
   - Data Scientist, Jean Golding Institute, University of Bristol
 * - GitHub: [@ninadicara](https://github.com/ninadicara)
   - GitHub: [@NatalieZelenka](https://github.com/NatalieZelenka)
-  - GitHub: [@HDiscoDay](https://github.com/hdiscoday)
+  - GitHub: [@HuwWDay](https://github.com/HuwWDay)
 * - Twitter/X: [@ninadicara](https://twitter.com/ninadicara)
   - Twitter/X: [@NatZelenka](https://twitter.com/NatZelenka)
   - Twitter/X: [@disco_huw](https://twitter.com/disco_huw)
