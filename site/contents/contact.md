@@ -21,4 +21,4 @@ We're always keen to hear from people interested in the project, or wanting to g
   - Twitter/X: [@disco_huw](https://twitter.com/disco_huw)
 * - Email: [ninadicara@bristol.ac.uk](mailto:ninadicara@bristol.ac.uk)
   - Email: [n.zelenka@ucl.ac.uk](mailto:n.zelenka@ucl.ac.uk)
-  - Email: [huw.day@ucl.ac.uk](mailto:huw.day@bristol.ac.uk)
+  - Email: [huw.day@bristol.ac.uk](mailto:huw.day@bristol.ac.uk)
