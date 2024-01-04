@@ -19,6 +19,6 @@ We're always keen to hear from people interested in the project, or wanting to g
 * - Twitter/X: [@ninadicara](https://twitter.com/ninadicara)
   - Twitter/X: [@NatZelenka](https://twitter.com/NatZelenka)
   - Twitter/X: [@disco_huw](https://twitter.com/disco_huw)
-* - Email: [ninadicara@bristol.ac.uk](mailto:ninadicara@bristol.ac.uk)
+* - Email: [nina.dicara@bristol.ac.uk](mailto:nina.dicara@bristol.ac.uk)
   - Email: [n.zelenka@ucl.ac.uk](mailto:n.zelenka@ucl.ac.uk)
   - Email: [huw.day@bristol.ac.uk](mailto:huw.day@bristol.ac.uk)
