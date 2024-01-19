@@ -80,7 +80,17 @@ To be added, please [submit an issue](https://github.com/very-good-science/data-
 ### Melanie I Stefan
 
 * Role: Early adopter
-* ORCID: 0000-0002-6086-7357 [https://orcid.org/my-orcid?orcid=0000-0002-6086-7357]
+* ORCID: [0000-0002-6086-7357](https://orcid.org/my-orcid?orcid=0000-0002-6086-7357)
 * GitHub: [MelanieIStefan](https://github.com/MelanieIStefan)
-> I was introduced to Data Hazards by the wonderful [@Susana465](https://susana465.github.io/), and it has informed my thinking and practice ever since. I helped facilitate a workhop on Data Hazards at [COMBINE 2022 in Berlin](https://co.mbine.org/author/combine-2022/), and also talked about how I use the Data Hazards framework to flag up potential issues with my own lecture materials at the [Data Hazards, Ethics and Reproducibility One-Day Symposium] (https://www.eventbrite.com/e/online-data-hazards-ethics-and-reproducibility-one-day-symposium-tickets-517490858087) at the Turing Institute in 2023. I am also involved in the discussion on the Data Hazards labels themselves.   
+> I was introduced to Data Hazards by the wonderful [@Susana465](https://susana465.github.io/), and it has informed my thinking and practice ever since. I helped facilitate a workhop on Data Hazards at [COMBINE 2022 in Berlin](https://co.mbine.org/author/combine-2022/), and also talked about how I use the Data Hazards framework to flag up potential issues with my own lecture materials at the [Data Hazards, Ethics and Reproducibility One-Day Symposium] (https://www.eventbrite.com/e/online-data-hazards-ethics-and-reproducibility-one-day-symposium-tickets-517490858087) at the Turing Institute in 2023. I am also involved in the discussion on the Data Hazards labels themselves.
+
+### Susana Roman Garcia
+
+* Role: Workshop facilitator, content developer of the Data Hazards application to different settings, especially Neuroscience, PhD case study application of Data Hazards
+* ORCID ID: [0009-0004-6967-7754](https://orcid.org/0009-0004-6967-7754)  
+* [Personal website](https://susana465.github.io/website/)
+> I came across the Data Hazards project as I looked for a way to embed thinking about ethics into my PhD, around 2021/22. Since then, I have attended a facilitator training workshop given by Nina and Natalie; and applied the Data Hazards framework to my PhD as I go along. To showcase this, I made a [poster presentation](https://github.com/Susana465/Bias-and-Reproducibility-Poster/blob/main/README.md) for the [COMBINE](https://combine-org.github.io/events/) and [ICSB](https://www.icsb2022.berlin/home) 2022 conferences.  
+>I have also facilitated a couple of Data Hazards workshops, information for how I prepared can be found here [Data_Hazards_workshops](https://github.com/Susana465/Data_Hazards_workshops). I have also co-organised and co-hosted a [one-day symposium around Data Hazards, Ethics and Reproducibility in 2023](https://github.com/Susana465/der_symposium_20230310). 
+> Likewise, I also worked with the Data Hazards team to create a [poster](https://github.com/Susana465/DH_Project_CaseStudy) for AI UK 2023, in which I showcased my PhD work for people at the conference to discuss what Data Hazard labels they thought applied.  
+> I have also worked on adding a chapter to the [Turing Way Booklet](https://the-turing-way.netlify.app/index.html) about Data Hazards, which is currently still in the process of being reviewed and published as of January 2024 (see info [here](https://github.com/the-turing-way/the-turing-way/pull/3435)).  
 
