@@ -7,10 +7,10 @@ We're always keen to hear from people interested in the project, or wanting to g
 ```{list-table}
 :header-rows: 1
 
-* - __Nina DiCara__
+* - __Nina Di Cara__
   - __Natalie Zelenka__
   - __Huw Day__
-* - Research Associate, School of Psychological Science, University of Bristol
+* - Senior Research Associate, School of Psychological Science, University of Bristol
   - Senior Research Fellow in Health Data Science, Institute of Health Informatics, University College London
   - Data Scientist, Jean Golding Institute, University of Bristol
 * - GitHub: [@ninadicara](https://github.com/ninadicara)
