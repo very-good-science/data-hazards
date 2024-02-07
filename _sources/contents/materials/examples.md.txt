@@ -1,4 +1,4 @@
-# Examples of using the Data Hazards
+# Examples
 
 Here we share a series of examples of how people have made use of the Data Hazards in their work. 
 All examples here are shared with permission.
