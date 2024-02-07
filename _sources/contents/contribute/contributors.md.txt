@@ -82,7 +82,7 @@ To be added, please [submit an issue](https://github.com/very-good-science/data-
 * Role: Early adopter
 * ORCID: [0000-0002-6086-7357](https://orcid.org/my-orcid?orcid=0000-0002-6086-7357)
 * GitHub: [MelanieIStefan](https://github.com/MelanieIStefan)
-> I was introduced to Data Hazards by the wonderful [@Susana465](https://susana465.github.io/), and it has informed my thinking and practice ever since. I helped facilitate a workhop on Data Hazards at [COMBINE 2022 in Berlin](https://co.mbine.org/author/combine-2022/), and also talked about how I use the Data Hazards framework to flag up potential issues with my own lecture materials at the [Data Hazards, Ethics and Reproducibility One-Day Symposium] (https://www.eventbrite.com/e/online-data-hazards-ethics-and-reproducibility-one-day-symposium-tickets-517490858087) at the Turing Institute in 2023. I am also involved in the discussion on the Data Hazards labels themselves.
+> I was introduced to Data Hazards by the wonderful [@Susana465](https://susana465.github.io/), and it has informed my thinking and practice ever since. I helped facilitate a workhop on Data Hazards at [COMBINE 2022 in Berlin](https://co.mbine.org/author/combine-2022/), and also talked about how I use the Data Hazards framework to flag up potential issues with my own lecture materials at the [Data Hazards, Ethics and Reproducibility One-Day Symposium](https://www.eventbrite.com/e/online-data-hazards-ethics-and-reproducibility-one-day-symposium-tickets-517490858087) at the Turing Institute in 2023. I am also involved in the discussion on the Data Hazards labels themselves.
 
 ### Susana Roman Garcia
 
