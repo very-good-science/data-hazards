@@ -1,30 +1,47 @@
-
 /* Timeline CSS adapted from Chris Holdgraf's blog: https://github.com/choldgraf/choldgraf.github.io/ */
 div.timeline div.card {
-    border: 0px;
+  border: 0px;
 }
 
 div.timeline div.left {
-    border-right: 1px solid black;
+  border-right: 1px solid black;
 }
 
 div.timeline div.entry::after {
-    width: 1em;
-    height: 1em;
-    background: white;
-    border-radius: 50%;
-    content: "";
-    top: 1em;
-    display: block;
-    position: absolute;
-    border: 1px black solid;
-    z-index: 999;
+  width: 1em;
+  height: 1em;
+  background: white;
+  border-radius: 50%;
+  content: "";
+  top: 1em;
+  display: block;
+  position: absolute;
+  border: 1px black solid;
+  z-index: 999;
 }
 
 div.timeline div.entry.left::after {
-    right: -.5em;
+  right: -0.5em;
 }
 
 div.timeline div.entry.right::after {
-    left: -.5em;
+  left: -0.5em;
+}
+
+.app-container {
+  display: flex;
+  height: 900px;
+  width: 150%;
+  justify-content: left;
+  align-items: flex-start;
+  overflow: hidden !important;
+}
+
+.col-xl-7 {
+  max-width: 60% !important;
+  max-height: 100% !important;
+}
+
+.col-xl-2 {
+  max-width: max-content !important;
 }

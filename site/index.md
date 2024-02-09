@@ -54,6 +54,7 @@ contents/about
 contents/materials
 contents/contribute
 contents/contact
+contents/hazards-app
 ```
 
 <!--
