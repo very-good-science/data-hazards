@@ -28,3 +28,15 @@ div.timeline div.entry.left::after {
 div.timeline div.entry.right::after {
     left: -.5em;
 }
+
+html[data-theme="light"] {
+    --sd-color-card-background: #fff5db;
+    --pst-color-primary: #385f3e;
+    --pst-color-secondary: #ff5c3b;
+}
+
+html[data-theme="dark"] {
+    --pst-color-primary: white;
+    --pst-color-primary: #385f3e;
+    --pst-color-secondary: #ff5c3b;
+}
