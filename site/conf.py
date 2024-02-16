@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Data Hazards"
-copyright = "2023, Natalie Zelenka and Nina Di Cara"
+copyright = "2024, Natalie Zelenka and Nina Di Cara"
 author = "Natalie Zelenka and Nina Di Cara"
 
 # The full version, including alpha/beta/rc tags
@@ -31,8 +31,13 @@ release = "v1.0"
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "myst_nb",
-    "sphinx_panels",
+    "myst_parser", 
+    "sphinx_design",
+]
+
+# Enable use of ::: https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#code-fences-using-colons
+myst_enable_extensions = [
+    "colon_fence",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -51,6 +56,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 #
 
 html_theme = "pydata_sphinx_theme"
+html_baseurl = "datahazards.com"
 
 html_theme_options = {
     "use_edit_page_button": True,
@@ -90,12 +96,12 @@ html_context = {
 
 html_sidebars = {
     "index": [],
-    "contents/data-hazards": [],
-    "contents/sign-up": [],
-    "contents/contact": [],
+    "labels": [],
+    "contact": [],
 }
 
 html_favicon = "_static/favicon.png"
+html_logo = "_static/favicon.png"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
