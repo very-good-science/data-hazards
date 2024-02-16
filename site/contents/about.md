@@ -63,8 +63,6 @@ This is the best way we can understand the harms it could possibly cause.
 We also need to make sure that we are paying attention to how technology might be more likely to adversely affect people from minoritised backgrounds.
 
 We developed our [workshop format](materials/workshop) to help researchers to gather these different views.
-The Data Hazards are built on the foundations of . 
-
 
 In summary, the Data Hazards exist to prompt discussion, reflection and thought. 
 They are not a checkbox exercise, and there is no requirement for a group to come to a consensus. 
