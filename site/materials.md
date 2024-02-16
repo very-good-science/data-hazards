@@ -12,6 +12,7 @@ materials/teaching
 materials/self-assessment
 materials/presenting
 materials/examples
+materials/mitigation-resources
 ```
 
 On this page you will find materials we have made to help people to use or apply the [Data Hazard labels](data-hazards). 
