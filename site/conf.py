@@ -96,7 +96,7 @@ html_context = {
 
 html_sidebars = {
     "index": [],
-    "labels": [],
+    "about": [],
     "contact": [],
 }
 
