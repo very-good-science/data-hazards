@@ -44,16 +44,14 @@ We made this choice because we want a similar response from people:
 
 ```
 
-
-
 ```{toctree}
 :maxdepth: 2
 :hidden:
 labels
-contents/about
-contents/materials
-contents/contribute
-contents/contact
+about
+materials
+contribute
+contact
 ```
 
 <!--
