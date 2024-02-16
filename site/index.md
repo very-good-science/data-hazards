@@ -49,7 +49,7 @@ We made this choice because we want a similar response from people:
 ```{toctree}
 :maxdepth: 2
 :hidden:
-contents/data-hazards
+labels
 contents/about
 contents/materials
 contents/contribute
