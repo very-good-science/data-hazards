@@ -8,9 +8,8 @@ You can also come to our [open community co-working calls](../events/coworking) 
 
 ## Suggesting new or improved Data Hazards
 
-In the first instance please [start a Discussion with your idea](https://github.com/very-good-science/data-hazards/discussions/new?category=ideas) in the 'Ideas' category.
+In the first instance [please start a new Issue with your idea][issues], and label it with the `data-hazard-ideas` category.
 We can then chat openly on GitHub about the suggestion, and this gives other people the opportunity to weigh-in on any changes we are considering. 
-Once changes have been agreed then you can follow the process below for making changes to the website.
 
 If you would rather you can also [email us][dh-email] to discuss.
 
@@ -36,7 +35,7 @@ These require some Python packages to run.
 You may want to set up a [virtual environment](https://docs.python.org/3/library/venv.html) first, so that you don't install these packages system-wide.
 Then you can install the packages using `pip install -r requirements.txt`
 
-## Adding slides
+<!-- ## Adding slides
 We try to keep all our slides for Data Hazards on our website.
 
 The current process is:
@@ -48,6 +47,7 @@ The current process is:
 4. Add link to markdown web page.
 
 Recommendations for a process to create html slides that works with myst markdown extremely welcome!
+-->
 
 ---
 [issues]: https://github.com/very-good-science/data-hazards/issues
