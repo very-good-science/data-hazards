@@ -1,11 +1,6 @@
 # Data Hazard labels
 
-```{admonition} Version
-:class: success
-
-Current version: 1.0
-
-```
+__Version 1.0__
 
 This page contains the Data Hazard labels themselves.
 We welcome you to suggest changes, so please check our [contribution guidelines](contribute) if you would like to. 
@@ -28,31 +23,10 @@ Each hazard has:
 :link-type: doc
 ::::
 
-::::{grid-item-card} Reinforces Existing Biases
-:img-top: images/hazards/reinforce-bias.png
-:img-alt: A red diamond shaped outline (like a warning sign) with a dark head and shoulders, who has a white triangle in their mind. They are looking out at a black circle, a black square and a larger white triangle just ahead of them. This indicates that the largest shape is the one that they think of. 
-:link: hazards/reinforces-biases
-:link-type: doc
-::::
-
-::::{grid-item-card} Ranks Or Classifies People
-:img-top: images/hazards/classifies-people.png
-:img-alt: A red diamond shaped outline (like a warning sign) with three people standing on a podium of first, second and third place.
-:link: hazards/ranks-classifies
-:link-type: doc
-::::
-
-::::{grid-item-card} High Environmental Cost
-:img-top: images/hazards/environment.png
-:img-alt: A red diamond shaped outline (like a warning sign) with an image of a globe on fire in the middle.
-:link: hazards/high-environmental-cost
-:link-type: doc
-::::
-
-::::{grid-item-card} Lacks Community Involvement
-:img-top: /images/hazards/lacks-community.png
-:img-alt: A red diamond shaped outline (like a warning sign) with figures in the middle who have a speech bubble above their heads with a big cross through it.
-:link: hazards/lacks-community-involvement
+::::{grid-item-card} Automates Decision Making
+:img-top: /images/hazards/automates-decision-making.png
+:img-alt: A red diamond shaped outline (like a warning sign) with two connected cogs that have arrows coming out of the top of them.
+:link: hazards/automates-decision-making
 :link-type: doc
 ::::
 
@@ -70,24 +44,17 @@ Each hazard has:
 :link-type: doc
 ::::
 
-::::{grid-item-card} May Cause Direct Harm
-:img-top: /images/hazards/direct-harm.png
-:img-alt: A red diamond shaped outline (like a warning sign) with a skull in the middle.
-:link: hazards/direct-harm
+::::{grid-item-card} High Environmental Cost
+:img-top: images/hazards/environment.png
+:img-alt: A red diamond shaped outline (like a warning sign) with an image of a globe on fire in the middle.
+:link: hazards/high-environmental-cost
 :link-type: doc
 ::::
 
-::::{grid-item-card} Risk to Privacy
-:img-top: /images/hazards/privacy.png
-:img-alt: A red diamond shaped outline (like a warning sign) with a picture of a surveillance camera in the middle.
-:link: hazards/risk-to-privacy
-:link-type: doc
-::::
-
-::::{grid-item-card} Automates Decision Making
-:img-top: /images/hazards/automates-decision-making.png
-:img-alt:
-:link: hazards/automates-decision-making
+::::{grid-item-card} Lacks Community Involvement
+:img-top: /images/hazards/lacks-community.png
+:img-alt: A red diamond shaped outline (like a warning sign) with figures in the middle who have a speech bubble above their heads with a big cross through it.
+:link: hazards/lacks-community-involvement
 :link-type: doc
 ::::
 
@@ -95,6 +62,34 @@ Each hazard has:
 :img-top: /images/hazards/lacks-informed-consent.png
 :img-alt: A red diamond shaped outline (like a warning sign) containing a magnifying glass hovering over a cross on a piece of paper.
 :link: hazards/lacks-informed-consent
+:link-type: doc
+::::
+
+::::{grid-item-card} May Cause Direct Harm
+:img-top: /images/hazards/direct-harm.png
+:img-alt: A red diamond shaped outline (like a warning sign) with a skull in the middle.
+:link: hazards/direct-harm
+:link-type: doc
+::::
+
+::::{grid-item-card} Ranks Or Classifies People
+:img-top: images/hazards/classifies-people.png
+:img-alt: A red diamond shaped outline (like a warning sign) with three people standing on a podium of first, second and third place.
+:link: hazards/ranks-classifies
+:link-type: doc
+::::
+
+::::{grid-item-card} Reinforces Existing Biases
+:img-top: images/hazards/reinforce-bias.png
+:img-alt: A red diamond shaped outline (like a warning sign) with a dark head and shoulders, who has a white triangle in their mind. They are looking out at a black circle, a black square and a larger white triangle just ahead of them. This indicates that the largest shape is the one that they think of. 
+:link: hazards/reinforces-biases
+:link-type: doc
+::::
+
+::::{grid-item-card} Risk to Privacy
+:img-top: /images/hazards/privacy.png
+:img-alt: A red diamond shaped outline (like a warning sign) with a picture of a surveillance camera in the middle.
+:link: hazards/risk-to-privacy
 :link-type: doc
 ::::
 
@@ -117,6 +112,10 @@ The most recent changes should be at the top of the list.
 ## DD-MM-YYYY: <10 words to summarise change
 More detailed paragraph (~100 words is more than enough!) that describes the changes in more detail and their impact.  
 [Your name](link to your github profile) -->
+
+__29.05.2024: Put labels in alphabetical order__
+[@ninadicara](https://github.com/ninadicara)  
+
 
 __06.12.2022: Update new Hazard labels__
 [@ninadicara](https://github.com/ninadicara)  
