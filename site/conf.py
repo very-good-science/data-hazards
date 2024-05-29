@@ -79,7 +79,7 @@ html_theme_options = {
     ],
     "search_bar_text": "Search this site...",
     "show_prev_next": False,
-    "footer_items": ["license-footer", "sphinx-version"],
+    "footer_items": ["license-footer", "contact"],
     "navbar_end": ["navbar-icon-links"], # removes light/dark mode
     "logo": {
         "text": "Data Hazards",
