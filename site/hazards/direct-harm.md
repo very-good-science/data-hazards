@@ -1,6 +1,6 @@
 # Hazard: May Cause Direct Harm
 
-```{image} ../../images/hazards/direct-harm.png
+```{image} ../images/hazards/direct-harm.png
 :alt: A red diamond shaped outline (like a warning sign) with a skull in the middle.
 :width: 250px
 ```

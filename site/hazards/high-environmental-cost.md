@@ -1,7 +1,7 @@
 # Hazard: High Environmental Cost
 
-```{image} ../../images/hazards/environment.png
-:alt: A red diamond shaped outline (like a warning sign) with an image of a globe in the middle.
+```{image} ../images/hazards/environment.png
+:alt: A red diamond shaped outline (like a warning sign) with an image of a globe on fire in the middle.
 :width: 250px
 ```
 

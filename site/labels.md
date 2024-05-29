@@ -23,63 +23,63 @@ Each hazard has:
 
 ::::{grid-item-card} General Data Hazard
 :img-top: images/hazards/general-hazard.png
-:img-alt:
+:img-alt: A red diamond shaped outline (like a warning sign) with an exclamation mark in the middle.
 :link: /hazards/general-hazard
 :link-type: doc
 ::::
 
 ::::{grid-item-card} Reinforces Existing Biases
 :img-top: images/hazards/reinforce-bias.png
-:img-alt:
+:img-alt: A red diamond shaped outline (like a warning sign) with a dark head and shoulders, who has a white triangle in their mind. They are looking out at a black circle, a black square and a larger white triangle just ahead of them. This indicates that the largest shape is the one that they think of. 
 :link: hazards/reinforces-biases
 :link-type: doc
 ::::
 
 ::::{grid-item-card} Ranks Or Classifies People
 :img-top: images/hazards/classifies-people.png
-:img-alt:
+:img-alt: A red diamond shaped outline (like a warning sign) with three people standing on a podium of first, second and third place.
 :link: hazards/ranks-classifies
 :link-type: doc
 ::::
 
 ::::{grid-item-card} High Environmental Cost
 :img-top: images/hazards/environment.png
-:img-alt:
+:img-alt: A red diamond shaped outline (like a warning sign) with an image of a globe on fire in the middle.
 :link: hazards/high-environmental-cost
 :link-type: doc
 ::::
 
 ::::{grid-item-card} Lacks Community Involvement
 :img-top: /images/hazards/lacks-community.png
-:img-alt:
+:img-alt: A red diamond shaped outline (like a warning sign) with figures in the middle who have a speech bubble above their heads with a big cross through it.
 :link: hazards/lacks-community-involvement
 :link-type: doc
 ::::
 
 ::::{grid-item-card} Danger Of Misuse
 :img-top: /images/hazards/misuse.png
-:img-alt:
+:img-alt: A red diamond shaped outline (like a warning sign) with a hammer raised above a bent screw in the middle.
 :link: hazards/danger-of-misuse
 :link-type: doc
 ::::
 
 ::::{grid-item-card} Difficult to Understand
 :img-top: /images/hazards/difficult-to-understand.png
-:img-alt:
+:img-alt: A red diamond shaped outline (like a warning sign) with an image of a closed box and a question mark next to it.
 :link: hazards/difficult-to-understand
 :link-type: doc
 ::::
 
 ::::{grid-item-card} May Cause Direct Harm
 :img-top: /images/hazards/direct-harm.png
-:img-alt:
+:img-alt: A red diamond shaped outline (like a warning sign) with a skull in the middle.
 :link: hazards/direct-harm
 :link-type: doc
 ::::
 
 ::::{grid-item-card} Risk to Privacy
 :img-top: /images/hazards/privacy.png
-:img-alt:
+:img-alt: A red diamond shaped outline (like a warning sign) with a picture of a surveillance camera in the middle.
 :link: hazards/risk-to-privacy
 :link-type: doc
 ::::
@@ -93,7 +93,7 @@ Each hazard has:
 
 ::::{grid-item-card} Lacks Informed Consent
 :img-top: /images/hazards/lacks-informed-consent.png
-:img-alt:
+:img-alt: A red diamond shaped outline (like a warning sign) containing a magnifying glass hovering over a cross on a piece of paper.
 :link: hazards/lacks-informed-consent
 :link-type: doc
 ::::

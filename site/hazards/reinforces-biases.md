@@ -1,7 +1,7 @@
 # Hazard: Reinforces Existing Biases
 
-```{image} ../../images/hazards/reinforce-bias.png
-:alt: A red diamond shaped outline (like a warning sign) around two arrows pointing to each other in a circle.
+```{image} ../images/hazards/reinforce-bias.png
+:alt: A red diamond shaped outline (like a warning sign) with a dark head and shoulders, who has a white triangle in their mind. They are looking out at a black circle, a black square and a larger white triangle just ahead of them. This indicates that the largest shape is the one that they think of. 
 :width: 250px
 ```
 
