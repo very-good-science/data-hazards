@@ -98,6 +98,7 @@ html_sidebars = {
     "index": [],
     "about": [],
     "contact": [],
+    "labels": [],
 }
 
 html_favicon = "_static/favicon.png"
