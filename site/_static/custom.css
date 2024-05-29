@@ -29,8 +29,18 @@ div.timeline div.entry.right::after {
     left: -.5em;
 }
 
+.sd-card-img-top {
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.sd-card-title {
+    text-align: center;
+}
+
 html[data-theme="light"] {
-    --sd-color-card-background: #fff5db;
+    --sd-color-card-background: #ffc404;
     --pst-color-primary: #385f3e;
     --pst-color-secondary: #ff5c3b;
 }
