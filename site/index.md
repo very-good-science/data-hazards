@@ -1,36 +1,21 @@
 
 # The Data Hazards Project
 
-[//]: # (TODO: Include all alt text)
-
-<!---
-```{image} images/title-image.png
-:alt: Data Hazard warning signs labelled algorithmic decision-making, ranking people, difficult to understand.
-```
---->
 <div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26fNnar4JvY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
-
-Data Hazards is a project about worst-case scenarios of data science. 
+Data Hazards is a project to help us all identify the hazards of using data science. 
 Data scientists are great at selling our work, for example communicating the gains in efficiency and accuracy, but we are less well-practiced in thinking about the ethical implications of our work. 
 The ethical implications go beyond most ethics Institutional Review Boards, to questions about the wider societal impact of data science and algorithms work.
 
 ### Aims
 We aim to __create resources__ to:
-1. Create a shared vocabulary of Data Hazards in the form of [Data Hazard Labels](contents/data-hazards).
-2. Make ethical and future-thinking more accessible to data scientists, computer scientists and applied mathematicians - to apply to their own work.
-3. Enable bringing together and respecting diverse and interdisciplinary viewpoints to this work, through workshops or mailing lists.
-4. Find out what circumstances, and for who, these resources work best.
-
-### How
-To support our aims we will:
-1. Get feedback on our [Data Hazard labels](contents/data-hazards), to develop them with the communities who will be using them.
-2. Create resources that help data scientists reflect on their own work, by creating prompts, frameworks, and forms for them to consider.
-3. Run workshops and mailing lists where data scientists can listen to diverse perspectives and grow their ideas of what is possible, and where interdisciplinary researchers and the public can both be heard, respected, and listened to by the people who are doing computational and mathematical work.
-4. Listen to our community's feedback through surveys.
+1. Create a community-driven open-source vocabulary of ethical hazards for data-intensive research and development, in the form of [Data Hazard labels](contents/data-hazards).
+2. Make ethical and future-thinking more accessible to data scientists, computer scientists and applied mathematicians to apply to their own work.
+3. Enable bringing together and respecting diverse and interdisciplinary viewpoints to this work, and produce resources to do this.
+4. Find out in what circumstances, and for who, these resources work best.
 
 ```{admonition} Why are the Hazard Labels so scary-looking?
 We know that the [Data Hazards labels](contents/data-hazards) are a bit frightening. Argh, there's a skull!
@@ -43,7 +28,6 @@ We made this choice because we want a similar response from people:
 3. They are familiar, especially to scientists, who (within universities) tend to have the least experience of applying ethics.
 
 ```
-
 
 
 ## Contributors
