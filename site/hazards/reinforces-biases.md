@@ -9,7 +9,7 @@
 
 Reinforces unfair treatment of individuals and groups. This may be due to for example input data, algorithm or software design choices, or society at large. 
 
-__Note:__ this is a hazard in it's own right, even if it isn't then used to harm people directly, due to e.g. reinforcing stereotypes.
+__Note:__ this is a Hazard in it's own right, even if it isn't then used to harm people directly, due to e.g. reinforcing stereotypes.
 
 
 ## Examples
