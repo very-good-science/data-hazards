@@ -1,7 +1,7 @@
 # Hazard: Automates Decision Making
 
 ```{image} ../images/hazards/automates-decision-making.png
-:alt: A red diamond shaped outline (like a warning sign) with two connected cogs that have two arrows coming out of the top of them.
+:alt: A red diamond shaped outline (like a warning sign) with two connected cogs that have arrows coming out of the top of them.
 :width: 250px
 ```
 
