@@ -1,8 +1,8 @@
 {
   "files": [
     "README.md",
-    "site/contents/contribute/contributors.md",
-    "site/contents/about.md"
+    "site/contribute/contributors.md",
+    "site/index.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -20,16 +20,8 @@
         "maintenance",
         "infra",
         "doc",
-        "research"
-      ]
-    },
-    {
-      "login": "conorhoughton",
-      "name": "Conor Houghton",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6955092?v=4",
-      "profile": "https://github.com/conorhoughton",
-      "contributions": [
-        "fundingFinding"
+        "research",
+        "code"
       ]
     },
     {
@@ -46,7 +38,17 @@
         "doc",
         "design",
         "bug",
-        "research"
+        "research",
+        "code"
+      ]
+    },
+    {
+      "login": "conorhoughton",
+      "name": "Conor Houghton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6955092?v=4",
+      "profile": "https://github.com/conorhoughton",
+      "contributions": [
+        "fundingFinding"
       ]
     },
     {
@@ -66,7 +68,7 @@
       "contributions": [
         "eventOrganizing",
         "ideas",
-        "talks",
+        "talk",
         "promotion",
         "a11y",
         "research"
@@ -75,8 +77,8 @@
     {
       "login": "",
       "name": "Kate Robson-Brown",
-      "avatar_url": "http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/kate-robson-brown-head-shot150x100.jpg",
-      "profile": "https://research-information.bris.ac.uk/en/persons/kate-robson-brown",
+      "avatar_url": "https://www.turing.ac.uk/sites/default/files/styles/people/public/2018-07/kate-robson-brown-head-shot_0.jpg?itok=1lKG9FgK",
+      "profile": "https://www.turing.ac.uk/people/researchers/katharine-robson-brown",
       "contributions": [
         "review",
         "promotion"
@@ -85,7 +87,7 @@
     {
       "login": "",
       "name": "Patricia Holley",
-      "avatar_url": "http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/patty-head-shot150x100.jpg",
+      "avatar_url": "https://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/PattyHolley_150x150.png",
       "profile": "https://www.bris.ac.uk/contact/person/getDetails?personKey=9tNdYV3TvjDC0p0L3d6TSvZ4ligZa3",
       "contributions": [
         "review",
@@ -173,6 +175,17 @@
       ]
     },
     {
+      "login": "",
+      "name": "Claire Haworth",
+      "avatar_url": "https://research-information.bris.ac.uk/ws/files/289337272/Claire_head_bristol_profile.jpg",
+      "profile": "https://www.bristol.ac.uk/people/person/Claire-Haworth-04ed5882-f1f6-4fb5-8960-5581b0cc8bc4/",
+      "contributions": [
+        "talk",
+        "fundingFinding",
+        "promotion"
+      ]
+    },
+    {
       "login": "Susana465",
       "name": "Susana Roman Garcia",
       "avatar_url": "https://avatars.githubusercontent.com/u/73224467?v=4",
@@ -194,7 +207,7 @@
       "contributions": [
         "design",
         "ideas",
-        "support"
+        "video"
       ]
     },
     {
@@ -217,7 +230,7 @@
       "profile": "http://melaniestefan.net/",
       "contributions": [
         "ideas",
-	      "talk",
+        "talk",
         "research"
       ]
     },
@@ -270,15 +283,6 @@
       ]
     },
     {
-      "login": "",
-      "name": "",
-      "avatar_url": "",
-      "profile": "",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
       "login": "Dylan246456",
       "name": "Dylan246456",
       "avatar_url": "https://avatars.githubusercontent.com/u/108466203?v=4",
@@ -321,6 +325,94 @@
       "profile": "https://github.com/maelorin",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "dsmukilan",
+      "name": "Mukilan Suresh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11191375?v=4",
+      "profile": "https://github.com/dsmukilan",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "mcnanton",
+      "name": "mcnanton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42379883?v=4",
+      "profile": "https://github.com/mcnanton",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "",
+      "name": "Emma Kuwertz",
+      "avatar_url": "",
+      "profile": "https://www.bristol.ac.uk/people/person/Emma-Kuwertz-d6ca1344-b999-42ae-8603-db59266ad245/",
+      "contributions": [
+        "research",
+        "talk"
+      ]
+    },
+    {
+      "login": "CeilidhWelsh",
+      "name": "CeilidhWelsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71887891?v=4",
+      "profile": "https://github.com/CeilidhWelsh",
+      "contributions": [
+        "talk",
+        "research",
+        "ideas"
+      ]
+    },
+    {
+      "login": "OliverDavis",
+      "name": "Oliver Davis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5032882?v=4",
+      "profile": "http://dynamicgenetics.org/",
+      "contributions": [
+        "talk",
+        "promotion"
+      ]
+    },
+    {
+      "login": "davidcsterratt",
+      "name": "David C Sterratt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4264803?v=4",
+      "profile": "http://homepages.inf.ed.ac.uk/sterratt",
+      "contributions": [
+        "research",
+        "ideas"
+      ]
+    },
+    {
+      "login": "nicolaromano",
+      "name": "Nicola Romanò",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208254?v=4",
+      "profile": "https://www.nicolaromano.net/",
+      "contributions": [
+        "research",
+        "ideas"
+      ]
+    },
+    {
+      "login": "l-gorman",
+      "name": "Léo Gorman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55786252?v=4",
+      "profile": "https://www.turing.ac.uk/people/doctoral-students/leo-gorman",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "bengcooper",
+      "name": "Ben Cooper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3008392?v=4",
+      "profile": "https://github.com/bengcooper",
+      "contributions": [
+        "promotion",
+        "code"
       ]
     }
   ],
