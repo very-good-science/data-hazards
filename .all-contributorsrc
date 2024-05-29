@@ -19,7 +19,8 @@
         "eventOrganizing",
         "maintenance",
         "infra",
-        "doc"
+        "doc",
+        "research"
       ]
     },
     {
@@ -44,7 +45,8 @@
         "a11y",
         "doc",
         "design",
-        "bug"
+        "bug",
+        "research"
       ]
     },
     {
@@ -66,7 +68,8 @@
         "ideas",
         "talks",
         "promotion",
-        "a11y"
+        "a11y",
+        "research"
       ]
     },
     {
@@ -75,7 +78,8 @@
       "avatar_url": "http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/kate-robson-brown-head-shot150x100.jpg",
       "profile": "https://research-information.bris.ac.uk/en/persons/kate-robson-brown",
       "contributions": [
-        "review"
+        "review",
+        "promotion"
       ]
     },
     {
@@ -84,7 +88,8 @@
       "avatar_url": "http://www.bristol.ac.uk/media-library/sites/jean-golding-institute/images/people/patty-head-shot150x100.jpg",
       "profile": "https://www.bris.ac.uk/contact/person/getDetails?personKey=9tNdYV3TvjDC0p0L3d6TSvZ4ligZa3",
       "contributions": [
-        "review"
+        "review",
+        "promotion"
       ]
     },
     {
@@ -111,7 +116,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/48878399?v=4",
       "profile": "https://linkedin.com/in/jatonline",
       "contributions": [
-        "review"
+        "review",
+        "talk",
+        "promotion"
       ]
     },
     {
@@ -131,7 +138,9 @@
       "contributions": [
         "design",
         "ideas",
-        "promotion"
+        "promotion",
+        "research",
+        "talk"
       ]
     },
     {
@@ -173,7 +182,8 @@
         "talk",
         "ideas",
         "promotion",
-        "eventOrganizing"
+        "eventOrganizing",
+        "research"
       ]
     },
     {
@@ -193,9 +203,11 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/85741581?v=4",
       "profile": "https://github.com/HDiscoDay",
       "contributions": [
+        "eventOrganizing",
         "example",
         "ideas",
-        "promotion"
+        "promotion",
+        "research"
       ]
     },
     {
@@ -205,7 +217,110 @@
       "profile": "http://melaniestefan.net/",
       "contributions": [
         "ideas",
-	"talk"
+	      "talk",
+        "research"
+      ]
+    },
+    {
+      "login": "",
+      "name": "Euan Bennet",
+      "avatar_url": "https://www.gla.ac.uk/media/Media_865350_smxx.jpg",
+      "profile": "https://www.gla.ac.uk/schools/bohvm/staff/euanbennet/",
+      "contributions": [
+        "research",
+        "talk",
+        "doc"
+      ]
+    },
+    {
+      "login": "",
+      "name": "Emma Kuwertz",
+      "avatar_url": "",
+      "profile": "https://www.bristol.ac.uk/people/person/Emma-Kuwertz-d6ca1344-b999-42ae-8603-db59266ad245/",
+      "contributions": [
+        "research",
+        "talk"
+      ]
+    },
+    {
+      "login": "",
+      "name": "Phil Clatworthy",
+      "avatar_url": "https://research-information.bris.ac.uk/ws/files/289033062/Phil_July_2020.png",
+      "profile": "https://www.bristol.ac.uk/people/person/Philip-Clatworthy-a349d87c-0b95-4779-91d2-edf71a214f2d/",
+      "contributions": [
+        "research"
+      ]
+    },
+    {
+      "login": "SamCallaghan",
+      "name": "SamCallaghan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39956651?v=4",
+      "profile": "https://github.com/SamCallaghan",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kateliddell",
+      "name": "kateliddell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52200743?v=4",
+      "profile": "https://github.com/kateliddell",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "",
+      "name": "",
+      "avatar_url": "",
+      "profile": "",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Dylan246456",
+      "name": "Dylan246456",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108466203?v=4",
+      "profile": "https://github.com/Dylan246456",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "stefgrs",
+      "name": "stefgrs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16223692?v=4",
+      "profile": "https://github.com/stefgrs",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "harrietrs",
+      "name": "Harriet Sands",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28767009?v=4",
+      "profile": "https://github.com/harrietrs",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "PeopleByNumbers",
+      "name": "Joanne Parkes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108466233?v=4",
+      "profile": "https://github.com/PeopleByNumbers",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "maelorin",
+      "name": "loki maelorin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3904823?v=4",
+      "profile": "https://github.com/maelorin",
+      "contributions": [
+        "doc"
       ]
     }
   ],
