@@ -35,10 +35,6 @@ div.timeline div.entry.right::after {
     padding-top: 5%;
 }
 
-.sd-card-title {
-    text-align: center;
-}
-
 html[data-theme="light"] {
     --sd-color-card-background: #ffc404;
     --pst-color-primary: #385f3e;
