@@ -18,12 +18,6 @@ We suggest starting with a 10-15 minute presentation to introduce the Data Hazar
 The lecturer should then present a case study that the students can discuss in small groups.
 Prior to the discussion, students should have the opportunity to ask clarifying questions about the project. 
 
-We provided a summary page for students too, to use during the seminar.
-```{toctree}
-:maxdepth: 1
-teaching/students
-```
-
 ## Timings
 
 17:00 - 17:05 - Settling in  

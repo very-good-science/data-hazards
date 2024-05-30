@@ -1,6 +1,6 @@
 # Hazard: Difficult To Understand
 
-```{image} ../../images/hazards/difficult-to-understand.png
+```{image} ../images/hazards/difficult-to-understand.png
 :alt: A red diamond shaped outline (like a warning sign) with an image of a closed box and a question mark next to it.
 :width: 250px
 ```

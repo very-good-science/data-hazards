@@ -1,7 +1,7 @@
 # Hazard: Ranks Or Classifies People
 
-```{image} ../../images/hazards/classifies-people.png
-:alt: A red diamond shaped outline (like a warning sign) with a set of weighing scales in the middle, and a person sitting on each side of the scale.
+```{image} ../images/hazards/classifies-people.png
+:alt: A red diamond shaped outline (like a warning sign) with three people standing on a podium of first, second and third place.
 :width: 250px
 ```
 

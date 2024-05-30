@@ -1,4 +1,4 @@
-# Contributing
+# Contribute
 
 ```{toctree}
 :maxdepth: 1
@@ -7,7 +7,6 @@ contribute/style-guide
 contribute/how-to-contribute
 contribute/credit-for-contributions
 contribute/contributors
-contribute/changelog
 ```
 
 The Data Hazards project is always welcoming new contributors!
@@ -15,8 +14,7 @@ This page gives you an overview of how you can get involved.
 You can see all of our wonderful existing contributors in our [Record of contributions](contribute/contributors). 
 
 We strongly welcome first-time GitHub users and are very happy to provide support if you would like to learn how to edit the repository.
-Please just [get in touch by email][dec-email] if that is the case.
-You could also come to our [community co-working calls](events/coworking)!
+Please just [get in touch by email][email] if that is the case.
 
 All our content is created and shared under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), and so if you do contribute to the repository your work will also be shared under this license. 
 
@@ -26,15 +24,14 @@ All our content is created and shared under a [CC-BY 4.0 license](https://creati
 
 We would absolutely love your input on the following:
 
-1. General feedback on our [Data Hazard Labels](data-hazards), which you can send to us through email or on [GitHub Discussions](https://github.com/very-good-science/data-hazards/discussions/new?category=feedback).
+1. General feedback on our [Data Hazard Labels](labels), which you can send to us through [email][email] or as a [GitHub Issue][issues].
 2. Suggestions for new Data Hazard labels, or changes to them. 
    For example you might suggest:
     - Ways of rewording Data Hazard label descriptions or titles.
     - New examples of Data Hazards.
     - New/updated "Safety Precautions" (ways of combatting Data Hazards).
     - Ideas for new Data Hazards.
-3. Join one of [upcoming events](events) or (in development) asynchonous mailing lists to provide Data Hazards reviews on different projects.
-4. Contribute to [any of our materials](materials) or share ideas for new materials to help others use the Hazards.
+3. Contribute to [any of our materials](materials) or share ideas for new materials to help others use the Hazards.
     This could include:  
     - Fixing a typo or a broken link.
     - Sharing a link to materials you have made. 
@@ -59,4 +56,5 @@ Check out our [Credit for contributions](contribue/../contribute/credit-for-cont
 
 ---
 [issues]: https://github.com/very-good-science/data-hazards/issues
-[dec-email]: mailto:grp-ethicaldatascience@groups.bristol.ac.uk
+[email]: mailto:data-hazards-project@bristol.ac.uk
+

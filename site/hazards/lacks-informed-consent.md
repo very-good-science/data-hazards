@@ -1,7 +1,7 @@
 # Hazard: Lacks Informed Consent
 
-```{image} ../../images/hazards/lacks-informed-consent.png
-:alt: A red diamond shaped outline (like a warning sign) with an icon of a form in the middle.
+```{image} ../images/hazards/lacks-informed-consent.png
+:alt: A red diamond shaped outline (like a warning sign) containing a magnifying glass hovering over a cross on a piece of paper.
 :width: 250px
 ```
 

@@ -1,7 +1,7 @@
 # Hazard: Reinforces Existing Biases
 
-```{image} ../../images/hazards/reinforce-bias.png
-:alt: A red diamond shaped outline (like a warning sign) around two arrows pointing to each other in a circle.
+```{image} ../images/hazards/reinforce-bias.png
+:alt: A red diamond shaped outline (like a warning sign) with a dark head and shoulders, who has a white triangle in their mind. They are looking out at a black circle, a black square and a larger white triangle just ahead of them. This indicates that the largest shape is the one that they think of. 
 :width: 250px
 ```
 
@@ -9,7 +9,7 @@
 
 Reinforces unfair treatment of individuals and groups. This may be due to for example input data, algorithm or software design choices, or society at large. 
 
-__Note:__ this is a hazard in it's own right, even if it isn't then used to harm people directly, due to e.g. reinforcing stereotypes.
+__Note:__ this is a Hazard in it's own right, even if it isn't then used to harm people directly, due to e.g. reinforcing stereotypes.
 
 
 ## Examples

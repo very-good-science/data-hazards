@@ -1,43 +1,7 @@
-# Data Hazards Project
-[![DOI](https://zenodo.org/badge/346286403.svg)](https://zenodo.org/badge/latestdoi/346286403)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# Record of contributions
 
-
-<img src="site/images/hazards/general-hazard.png" alt="A Data Hazard Label, similar to a COSSH hazard label, with text Data Science Hazard"  width="200" height="200"></img>
-
-<!--
-<img src="site/images/hazards/general-hazard.png"  alt="A Data Hazard Label, similar to a COSSH hazard label, with text Data Science Hazard"  width="100" height="100"\>
--->
-
-Data Ethics Club and the Jean Golding Institute are working with interdisciplinary researchers to create the [Data Hazards Project][site-home]. 
-Please see the [project website][site-home] for the most up-to-date information.
-
-## Aims
-We are creating resources to help interdisciplinary researchers and citizens consider the worse-case scenarios of data science work together, and for these ethical concerns to be embedded in the research. 
-For a full list of our aims and strategies to achieve them, please see [our website][site-home].
-
-## Re-using our materials
-We really welcome people re-using the materials we have made! This repository is licensed under a [CC-BY 4.0 license](license-link). This translates to: yes, please do use, remix, and share anything you find in this repo, but you must credit us with attribution (a link to this repo is okay!).
-
-If you'd like to work with us to use these materials in a new context, please do [get in touch][dec-email].
-
-## Contact us
-To hear more about the project or collaborate with us contact us via [email][dec-email].
-
-This project is being jointly led by:
-- Natalie Zelenka ([twitter][natalie-twitter], [email][natalie-email])
-- Nina Di Cara ([twitter][nina-twitter], [email][nina-email])
-
-You could consider this project a spin-off of [Data Ethics Club][data-ethics-club].
-
-## Contributors
-[//]: # (TODO: Add custom emoji key)
-We use the all-contributors specification to celebrate all kinds of contributions to this project. 
-[Emoji key here](https://allcontributors.org/docs/en/emoji-key)!
-
-If you'd like to join us as a contributor, check out our [contributor's guide](https://github.com/very-good-science/data-hazards/blob/main/CONTRIBUTING.md) for ways to get involved.
+The Data Hazards project exists because of the support and contributions of the many different people below.
+Please also note that people have also anonymously contributed ideas and resources to the project that Nina and Natalie have added on their behalf.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -103,12 +67,59 @@ If you'd like to join us as a contributor, check out our [contributor's guide](h
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
----
-[site-home]: https://very-good-science.github.io/data-hazards/
-[dec-email]: mailto:grp-ethicaldatascience@groups.bristol.ac.uk
-[natalie-email]: mailto:natalie.zelenka@bristol.ac.uk
-[natalie-twitter]: https://twitter.com/NatZelenka
-[nina-twitter]: https://twitter.com/ninadicara
-[nina-email]: mailto:nina.dicara@bristol.ac.uk
-[data-ethics-club]: https://github.com/very-good-science/data-ethics-club/
-[license-link]: https://creativecommons.org/licenses/by/4.0/
+This page is a place where anyone who has contributed to the project can be recognised for the time, effort and expertise they have given to Data Hazards. 
+
+This page is based on a similar model used by [The Turing Way](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) for recognising contributors to open source projects. 
+
+We welcome anyone asking to be added to this page if they have made a contribution.  
+You can read about different ways to contribute to the project in our [contributors guide](how-to-contribute).  
+To be added, please [submit an issue](https://github.com/very-good-science/data-hazards/issues), make a pull request, or [send us an email](mailto:grp-ethicaldatascience@groups.bristol.ac.uk) which includes the following details: 
+* Your Name  
+* Your Role and Affiliation  
+* (Optional) ORCID ID or other persistent identifier  
+* (Optional) Personal contact details or website  
+* Overview of your contribution to the Data Hazards Project - please don't be modest!   
+
+
+## Contributors
+
+<!--- Add yourself here!--->
+
+### Nina Di Cara  
+* Role: Co-PI
+* ORCID [0000-0002-6179-1067](https://orcid.org/0000-0002-6179-1067)
+* GitHub: [ninadicara](https://github.com/ninadicara)
+> Along with Natalie I worked on the original idea for the Data Hazards, created resources around them (like teaching materials, slides, reflective prompts, illustrations), planned and delivered our workshops, and the website content. Jointly Natalie and I provide leadership for the project in terms of its next steps and uses. I care a lot about reducing the harm that technology can do to people who may not have power to fight back against, and hope this projects goes some way to making us all think more carefully about what we can all do as individuals to prevent harm. I am also thrilled to have been able to work with (and continue to work with) all the fantastic people who have got involved with this project! 
+
+
+### Natalie Zelenka
+* Role: Co-PI 
+* ORCID: [0000-0002-1007-0286](https://orcid.org/0000-0002-1007-0286)
+* GitHub: [NatalieZelenka](https://github.com/NatalieZelenka)
+> As a co-lead of the Data Hazards project, I developed the idea for Data Hazards with Nina, wrote lesson materials and proposals and drafted papers, designed images, found funding, and did lots of planning. Me and Nina shared these leadership and organisational tasks 50-50, but we are so grateful for everyone's contributions and support so far. I hope that - like some of the work that I'm [most](https://the-turing-way.netlify.app/) [inspired](https://reproducibilitea.org/) [by](https://carpentries.org/) - these materials *reduce barriers* for researchers. In this case, I hope Data Hazards makes it easier for data scientists to consider the ethical implications of their work and to make those decisions together with the communities who are affected by the work they are doing. 
+
+### Ismael Kherrouvi Garcia
+
+* Role: Workshop facilitator (and huge fan!)
+* ORCID: [0000-0002-6850-8375](https://doi.org/0000-0002-6850-8375)
+* Find me on :octocat: [Ismael-KG](https://github.com/Ismael-KG), and Twitter ([@hermeneuticist](https://twitter.com/hermeneuticist))
+> In September 2021, I was delighted to facilitate a workshop alongside [@NatalieZelenka](https://github.com/NatalieZelenka) and [@ninadicara](https://github.com/ninadicara) to [test the Data Hazard labels](https://www.bristol.ac.uk/golding/events/2021/data-hazards-workshop---21-september-2021.html) with researchers from diverse backgrounds. This meant working with Natalie and Nina to familiarise myself with [the prompts they had prepared](https://github.com/very-good-science/data-hazards/blob/ae2ecfad7f85fe48670ed6221a6563353d31e77b/images/worst-case-prompt.png), and then keeping the conversation flowing during breakout rooms with workshop participants. I had previously gathered feedback from The Alan Turing Institute's [Ethics Advisory Group](https://www.turing.ac.uk/research/data-ethics/ethics-advisory-group) (EAG) for the Data Hazard labels. My time with the Turing's EAG allowed me to appreciate the value of the Data Hazard labels, both in the context of training data scientists on questions of ethics, and for preparing documentation for the review of research ethics committees.
+
+
+### Melanie I Stefan
+
+* Role: Early adopter
+* ORCID: [0000-0002-6086-7357](https://orcid.org/my-orcid?orcid=0000-0002-6086-7357)
+* GitHub: [MelanieIStefan](https://github.com/MelanieIStefan)
+> I was introduced to Data Hazards by the wonderful [@Susana465](https://susana465.github.io/), and it has informed my thinking and practice ever since. I helped facilitate a workhop on Data Hazards at [COMBINE 2022 in Berlin](https://co.mbine.org/author/combine-2022/), and also talked about how I use the Data Hazards framework to flag up potential issues with my own lecture materials at the [Data Hazards, Ethics and Reproducibility One-Day Symposium](https://www.eventbrite.com/e/online-data-hazards-ethics-and-reproducibility-one-day-symposium-tickets-517490858087) at the Turing Institute in 2023. I am also involved in the discussion on the Data Hazards labels themselves.
+
+### Susana Roman Garcia
+
+* Role: Workshop facilitator, content developer of the Data Hazards application to different settings, especially Neuroscience, PhD case study application of Data Hazards
+* ORCID ID: [0009-0004-6967-7754](https://orcid.org/0009-0004-6967-7754)  
+* [Personal website](https://susana465.github.io/website/)
+> I came across the Data Hazards project as I looked for a way to embed thinking about ethics into my PhD, around 2021/22. Since then, I have attended a facilitator training workshop given by Nina and Natalie; and applied the Data Hazards framework to my PhD as I go along. To showcase this, I made a [poster presentation](https://github.com/Susana465/Bias-and-Reproducibility-Poster/blob/main/README.md) for the [COMBINE](https://combine-org.github.io/events/) and [ICSB](https://www.icsb2022.berlin/home) 2022 conferences.  
+>I have also facilitated a couple of Data Hazards workshops, information for how I prepared can be found here [Data_Hazards_workshops](https://github.com/Susana465/Data_Hazards_workshops). I have also co-organised and co-hosted a [one-day symposium around Data Hazards, Ethics and Reproducibility in 2023](https://github.com/Susana465/der_symposium_20230310). 
+> Likewise, I also worked with the Data Hazards team to create a [poster](https://github.com/Susana465/DH_Project_CaseStudy) for AI UK 2023, in which I showcased my PhD work for people at the conference to discuss what Data Hazard labels they thought applied.  
+> I have also worked on adding a chapter to the [Turing Way Booklet](https://the-turing-way.netlify.app/index.html) about Data Hazards, which is currently still in the process of being reviewed and published as of January 2024 (see info [here](https://github.com/the-turing-way/the-turing-way/pull/3435)).  
+

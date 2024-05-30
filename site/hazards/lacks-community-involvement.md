@@ -1,7 +1,7 @@
 # Hazard: Lacks Community Involvement
 
-```{image} ../../images/hazards/lacks-community.png
-:alt: A red diamond shaped outline (like a warning sign) with figures in the middle who have empty speech bubbles above their heads.
+```{image} ../images/hazards/lacks-community.png
+:alt: A red diamond shaped outline (like a warning sign) with figures in the middle who have a speech bubble above their heads with a big cross through it.
 :width: 250px
 ```
 

@@ -1,1 +1,0 @@
-# GitHub badges for Data Hazards

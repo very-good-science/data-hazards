@@ -1,6 +1,6 @@
 # Hazard: General Data Hazard
 
-```{image} ../../images/hazards/general-hazard.png
+```{image} ../images/hazards/general-hazard.png
 :alt: A red diamond shaped outline (like a warning sign) with an exclamation mark in the middle.
 :width: 250px
 ```

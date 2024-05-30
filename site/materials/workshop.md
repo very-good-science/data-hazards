@@ -4,7 +4,7 @@ The Data Hazards were originally designed around a workshop format.
 This was to allow a series of _Project Owners_ to present a research project to _Audience Members_, who would give them feedback on the ethics of their project. 
 This could be in any context, like a team meeting, a seminar or a scoping exercise.
 
-You can [download a printable set of Data Hazards cards here](../../_static/DataHazards_PrintableCards.pdf). 
+You can [download a printable set of Data Hazards cards here](../_static/DataHazards_PrintableCards.pdf). 
 
 
 <!-- ```{admonition} Upcoming workshops
@@ -30,7 +30,7 @@ workshop/feedback
 
 The image below is a prompt which gives an idea of the kinds of prompts the facilitators might make, and that the Data Hazards are designed to encourage. 
 
-```{image} ../../../images/worst-case-prompt.png
+```{image} ../images/worst-case-prompt.png
 :alt: An image of a mind map with yellow bubbles that have prompts for considering worst case scenarios. For example, what's the worst case scenario if the technology works only for some people? 
 ```
 
