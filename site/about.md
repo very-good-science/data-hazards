@@ -1,35 +1,16 @@
 # About
 
-Read more about the origin of the project and its ethos, contributors and timeline here. 
+The image below describes the 'anatomy' of a Data Hazard label.   
 
-<div style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bsAXXCdF7fo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-## Contact information 
-
-The Data Hazards Project was founded by Dr Natalie Zelenka and Dr Nina Di Cara, and is now co-led by Natalie, Nina and Dr Huw Day. Our details are provided below.  
-We're always keen to hear from people interested in the project, or wanting to get involved. Feel free to send us both an email, or you can find us on Twitter!
-
-```{list-table}
-:header-rows: 1
-
-* - __Nina Di Cara__
-  - __Natalie Zelenka__
-  - __Huw Day__
-* - Senior Research Associate, School of Psychological Science, University of Bristol
-  - Senior Research Fellow in Health Data Science, Institute of Health Informatics, University College London
-  - Data Scientist, Jean Golding Institute, University of Bristol
-* - GitHub: [@ninadicara](https://github.com/ninadicara)
-  - GitHub: [@NatalieZelenka](https://github.com/NatalieZelenka)
-  - GitHub: [@HuwWDay](https://github.com/HuwWDay)
-* - Twitter/X: [@ninadicara](https://twitter.com/ninadicara)
-  - Twitter/X: [@NatZelenka](https://twitter.com/NatZelenka)
-  - Twitter/X: [@disco_huw](https://twitter.com/disco_huw)
-* - Email: [nina.dicara@bristol.ac.uk](mailto:nina.dicara@bristol.ac.uk)
-  - Email: [n.zelenka@ucl.ac.uk](mailto:n.zelenka@ucl.ac.uk)
-  - Email: [huw.day@bristol.ac.uk](mailto:huw.day@bristol.ac.uk)
+```{image} images/hazardanatomy.png
+:width: 70%
+:alt: All Hazard labels have an descriptive icon, title, description, examples and suggesed safety precautions.
 ```
+<br>
+
+<!--
+TODO: Alt text is too long and gives 'bad yaml' error. "An example layout of a label that says: every label has an image that represents the concept the label is describing. Title: a short descriptor less than 5 words. Description: the description makes it clear where the label would apply and, if necessary, how it interacts with other labels. Examples: examples are of situations where this hazard would apply. These could be news articles, research projects or tools. Safety Precautions: the safety precautions are very important and describe how researchers and developers could mitigate the potential harm from this label. This may include links to tools that can help (e.g bias checking for machine learning models)."
+-->
 
 ## How the project started 
 
@@ -46,7 +27,7 @@ We decided they should be visual, like COSHH chemical hazards are, and that they
 people at all stages of data science technology development to communicate about the same potential 
 outcomes (no matter how far away those outcomes might seem).
 
-You can see [the current Data Hazard labels here](data-hazards).  
+You can see [the current Data Hazard labels here](labels).  
 You can [read our original proposal here](materials/misc/proposal).  
 
 These days the project is bigger than just us, and we have many contributors who suggest new content, 
@@ -54,16 +35,6 @@ changes to the labels, help us to teach others about ethical hazards or run thei
 If you would like to get involved (we'd love you to!) then we've listed lots of ways 
 you could on our [Contributing page](contribute).
 
-<!--
-Image needs replacing: text not showing right and also old labels sytle.
-The image below describes the 'anatomy' of a Data Hazards label.   
-
-```{image} ../images/hazardanatomy.svg
-:alt: An image of a orange square with a red hexagon in it and the words 'Title', 'Description', 'Examples', 'Safety precautions'. 
-```
-<br>
--->
-  
 Once we had thought of the original list of Hazards we wanted a way for researchers to think about them in 
 a format that encouraged them to reflect, invite different opinions and make them think more broadly about 
 the potential ethical concerns from their project. 
@@ -94,6 +65,31 @@ They are not a checkbox exercise, and there is no requirement for a group to com
 In an individual context you will likely come to a conclusion, but someone else may have a different view.
 We hope that the Data Hazards discussion and reflective activities will help researchers be aware of a broader variety of potential ethical risks in tech projects, and that ethics is complex, situational and worth discussing.
 
+
+## Contact 
+
+The Data Hazards Project was founded by Dr Natalie Zelenka and Dr Nina Di Cara, and is now co-led by Natalie, Nina and Dr Huw Day. Our details are provided below.  
+We're always keen to hear from people interested in the project, or wanting to get involved. Feel free to send us both an email, or you can find us on Twitter!
+
+```{list-table}
+:header-rows: 1
+
+* - __Nina Di Cara__
+  - __Natalie Zelenka__
+  - __Huw Day__
+* - Senior Research Associate, School of Psychological Science, University of Bristol
+  - Senior Research Fellow in Health Data Science, Institute of Health Informatics, University College London
+  - Data Scientist, Jean Golding Institute, University of Bristol
+* - GitHub: [@ninadicara](https://github.com/ninadicara)
+  - GitHub: [@NatalieZelenka](https://github.com/NatalieZelenka)
+  - GitHub: [@HuwWDay](https://github.com/HuwWDay)
+* - Twitter/X: [@ninadicara](https://twitter.com/ninadicara)
+  - Twitter/X: [@NatZelenka](https://twitter.com/NatZelenka)
+  - Twitter/X: [@disco_huw](https://twitter.com/disco_huw)
+* - Email: [nina.dicara@bristol.ac.uk](mailto:nina.dicara@bristol.ac.uk)
+  - Email: [n.zelenka@ucl.ac.uk](mailto:n.zelenka@ucl.ac.uk)
+  - Email: [huw.day@bristol.ac.uk](mailto:huw.day@bristol.ac.uk)
+```
 <!--
 (project-timeline)=
 ## Project timeline
