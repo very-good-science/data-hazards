@@ -15,13 +15,13 @@ materials/examples
 materials/mitigation-resources
 ```
 
-On this page you will find materials we have made to help people to use or apply the [Data Hazard labels](data-hazards). 
+On this page you will find materials we have made to help people to use or apply the [Data Hazard labels](labels). 
 This includes a workshop format, a teaching/lecture based format, and an asychronous format which can be adapted to just be an individual exercise.
 
 You are welcome to use any of the materials we share here, which (like all of our content) are available to use with a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 This means, roughly, they can be re-used and adapted as long as you credit this repository. 
 
-We are currently developing all these materials so please do get in touch with us through the [Contact](contact) tab above if you have any thoughts or examples of how you have used the materials! 
+We are currently developing all these materials so please do [get in touch with us](about) if you have any thoughts or examples of how you have used the materials! 
 Alternatively if you have changes in mind that you would like to make then check out [How to contribute](contribute) - we always welcome new contributors!
 
 
