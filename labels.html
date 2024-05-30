@@ -1,15 +1,14 @@
 
-
 <!DOCTYPE html>
 
 
-<html data-theme="light">
+<html lang="en" data-content_root="./" data-theme="light">
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>&lt;no title&gt; &#8212; Data Hazards v1.0 documentation</title>
+    <title>Data Hazard labels &#8212; Data Hazards v1.0 documentation</title>
   
   
   
@@ -19,37 +18,39 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="_static/styles/theme.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
 
   
-  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=3ee479438cf8b5e0d341" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="_static/custom.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-bootstrap.5fd3999ee7762ccc51105388f4a9d115.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=a746c00c" />
+    <link rel="stylesheet" type="text/css" href="_static/custom.css?v=104d11ec" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=87e54e7c" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=3ee479438cf8b5e0d341" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=3ee479438cf8b5e0d341"></script>
 
-    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
-    <script src="_static/jquery.js"></script>
-    <script src="_static/underscore.js"></script>
-    <script src="_static/doctools.js"></script>
+    <script src="_static/documentation_options.js?v=e160b93e"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'labels';</script>
-    <link rel="shortcut icon" href="_static/favicon.png"/>
+    <link rel="canonical" href="datahazards.com/labels.html" />
+    <link rel="icon" href="_static/favicon.png"/>
+    <link rel="author" title="About these documents" href="about.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="About" href="about.html" />
+    <link rel="prev" title="The Data Hazards Project" href="index.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <meta name="docsearch:language" content="None"/>
+  <meta name="docsearch:language" content="en"/>
   </head>
   
   
@@ -57,19 +58,23 @@
 
   
   
-  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
   
   <input type="checkbox"
           class="sidebar-toggle"
-          name="__primary"
-          id="__primary"/>
-  <label class="overlay overlay-primary" for="__primary"></label>
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
   <input type="checkbox"
           class="sidebar-toggle"
-          name="__secondary"
-          id="__secondary"/>
-  <label class="overlay overlay-secondary" for="__secondary"></label>
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
   <div class="search-button__wrapper">
     <div class="search-button__overlay"></div>
@@ -91,16 +96,23 @@
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
 </form></div>
   </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
   
-    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
 <div class="bd-header__inner bd-page-width">
-  <label class="sidebar-toggle primary-toggle" for="__primary">
+  <button class="sidebar-toggle primary-toggle" aria-label="Site navigation">
     <span class="fa-solid fa-bars"></span>
-  </label>
+  </button>
   
-  <div class="navbar-header-items__start">
+  
+  <div class="col-lg-3 navbar-header-items__start">
     
       <div class="navbar-item">
+
   
 
 <a class="navbar-brand logo" href="index.html">
@@ -109,60 +121,54 @@
   
   
   
+    
+    
+    
+    <img src="_static/favicon.png" class="logo__image only-light" alt=""/>
+    <script>document.write(`<img src="_static/favicon.png" class="logo__image only-dark" alt=""/>`);</script>
+  
+  
     <p class="title logo__title">Data Hazards</p>
   
 </a></div>
     
   </div>
   
-  
   <div class="col-lg-9 navbar-header-items">
     
     <div class="me-auto navbar-header-items__center">
       
-        <div class="navbar-item"><nav class="navbar-nav">
-  <p class="sidebar-header-items__title"
-     role="heading"
-     aria-level="1"
-     aria-label="Site Navigation">
-    Site Navigation
-  </p>
+        <div class="navbar-item">
+<nav class="navbar-nav">
   <ul class="bd-navbar-elements navbar-nav">
     
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="contents/data-hazards.html">
-                        Data Hazard labels
-                      </a>
-                    </li>
-                
+<li class="nav-item pst-header-nav-item current active">
+  <a class="nav-link nav-internal" href="#">
+    Data Hazard labels
+  </a>
+</li>
 
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="contents/about.html">
-                        About
-                      </a>
-                    </li>
-                
 
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="contents/materials.html">
-                        How to use
-                      </a>
-                    </li>
-                
+<li class="nav-item pst-header-nav-item">
+  <a class="nav-link nav-internal" href="about.html">
+    About
+  </a>
+</li>
 
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="contents/contribute.html">
-                        Contributing
-                      </a>
-                    </li>
-                
 
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="contents/contact.html">
-                        Contact
-                      </a>
-                    </li>
-                
+<li class="nav-item pst-header-nav-item">
+  <a class="nav-link nav-internal" href="materials.html">
+    How to use
+  </a>
+</li>
+
+
+<li class="nav-item pst-header-nav-item">
+  <a class="nav-link nav-internal" href="contribute.html">
+    Contribute
+  </a>
+</li>
+
   </ul>
 </nav></div>
       
@@ -173,13 +179,16 @@
       
         <div class="navbar-item navbar-persistent--container">
           
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
         </div>
       
       
@@ -194,8 +203,8 @@ document.write(`
           
           
           
-          <a href="https://github.com/very-good-science/data-hazards" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fab fa-github-square"></i></span>
-            <label class="sr-only">GitHub</label></a>
+          <a href="https://github.com/very-good-science/data-hazards" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fab fa-github-square fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">GitHub</span></a>
         </li>
         <li class="nav-item">
           
@@ -206,8 +215,8 @@ document.write(`
           
           
           
-          <a href="https://osf.io/3fv7t" title="Open Science Framework" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fas fa-book-open"></i></span>
-            <label class="sr-only">Open Science Framework</label></a>
+          <a href="https://osf.io/3fv7t" title="Open Science Framework" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fas fa-book-open fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Open Science Framework</span></a>
         </li>
         <li class="nav-item">
           
@@ -218,8 +227,8 @@ document.write(`
           
           
           
-          <a href="https://twitter.com/hashtag/DataHazards" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fab fa-twitter-square"></i></span>
-            <label class="sr-only">Twitter</label></a>
+          <a href="https://twitter.com/hashtag/DataHazards" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Twitter</span></a>
         </li>
 </ul></div>
       
@@ -229,27 +238,33 @@ document.write(`
   
   
     <div class="navbar-persistent--mobile">
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
     </div>
   
 
   
-    <label class="sidebar-toggle secondary-toggle" for="__secondary">
+    <button class="sidebar-toggle secondary-toggle" aria-label="On this page">
       <span class="fa-solid fa-outdent"></span>
-    </label>
+    </button>
   
 </div>
 
-    </nav>
+    </header>
   
+
   <div class="bd-container">
     <div class="bd-container__inner bd-page-width">
+      
+      
       
       <div class="bd-sidebar-primary bd-sidebar hide-on-wide">
         
@@ -260,51 +275,42 @@ document.write(`
     
       <div class="sidebar-header-items__center">
         
-          <div class="navbar-item"><nav class="navbar-nav">
-  <p class="sidebar-header-items__title"
-     role="heading"
-     aria-level="1"
-     aria-label="Site Navigation">
-    Site Navigation
-  </p>
+          
+          
+            <div class="navbar-item">
+<nav class="navbar-nav">
   <ul class="bd-navbar-elements navbar-nav">
     
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="contents/data-hazards.html">
-                        Data Hazard labels
-                      </a>
-                    </li>
-                
+<li class="nav-item pst-header-nav-item current active">
+  <a class="nav-link nav-internal" href="#">
+    Data Hazard labels
+  </a>
+</li>
 
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="contents/about.html">
-                        About
-                      </a>
-                    </li>
-                
 
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="contents/materials.html">
-                        How to use
-                      </a>
-                    </li>
-                
+<li class="nav-item pst-header-nav-item">
+  <a class="nav-link nav-internal" href="about.html">
+    About
+  </a>
+</li>
 
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="contents/contribute.html">
-                        Contributing
-                      </a>
-                    </li>
-                
 
-                    <li class="nav-item">
-                      <a class="nav-link nav-internal" href="contents/contact.html">
-                        Contact
-                      </a>
-                    </li>
-                
+<li class="nav-item pst-header-nav-item">
+  <a class="nav-link nav-internal" href="materials.html">
+    How to use
+  </a>
+</li>
+
+
+<li class="nav-item pst-header-nav-item">
+  <a class="nav-link nav-internal" href="contribute.html">
+    Contribute
+  </a>
+</li>
+
   </ul>
 </nav></div>
+          
         
       </div>
     
@@ -323,8 +329,8 @@ document.write(`
           
           
           
-          <a href="https://github.com/very-good-science/data-hazards" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fab fa-github-square"></i></span>
-            <label class="sr-only">GitHub</label></a>
+          <a href="https://github.com/very-good-science/data-hazards" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fab fa-github-square fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">GitHub</span></a>
         </li>
         <li class="nav-item">
           
@@ -335,8 +341,8 @@ document.write(`
           
           
           
-          <a href="https://osf.io/3fv7t" title="Open Science Framework" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fas fa-book-open"></i></span>
-            <label class="sr-only">Open Science Framework</label></a>
+          <a href="https://osf.io/3fv7t" title="Open Science Framework" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fas fa-book-open fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Open Science Framework</span></a>
         </li>
         <li class="nav-item">
           
@@ -347,8 +353,8 @@ document.write(`
           
           
           
-          <a href="https://twitter.com/hashtag/DataHazards" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fab fa-twitter-square"></i></span>
-            <label class="sr-only">Twitter</label></a>
+          <a href="https://twitter.com/hashtag/DataHazards" title="Twitter" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fab fa-twitter-square fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">Twitter</span></a>
         </li>
 </ul></div>
         
@@ -365,13 +371,13 @@ document.write(`
 
       </div>
       
-      <main id="main-content" class="bd-main">
+      <main id="main-content" class="bd-main" role="main">
         
         
           <div class="bd-content">
             <div class="bd-article-container">
               
-              <div class="bd-header-article">
+              <div class="bd-header-article d-print-none">
 <div class="header-article-items header-article__inner">
   
     <div class="header-article-items__start">
@@ -380,15 +386,15 @@ document.write(`
 
 
 
-<nav aria-label="Breadcrumbs">
-  <ul class="bd-breadcrumbs" role="navigation" aria-label="Breadcrumb">
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
     
     <li class="breadcrumb-item breadcrumb-home">
       <a href="index.html" class="nav-link" aria-label="Home">
         <i class="fa-solid fa-home"></i>
       </a>
     </li>
-    <li class="breadcrumb-item active" aria-current="page">&lt;no title&gt;</li>
+    <li class="breadcrumb-item active" aria-current="page">Data Hazard labels</li>
   </ul>
 </nav>
 </div>
@@ -403,12 +409,178 @@ document.write(`
               
                 
 <div id="searchbox"></div>
-                <article class="bd-article" role="main">
+                <article class="bd-article">
                   
-  <meta http-equiv="refresh" content="0; url=contents/data-hazards.html" />
+  <section id="data-hazard-labels">
+<h1>Data Hazard labels<a class="headerlink" href="#data-hazard-labels" title="Link to this heading">#</a></h1>
+<p><strong>Version 1.0</strong></p>
+<p>On this page you can see an overview of the current Data Hazards with short descriptions. Click on each for their full information.
+We welcome you to suggest changes, so please check our <a class="reference internal" href="contribute.html"><span class="doc std std-doc">contribution guidelines</span></a> if you would like to or scroll down for current suggestions below.</p>
+<p>You can <a class="reference download internal" download="" href="_downloads/b92f884790471e61048c5e0fee4dd08e/DataHazards_PrintableCards.pdf"><span class="xref download myst">download a printable set of Data Hazards cards here</span></a>.</p>
+<p>Each individual Data Hazard page contains:</p>
+<ul class="simple">
+<li><p>A <strong>title</strong>, <strong>description</strong> and <strong>icon</strong> to describe the Hazard.</p></li>
+<li><p><strong>Examples</strong> to clarify what the hazard covers.</p></li>
+<li><p><strong>Safety Precautions</strong> as suggestions of how Hazards could be mitigated.</p></li>
+</ul>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header sd-bg-success sd-bg-text-success">
+<span class="sd-summary-text">Why are the Hazard Labels designed this way?</span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text">Please know that <strong>we don’t want these labels to scare anyone away from considering ethics or from doing data science</strong>, and we will do everything that we can to make applying Data Hazards labels as welcoming and approachable as possible, but also have some good reasons for choosing these images.</p>
+<p class="sd-card-text">We chose this format because of the similarity to <a class="reference external" href="https://www.hse.gov.uk/chemical-classification/labelling-packaging/hazard-symbols-hazard-pictograms.htm">COSHH hazard labels</a> - hazard labels for chemicals.
+We made this choice because we want a similar response from people:</p>
+<ol class="arabic simple">
+<li><p class="sd-card-text">Attention-grabbing, asking people to stop and think, and take the safety precautions seriously, rather than as an optional extra.</p></li>
+<li><p class="sd-card-text">We’re asking people to <strong>“handle with care”</strong>, not to stop doing the work. We still use chemicals, but we think about how it can be done safely and how to avoid emergencies.</p></li>
+<li><p class="sd-card-text">They are familiar, especially to scientists, who (within universities) tend to have the least experience of applying ethics.</p></li>
+</ol>
+</div>
+</details><!--FYI The numbers after {grid} below refer to the number of columns that should display for xmall (1), small (2), med (3) and large screens (3) -->
+<div class="sd-container-fluid sd-sphinx-override sd-mt-4 sd-mb-4 sd-ml-0 sd-mr-0 docutils">
+<div class="sd-row sd-row-cols-1 sd-row-cols-xs-1 sd-row-cols-sm-2 sd-row-cols-md-3 sd-row-cols-lg-3 sd-g-2 sd-g-xs-2 sd-g-sm-2 sd-g-md-2 sd-g-lg-2 docutils">
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) with an exclamation mark in the middle." class="sd-card-img-top" src="_images/general-hazard.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+General Data Hazard</div>
+<p class="sd-card-text">Data Science is being used in this output, and any negative outcome of using this work are not the fault of “the algorithm” or “the software”.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/general-hazard.html"><span class="doc">Hazard: General Data Hazard</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) with two connected cogs that have arrows coming out of the top of them." class="sd-card-img-top" src="_images/automates-decision-making.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+Automates Decision Making</div>
+<p class="sd-card-text">Automated decision making can be hazardous for a number of reasons, and these will be highly dependent on the field in which it is being applied.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/automates-decision-making.html"><span class="doc">Hazard: Automates Decision Making</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) with a hammer raised above a bent screw in the middle." class="sd-card-img-top" src="_images/misuse.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+Danger Of Misuse</div>
+<p class="sd-card-text">There is a danger of misusing the algorithm, technology, or data collected as part of this work.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/danger-of-misuse.html"><span class="doc">Hazard: Danger Of Misuse</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) with an image of a closed box and a question mark next to it." class="sd-card-img-top" src="_images/difficult-to-understand.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+Difficult to Understand</div>
+<p class="sd-card-text">This may apply if the technology itself is hard to interpret (e.g. neural nets), or documentation is poor/unavailable.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/difficult-to-understand.html"><span class="doc">Hazard: Difficult To Understand</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) with an image of a globe on fire in the middle." class="sd-card-img-top" src="_images/environment.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+High Environmental Cost</div>
+<p class="sd-card-text">Indicates methodologies that are energy-hungry, data-hungry, or require special hardware with rare materials.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/high-environmental-cost.html"><span class="doc">Hazard: High Environmental Cost</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) with figures in the middle who have a speech bubble above their heads with a big cross through it." class="sd-card-img-top" src="_images/lacks-community.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+Lacks Community Involvement</div>
+<p class="sd-card-text">This applies when technology is being produced without input from the community it is supposed to serve.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/lacks-community-involvement.html"><span class="doc">Hazard: Lacks Community Involvement</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) containing a magnifying glass hovering over a cross on a piece of paper." class="sd-card-img-top" src="_images/lacks-informed-consent.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+Lacks Informed Consent</div>
+<p class="sd-card-text">This hazard applies to datasets or algorithms that use data which has not been provided with the explicit consent of the data owner/creator.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/lacks-informed-consent.html"><span class="doc">Hazard: Lacks Informed Consent</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) with a skull in the middle." class="sd-card-img-top" src="_images/direct-harm.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+May Cause Direct Harm</div>
+<p class="sd-card-text">The application area of this technology means that it is capable of causing direct physical or psychological harm to someone even if used correctly.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/direct-harm.html"><span class="doc">Hazard: May Cause Direct Harm</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) with three people standing on a podium of first, second and third place." class="sd-card-img-top" src="_images/classifies-people.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+Ranks Or Classifies People</div>
+<p class="sd-card-text">Ranking and classifications of people are hazards in their own right and should be handled with care.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/ranks-classifies.html"><span class="doc">Hazard: Ranks Or Classifies People</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) with a dark head and shoulders, who has a white triangle in their mind. They are looking out at a black circle, a black square and a larger white triangle just ahead of them. This indicates that the largest shape is the one that they think of." class="sd-card-img-top" src="_images/reinforce-bias.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+Reinforces Existing Biases</div>
+<p class="sd-card-text">Reinforces unfair treatment of individuals and groups. This may be due to for example input data, algorithm or software design choices, or society at large.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/reinforces-biases.html"><span class="doc">Hazard: Reinforces Existing Biases</span></a></div>
+</div>
+<div class="sd-col sd-d-flex-row docutils">
+<div class="sd-card sd-sphinx-override sd-w-100 sd-shadow-sm sd-card-hover docutils">
+<img alt="A red diamond shaped outline (like a warning sign) with a picture of a surveillance camera in the middle." class="sd-card-img-top" src="_images/privacy.png" />
+<div class="sd-card-body docutils">
+<div class="sd-card-title sd-font-weight-bold docutils">
+Risk to Privacy</div>
+<p class="sd-card-text">This technology may risk the privacy of individuals whose data is processed by it.</p>
+</div>
+<a class="sd-stretched-link sd-hide-link-text reference internal" href="hazards/risk-to-privacy.html"><span class="doc">Hazard: Risk To Privacy</span></a></div>
+</div>
+</div>
+</div>
+<section id="future-development">
+<h2>Future development<a class="headerlink" href="#future-development" title="Link to this heading">#</a></h2>
+<p>Suggestions for future versions of the Data Hazard labels are curated as GitHub Issues. <a class="reference external" href="https://github.com/very-good-science/data-hazards/labels/hazard-label-idea">Click here to see the current suggestions.</a></p>
+</section>
+<section id="change-log">
+<h2>Change log<a class="headerlink" href="#change-log" title="Link to this heading">#</a></h2>
+<p>The change log records when changes that have been made to the project and gives a brief description of what the changes were.
+The change log started in March 2022.
+The most recent changes should be at the top of the list.</p>
+<!-- Example change log entry
+
+## DD-MM-YYYY: <10 words to summarise change
+More detailed paragraph (~100 words is more than enough!) that describes the changes in more detail and their impact.  
+[Your name](link to your github profile) -->
+<p><strong>29.05.2024: Put labels in alphabetical order</strong>
+<a class="reference external" href="https://github.com/ninadicara">&#64;ninadicara</a></p>
+<p><strong>06.12.2022: Update new Hazard labels</strong>
+<a class="reference external" href="https://github.com/ninadicara">&#64;ninadicara</a><br />
+Updated all the images of the Hazards with our new labels designed by the amazing <a class="reference external" href="http://yasmindwiputri.com/">Yasmin Dwiputri</a>!</p>
+<p><strong>07.03.2022: Move Data Hazards to individual pages</strong>
+<a class="reference external" href="https://github.com/ninadicara">&#64;ninadicara</a><br />
+Moved all of the Hazards to their own individual pages, and linked them from the original sphinx panels.
+Also capitalised all of the names so that they are consistently named.
+This should make it easier for people to contribute to a single Hazard and record their contribution against it :)</p>
+</section>
+</section>
 
 
                 </article>
+              
+              
               
               
               
@@ -418,17 +590,22 @@ document.write(`
               
                 <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
+
   <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> On this page
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="simple visible nav section-nav flex-column">
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#future-development">Future development</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#change-log">Change log</a></li>
 </ul>
-
   </nav></div>
 
   <div class="sidebar-secondary-item">
+
   
   <div class="tocsection editthispage">
     <a href="https://github.com/very-good-science/data-hazards/edit/main/site/labels.md">
@@ -444,6 +621,7 @@ document.write(`
 </div>
 
   <div class="sidebar-secondary-item">
+
   <div class="tocsection sourcelink">
     <a href="_sources/labels.md.txt">
       <i class="fa-solid fa-file-lines"></i> Show Source
@@ -464,19 +642,28 @@ document.write(`
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script src="_static/scripts/bootstrap.js?digest=3ee479438cf8b5e0d341"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=3ee479438cf8b5e0d341"></script>
 
   <footer class="bd-footer">
 <div class="bd-footer__inner bd-page-width">
   
     <div class="footer-items__start">
       
-        <div class="footer-item">License: <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a></div>
+        <div class="footer-item">
+
+  <p class="copyright">
+    
+      © Copyright 2024, Natalie Zelenka and Nina Di Cara.
+      <br/>
+    
+  </p>
+</div>
       
         <div class="footer-item">
+
   <p class="sphinx-version">
-    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 4.5.0.
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 7.3.7.
     <br/>
   </p>
 </div>
@@ -484,10 +671,12 @@ document.write(`
     </div>
   
   
+  
     <div class="footer-items__end">
       
-        <div class="footer-item"><p class="theme-version">
-  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.13.3.
+        <div class="footer-item">
+<p class="theme-version">
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.15.3.
 </p></div>
       
     </div>
