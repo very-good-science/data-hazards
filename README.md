@@ -1,7 +1,7 @@
 # Data Hazards Project
 [![DOI](https://zenodo.org/badge/346286403.svg)](https://zenodo.org/badge/latestdoi/346286403)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -94,6 +94,7 @@ If you'd like to join us as a contributor, check out our [contributor's guide](h
       <td align="center" valign="top" width="14.28%"><a href="https://www.nicolaromano.net/"><img src="https://avatars.githubusercontent.com/u/208254?v=4?s=100" width="100px;" alt="Nicola Romanò"/><br /><sub><b>Nicola Romanò</b></sub></a><br /><a href="#research-nicolaromano" title="Research">🔬</a> <a href="#ideas-nicolaromano" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/doctoral-students/leo-gorman"><img src="https://avatars.githubusercontent.com/u/55786252?v=4?s=100" width="100px;" alt="Léo Gorman"/><br /><sub><b>Léo Gorman</b></sub></a><br /><a href="#talk-l-gorman" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/bengcooper"><img src="https://avatars.githubusercontent.com/u/3008392?v=4?s=100" width="100px;" alt="Ben Cooper"/><br /><sub><b>Ben Cooper</b></sub></a><br /><a href="#promotion-bengcooper" title="Promotion">📣</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=bengcooper" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JennyBunn"><img src="https://avatars.githubusercontent.com/u/29119194?v=4?s=100" width="100px;" alt="JennyBunn"/><br /><sub><b>JennyBunn</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=JennyBunn" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>

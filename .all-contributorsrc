@@ -414,6 +414,15 @@
         "promotion",
         "code"
       ]
+    },
+    {
+      "login": "JennyBunn",
+      "name": "JennyBunn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29119194?v=4",
+      "profile": "https://github.com/JennyBunn",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
