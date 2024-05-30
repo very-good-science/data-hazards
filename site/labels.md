@@ -5,6 +5,8 @@ __Version 1.0__
 On this page you can see an overview of the current Data Hazards with short descriptions. Click on each for their full information.
 We welcome you to suggest changes, so please check our [contribution guidelines](contribute) if you would like to or scroll down for current suggestions below.
 
+You can [download a printable set of Data Hazards cards here](_static/DataHazards_PrintableCards.pdf). 
+
 Each individual Data Hazard page contains: 
 - A __title__, __description__ and __icon__ to describe the Hazard.
 - __Examples__ to clarify what the hazard covers.
