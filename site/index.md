@@ -11,7 +11,7 @@ Data scientists are great at selling our work, for example communicating the gai
 The ethical implications go beyond most ethics Institutional Review Boards, to questions about the wider societal impact of data science and algorithms work.
 
 ```{admonition} Project Aims
-1. Create a __community-driven open-source vocabulary__ of ethical hazards for data-intensive research and development, in the form of [Data Hazard labels](contents/labels).
+1. Create a __community-driven open-source vocabulary__ of ethical hazards for data-intensive research and development, in the form of [Data Hazard labels](labels).
 2. Make ethical and future-thinking __more accessible__ to data scientists, computer scientists and applied mathematicians to apply to their own work.
 3. Enable bringing together and respecting __diverse and interdisciplinary viewpoints__ to this work, and produce resources to do this.
 4. Find out in what circumstances, and for who, these resources work best.
