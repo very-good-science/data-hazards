@@ -373,7 +373,8 @@
       "profile": "http://dynamicgenetics.org/",
       "contributions": [
         "talk",
-        "promotion"
+        "promotion",
+        "bug"
       ]
     },
     {
@@ -431,5 +432,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
