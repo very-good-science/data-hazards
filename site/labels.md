@@ -1,17 +1,15 @@
 # Data Hazard labels
 
-__Version 1.0__
-
 On this page you can see an overview of the current Data Hazards with short descriptions. Click on each for their full information.
+Sub-headings also present Hazards which serve as 'expansion packs' for those using Data Hazards in specific fields. 
 We welcome you to suggest changes, so please check our [contribution guidelines](contribute) if you would like to or scroll down for current suggestions below.
 
-You can [download a printable set of Data Hazards cards here](_static/DataHazards_PrintableCards.pdf). 
+You can [download a printable set of the core Data Hazards cards here](_static/DataHazards_PrintableCards.pdf). 
 
 Each individual Data Hazard page contains: 
 - A __title__, __description__ and __icon__ to describe the Hazard.
 - __Examples__ to clarify what the hazard covers.
 - __Safety Precautions__ as suggestions of how Hazards could be mitigated.
-
 
 :::{dropdown} Why are the Hazard Labels designed this way?
 :color: success
@@ -24,6 +22,8 @@ We made this choice because we want a similar response from people:
 2. We're asking people to __"handle with care"__, not to stop doing the work. We still use chemicals, but we think about how it can be done safely and how to avoid emergencies.
 3. They are familiar, especially to scientists, who (within universities) tend to have the least experience of applying ethics.
 :::
+
+## Version 1.1
 
 <!--FYI The numbers after {grid} below refer to the number of columns that should display for xmall (1), small (2), med (3) and large screens (3) -->
 
@@ -132,6 +132,63 @@ This technology may risk the privacy of individuals whose data is processed by i
 
 :::::
 
+### Extensions for Synthetic Biology
+
+[Read the accompanying paper here.](https://doi.org/10.1093/synbio/ysae010) 
+
+<!--FYI The numbers after {grid} below refer to the number of columns that should display for xmall (1), small (2), med (3) and large screens (3) -->
+
+:::::{grid} 1 2 3 3
+:margin: 4 4 0 0
+:gutter: 2
+
+::::{grid-item-card} Uncertain Accuracy of Source Data
+:img-top: images/hazards/uncertain-accuracy.png
+:img-alt: A red diamond shaped outline (like a warning sign) with a target symbol in the middle.
+:link: /hazards/uncertain-accuracy
+:link-type: doc
+
+The accuracy of the underlying data is not known and so its use may lead to erroneous results or introduce bias.
+::::
+
+::::{grid-item-card} Uncertain Completeness of Source Data
+:img-top: /images/hazards/uncertain-completeness.png
+:img-alt: A red diamond shaped outline (like a warning sign) containing three puzzle pieces that are not connected together.
+:link: hazards/uncertain-completeness
+:link-type: doc
+
+Underlying data is of an uncertain completeness and have missing values that causes biased results.
+::::
+
+::::{grid-item-card} Integration of Incompatible Data
+:img-top: /images/hazards/incompatible-data.png
+:img-alt: A red diamond shaped outline (like a warning sign) containing two arrows coming in from different directions that point to an exclamation mark.
+:link: hazards/incompatible-data
+:link-type: doc
+
+Data of different types and/or sources are being used together that may not be compatible with each other.
+::::
+
+::::{grid-item-card} Capable of Ecological Harm
+:img-top: /images/hazards/ecological-harm.png
+:img-alt: A red diamond shaped outline (like a warning sign) with a dead fish in a stream next a bare tree.
+:link: hazards/ecological-harm
+:link-type: doc
+
+This technology has the potential to cause broad ecological harm, even if used correctly.
+[Image adapted from the [Health and Safety Executive](https://www.hse.gov.uk/chemical-classification/labelling-packaging/hazard-symbols-hazard-pictograms.htm) under the [Open Government License 3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)]
+::::
+
+::::{grid-item-card} Potential Experimental Hazard
+:img-top: /images/hazards/experimental-hazard.png
+:img-alt: A red diamond shaped outline (like a warning sign) with a flask containing an exclamation mark.
+:link: hazards/experimental-hazard
+:link-type: doc
+
+Translating technology into experimental practice can require safety precautions.
+::::
+
+:::::
 
 ## Future development
 
@@ -142,13 +199,17 @@ Suggestions for future versions of the Data Hazard labels are curated as GitHub 
 
 The change log records when changes that have been made to the project and gives a brief description of what the changes were. 
 The change log started in March 2022. 
-The most recent changes should be at the top of the list. 
+The most recent changes are at the top of the list. 
 
 <!-- Example change log entry
 
 ## DD-MM-YYYY: <10 words to summarise change
 More detailed paragraph (~100 words is more than enough!) that describes the changes in more detail and their impact.  
 [Your name](link to your github profile) -->
+
+__21.06.2024: v1.1 - Add Synthetic Biology Hazard labels__
+Changes made by [@ninadicara](https://github.com/ninadicara) to reflect new additions formally proposed by
+authors of [the paper in Synthetic Biology](https://doi.org/10.1093/synbio/ysae010).
 
 __29.05.2024: Put labels in alphabetical order__
 [@ninadicara](https://github.com/ninadicara)  
