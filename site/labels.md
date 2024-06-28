@@ -134,7 +134,7 @@ This technology may risk the privacy of individuals whose data is processed by i
 
 ### Extensions for Synthetic Biology
 
-[Read the accompanying paper here.](https://doi.org/10.1093/synbio/ysae010) 
+[Zelenka, Natalie R., et al. "Data hazards in synthetic biology." _Synthetic Biology_ (2024): ysae010.](https://doi.org/10.1093/synbio/ysae010) 
 
 <!--FYI The numbers after {grid} below refer to the number of columns that should display for xmall (1), small (2), med (3) and large screens (3) -->
 
