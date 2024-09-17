@@ -11,7 +11,7 @@ This applies when technology is being produced without input from the community 
 
 ## Examples
 
-__Example 1:__ Research into cures for Autism generally ([which are not wanted by Austistic people](https://www.theguardian.com/commentisfree/2009/jan/14/autism-health)).
+__Example 1:__ Research into cures for Autism generally ([which are not wanted by Autistic people](https://www.theguardian.com/commentisfree/2009/jan/14/autism-health)).
 
 __Example 2:__ Samaritan's Radar app highlighted people who may be struggling to cope on Twitter, and was [withdrawn following wide criticism](https://www.samaritans.org/about-samaritans/research-policy/internet-suicide/samaritans-radar/). 
 
