@@ -34,7 +34,7 @@ The below Do-s and Don’t-s are guidelines to remind us all of best standards o
 If you have been subject to or witnessed unacceptable behaviour, either during a meeting or on this repository, then you can get in touch with either Natalie or Nina.  
 Natalie: n.zelenka@ucl.ac.uk  
 Nina: nina.dicara@bristol.ac.uk  
-If you would prefer to contact someone who is not directly involved in organising the group, then you can direct your concerns to John Newby ([JGI Manager](http://www.bristol.ac.uk/golding/people/team/)), at [John.Newby@bristol.ac.uk](mailto:John.Newby@bristol.ac.uk)
+If you would prefer to contact someone who is not directly involved in organising the group, then you can direct your concerns to the [Jean Golding Institute Manager](http://www.bristol.ac.uk/golding/people/team/)) at [JGI-manager@bristol.ac.uk](mailto:JGI-manager@bristol.ac.uk).
 
 ## Response process
 Once an incident has been reported, we will respond as quickly as possible, according to the following guidelines:
