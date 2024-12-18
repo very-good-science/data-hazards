@@ -59,6 +59,7 @@ Please also note that people have also anonymously contributed ideas and resourc
       <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/doctoral-students/leo-gorman"><img src="https://avatars.githubusercontent.com/u/55786252?v=4?s=100" width="100px;" alt="Léo Gorman"/><br /><sub><b>Léo Gorman</b></sub></a><br /><a href="#talk-l-gorman" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/bengcooper"><img src="https://avatars.githubusercontent.com/u/3008392?v=4?s=100" width="100px;" alt="Ben Cooper"/><br /><sub><b>Ben Cooper</b></sub></a><br /><a href="#promotion-bengcooper" title="Promotion">📣</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=bengcooper" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JennyBunn"><img src="https://avatars.githubusercontent.com/u/29119194?v=4?s=100" width="100px;" alt="JennyBunn"/><br /><sub><b>JennyBunn</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=JennyBunn" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/WillGChapman"><img src="https://avatars.githubusercontent.com/u/52829550?v=4?s=100" width="100px;" alt="WillGChapman"/><br /><sub><b>WillGChapman</b></sub></a><br /><a href="#talk-WillGChapman" title="Talks">📢</a> <a href="#promotion-WillGChapman" title="Promotion">📣</a></td>
     </tr>
   </tbody>
 </table>

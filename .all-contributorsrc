@@ -425,6 +425,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "WillGChapman",
+      "name": "WillGChapman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52829550?v=4",
+      "profile": "https://github.com/WillGChapman",
+      "contributions": [
+        "talk",
+        "promotion"
+      ]
     }
   ],
   "contributorsPerLine": 7,
