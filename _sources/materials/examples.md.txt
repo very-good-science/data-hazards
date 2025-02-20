@@ -21,6 +21,20 @@ All examples here are shared with permission.
 >
 >I'm planning to use this again next year as it went really well, especially for a topic which can be tricky for people to get started on.
 
+[Huw Day](https://www.linkedin.com/in/huw-day/) used the Data Hazards to teach MSc students in Scientific Computing and Education at the University of Bristol about data ethics.
+
+>I found them a great way to get students to articulate their feelings about potentially ethically dubious or questionable applications of data science and AI.
+>
+>We're integrating the Data Hazards into the Scientific Computing MSc students summer projects project design, inviting the students to critically evaluate their projects before and during their project work.
+
+[Roberta Bernardi](https://research-information.bris.ac.uk/en/persons/roberta-bernardi) used the Data Hazards to teach Business students at the University of Bristol about data ethics.
+
+>I adopted the Data Hazards labels in one of my lectorials on Business Analytics and Responsible Innovation. I asked students to propose an app to improve credit access for people without a bank account or credit history.
+>
+>The Data Hazards labels helped students reflect on potential ethical issues related to their proposed app and suggest changes to their original app concept or adoption strategies to mitigate these concerns.
+>
+>I will certainly use them again in the future!
+
 ## ALSPAC Data Protection Impact Assessment (DPIA) forms
 
 The [Avon Longitudinal Study of Parents And Children (ALSPAC)](https://www.bristol.ac.uk/alspac/), also known as the Children of the 90s project, is a longitudinal cohort study that follows children who are born in the South West of England between 1991-1992. Pioneered by Professor Jean Golding (OBE), the data for ALSPAC which is hosted at the University of Bristol is a resource of health, social and lifestyle data that has generated more than 3000 peer-reviewed research papers and is used by researchers all over the world. 
