@@ -67,7 +67,7 @@ We hope that the Data Hazards discussion and reflective activities will help res
 
 ## Acknowledgements
 
-The Data Hazards project receives continued support from the Jean Golding Institute at the University of Bristol.
+The Data Hazards project receives continued support from the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the University of Bristol.
 
 ## Contact 
 
