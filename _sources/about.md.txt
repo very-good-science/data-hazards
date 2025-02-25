@@ -65,6 +65,9 @@ They are not a checkbox exercise, and there is no requirement for a group to com
 In an individual context you will likely come to a conclusion, but someone else may have a different view.
 We hope that the Data Hazards discussion and reflective activities will help researchers be aware of a broader variety of potential ethical risks in tech projects, and that ethics is complex, situational and worth discussing.
 
+## Acknowledgements
+
+The Data Hazards project receives continued support from the Jean Golding Institute at the University of Bristol.
 
 ## Contact 
 
@@ -83,9 +86,6 @@ We're always keen to hear from people interested in the project, or wanting to g
 * - GitHub: [@ninadicara](https://github.com/ninadicara)
   - GitHub: [@NatalieZelenka](https://github.com/NatalieZelenka)
   - GitHub: [@HuwWDay](https://github.com/HuwWDay)
-* - Twitter/X: [@ninadicara](https://twitter.com/ninadicara)
-  - Twitter/X: [@NatZelenka](https://twitter.com/NatZelenka)
-  - Twitter/X: [@disco_huw](https://twitter.com/disco_huw)
 * - Email: [nina.dicara@bristol.ac.uk](mailto:nina.dicara@bristol.ac.uk)
   - Email: [n.zelenka@ucl.ac.uk](mailto:n.zelenka@ucl.ac.uk)
   - Email: [huw.day@bristol.ac.uk](mailto:huw.day@bristol.ac.uk)
