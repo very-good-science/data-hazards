@@ -71,8 +71,7 @@ The Data Hazards project receives continued support from the Jean Golding Instit
 
 ## Contact 
 
-The Data Hazards Project was founded by Dr Natalie Zelenka and Dr Nina Di Cara, and is now co-led by Natalie, Nina and Dr Huw Day. Our details are provided below.  
-We're always keen to hear from people interested in the project, or wanting to get involved. Feel free to send us both an email, or you can find us on Twitter!
+The Data Hazards Project was founded by Dr Natalie Zelenka [@NatalieZelenka](https://github.com/NatalieZelenka) and Dr Nina Di Cara [@ninadicara](https://github.com/ninadicara), and is now co-led by Natalie, Nina, Dr Huw Day [@HuwWDay](https://github.com/HuwWDay) and Dr Will Chapman [@WillGChapman](https://github.com/WillGChapman). Our details are provided below. We're always keen to hear from people interested in the project, or wanting to get involved! 
 
 ```{list-table}
 :header-rows: 1
