@@ -71,24 +71,10 @@ The Data Hazards project receives continued support from the [Jean Golding Insti
 
 ## Contact 
 
-The Data Hazards Project was founded by Dr Natalie Zelenka [@NatalieZelenka](https://github.com/NatalieZelenka) and Dr Nina Di Cara [@ninadicara](https://github.com/ninadicara), and is now co-led by Natalie, Nina, Dr Huw Day [@HuwWDay](https://github.com/HuwWDay) and Dr Will Chapman [@WillGChapman](https://github.com/WillGChapman). Our details are provided below. We're always keen to hear from people interested in the project, or wanting to get involved! 
+The Data Hazards Project was founded by Dr Natalie Zelenka [@NatalieZelenka](https://github.com/NatalieZelenka) and Dr Nina Di Cara [@ninadicara](https://github.com/ninadicara), and is now co-led by Dr Huw Day [@HuwWDay](https://github.com/HuwWDay) and Dr Will Chapman [@WillGChapman](https://github.com/WillGChapman), Natalie and Nina. 
 
-```{list-table}
-:header-rows: 1
+Huw and Will both work at the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the University of Bristol and are interested in hearing from (primarily Bristol based) collaborators. Will (will.chapman@bristol.ac.uk) is the person to talk to about applying and using the Data Hazards labels in research. Huw (huw.day@bristol.ac.uk) is the person to talk to about applying and using the Data Hazards in teaching (e.g. getting students to consider the ethical implications of data science applications using the hazards labels as a framework). Nina (nina.dicara@bristol.ac.uk) now works in industry but remains an honorary researcher at the University of Bristol and is happy to chat with people interested in extending the Data Hazards into new application areas or giving advice on future research using them.
 
-* - __Nina Di Cara__
-  - __Natalie Zelenka__
-  - __Huw Day__
-* - Senior Research Associate, School of Psychological Science, University of Bristol
-  - Senior Research Fellow in Health Data Science, Institute of Health Informatics, University College London
-  - Data Scientist, Jean Golding Institute, University of Bristol
-* - GitHub: [@ninadicara](https://github.com/ninadicara)
-  - GitHub: [@NatalieZelenka](https://github.com/NatalieZelenka)
-  - GitHub: [@HuwWDay](https://github.com/HuwWDay)
-* - Email: [nina.dicara@bristol.ac.uk](mailto:nina.dicara@bristol.ac.uk)
-  - Email: [n.zelenka@ucl.ac.uk](mailto:n.zelenka@ucl.ac.uk)
-  - Email: [huw.day@bristol.ac.uk](mailto:huw.day@bristol.ac.uk)
-```
 <!--
 (project-timeline)=
 ## Project timeline
