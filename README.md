@@ -24,13 +24,9 @@ We really welcome people re-using the materials we have made! This repository is
 If you'd like to work with us to use these materials in a new context, please do [get in touch][dec-email].
 
 ## Contact us
-To hear more about the project or collaborate with us contact us via [email][dec-email].
+The Data Hazards Project was founded by Dr Natalie Zelenka and Dr Nina Di Cara, and is now co-led by Dr Huw Day, Dr Will Chapman, Natalie, and Nina. We’re always keen to hear from people interested in the project, or wanting to get involved!
 
-This project is being jointly led by:
-- Natalie Zelenka ([twitter][natalie-twitter], [email][natalie-email])
-- Nina Di Cara ([twitter][nina-twitter], [email][nina-email])
-
-You could consider this project a spin-off of [Data Ethics Club][data-ethics-club].
+Huw and Will both work at the Jean Golding Institute at the University of Bristol are interested in hearing from (primarily Bristol based) collaborators. Will (will.chapman@bristol.ac.uk) is the person to talk to about applying and using the Data Hazards labels in research. Huw (huw.day@bristol.ac.uk) is the person to talk to about applying and using the Data Hazards in teaching (e.g. getting students to consider the ethical implications of data science applications using the hazards labels as a framework). Nina (nina.dicara@bristol.ac.uk) now works in industry but remains an honorary researcher at the University of Bristol and is happy to chat with people interested in extending the Data Hazards into new application areas or giving advice on future research using them.
 
 ## Contributors
 [//]: # (TODO: Add custom emoji key)

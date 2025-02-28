@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Data Hazards"
-copyright = "2024, Natalie Zelenka and Nina Di Cara"
+copyright = "Data Hazards Contributors"
 author = "Natalie Zelenka and Nina Di Cara"
 
 # The full version, including alpha/beta/rc tags
