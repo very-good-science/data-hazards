@@ -15,7 +15,7 @@ To see why, we can think about what happens when the ranking/classification is i
 
 __Example 1:__ [Facial recognition categorising human images by sexual orientation](https://www.bbc.co.uk/news/technology-41188560). 
 
-__Example 2:__ [School league tables](https://www.bristol.ac.uk/media-library/sites/cmm/migrated/documents/limitations-of-league-tables.pdf) (which rank the perfmance of schools).
+__Example 2:__ [School league tables](https://www.bristol.ac.uk/media-library/sites/cmm/migrated/documents/limitations-of-league-tables.pdf) (which rank the performance of schools).
 
 ## Safety Precautions
 
