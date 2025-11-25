@@ -78,6 +78,7 @@ Our brilliant contributors are listed here, and you can [read more detail about 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/bengcooper"><img src="https://avatars.githubusercontent.com/u/3008392?v=4?s=100" width="100px;" alt="Ben Cooper"/><br /><sub><b>Ben Cooper</b></sub></a><br /><a href="#promotion-bengcooper" title="Promotion">📣</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=bengcooper" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JennyBunn"><img src="https://avatars.githubusercontent.com/u/29119194?v=4?s=100" width="100px;" alt="JennyBunn"/><br /><sub><b>JennyBunn</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=JennyBunn" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/WillGChapman"><img src="https://avatars.githubusercontent.com/u/52829550?v=4?s=100" width="100px;" alt="WillGChapman"/><br /><sub><b>WillGChapman</b></sub></a><br /><a href="#talk-WillGChapman" title="Talks">📢</a> <a href="#promotion-WillGChapman" title="Promotion">📣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://dschnitzler.co.uk/"><img src="https://avatars.githubusercontent.com/u/70375932?v=4?s=100" width="100px;" alt="Danny"/><br /><sub><b>Danny</b></sub></a><br /><a href="#tool-dschnitzler14" title="Tools">🔧</a></td>
     </tr>
   </tbody>
 </table>
