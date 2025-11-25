@@ -1,7 +1,7 @@
 # Data Hazards Project
 [![DOI](https://zenodo.org/badge/346286403.svg)](https://zenodo.org/badge/latestdoi/346286403)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -92,6 +92,7 @@ If you'd like to join us as a contributor, check out our [contributor's guide](h
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/bengcooper"><img src="https://avatars.githubusercontent.com/u/3008392?v=4?s=100" width="100px;" alt="Ben Cooper"/><br /><sub><b>Ben Cooper</b></sub></a><br /><a href="#promotion-bengcooper" title="Promotion">📣</a> <a href="https://github.com/very-good-science/data-hazards/commits?author=bengcooper" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JennyBunn"><img src="https://avatars.githubusercontent.com/u/29119194?v=4?s=100" width="100px;" alt="JennyBunn"/><br /><sub><b>JennyBunn</b></sub></a><br /><a href="https://github.com/very-good-science/data-hazards/commits?author=JennyBunn" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/WillGChapman"><img src="https://avatars.githubusercontent.com/u/52829550?v=4?s=100" width="100px;" alt="WillGChapman"/><br /><sub><b>WillGChapman</b></sub></a><br /><a href="#talk-WillGChapman" title="Talks">📢</a> <a href="#promotion-WillGChapman" title="Promotion">📣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://dschnitzler.co.uk/"><img src="https://avatars.githubusercontent.com/u/70375932?v=4?s=100" width="100px;" alt="Danny"/><br /><sub><b>Danny</b></sub></a><br /><a href="#tool-dschnitzler14" title="Tools">🔧</a></td>
     </tr>
   </tbody>
 </table>
