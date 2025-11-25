@@ -435,6 +435,15 @@
         "talk",
         "promotion"
       ]
+    },
+    {
+      "login": "dschnitzler14",
+      "name": "Danny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70375932?v=4",
+      "profile": "https://dschnitzler.co.uk/",
+      "contributions": [
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 7,
