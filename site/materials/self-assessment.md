@@ -9,3 +9,5 @@ A template for self assessment is available as:
 - [A Word template](https://very-good-science.github.io/data-hazards/_static/data_hazards_template.docx)
 
 For example of how this might look checkout the [Examples](examples) page!
+
+You can also take a look at this [web app](https://ds1405.shinyapps.io/data_hazards/), which allows you to select your project's hazards.
